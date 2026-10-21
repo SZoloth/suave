@@ -1,0 +1,470 @@
+{
+ "CheeseBox_01": {
+  "kind": "one",
+  "why": "It depicts a single wooden cheese box with its lid lifted to show the interior."
+ },
+ "CoffeeCart_01": {
+  "kind": "distinct",
+  "why": "The image features multiple distinct objects arranged together, including a rolling cart, a coffee maker, carafes, coffee cans, mugs, and a wash basin."
+ },
+ "anthurium_botany_01": {
+  "kind": "distinct",
+  "why": "The image showcases several distinct plant variations included in the asset pack."
+ },
+ "bananas": {
+  "kind": "distinct",
+  "why": "The image showcases multiple distinct individual banana models with varying shapes and a banana bunch."
+ },
+ "bark_debris_01": {
+  "kind": "distinct",
+  "why": "The image displays four separate, distinct pieces of bark debris."
+ },
+ "binder_notebook": {
+  "kind": "same_object",
+  "why": "The image shows the same binder notebook model displayed in both open and closed positions."
+ },
+ "bolt_action_rifle_7_62": {
+  "kind": "distinct",
+  "why": "The image displays a bolt action rifle alongside a separate bullet cartridge, similar to a cannon with cannonballs."
+ },
+ "book_encyclopedia_set_01": {
+  "kind": "distinct",
+  "why": "The image shows a complete set of individual encyclopedia volumes lined up together."
+ },
+ "brass_candleholders": {
+  "kind": "distinct",
+  "why": "The image displays three different models of brass candleholders varying in size, shape, and number of candle branches."
+ },
+ "brass_goblets": {
+  "kind": "distinct",
+  "why": "The image displays three different brass goblets with distinct decorative patterns, stem shapes, and base engravings."
+ },
+ "bunsen_burner": {
+  "kind": "distinct",
+  "why": "The image features two distinct laboratory items: a Bunsen burner and a tripod stand."
+ },
+ "calathea_orbifolia_01": {
+  "kind": "distinct",
+  "why": "The image shows multiple distinct 3D models representing different variations and sizes of the Calathea Orbifolia plant."
+ },
+ "cannon_01": {
+  "kind": "distinct",
+  "why": "The image shows a cannon along with separate cannonballs."
+ },
+ "cheiridopsis_succulent": {
+  "kind": "distinct",
+  "why": "The image features a collection of multiple distinct succulent plant variations of different sizes and shapes."
+ },
+ "chemistry_set": {
+  "kind": "distinct",
+  "why": "The image displays a chemistry set composed of multiple distinct laboratory objects, including various bottles, test tubes, racks, stands, and beakers."
+ },
+ "chess_set": {
+  "kind": "distinct",
+  "why": "The image features a chess set comprising a chessboard and multiple individual chess pieces."
+ },
+ "chinese_screen_panels": {
+  "kind": "one",
+  "why": "It shows a single two-panel hinged Chinese folding screen."
+ },
+ "cigarette_case": {
+  "kind": "same_object",
+  "why": "The image shows the same cigarette case shown both closed and opened."
+ },
+ "coast_land_rocks_03": {
+  "kind": "distinct",
+  "why": "The asset displays a cluster or pile of multiple rocks on ground terrain."
+ },
+ "coast_rocks_03": {
+  "kind": "distinct",
+  "why": "It depicts a pile and collection of multiple rocks across a patch of terrain, fitting the definition of distinct objects."
+ },
+ "coast_rocks_05": {
+  "kind": "one",
+  "why": "The image shows a single rock formation asset presented once from one angle."
+ },
+ "compost_bags": {
+  "kind": "distinct",
+  "why": "The image displays multiple compost bags in different poses and arrangements as part of a collection."
+ },
+ "crystalline_iceplant": {
+  "kind": "distinct",
+  "why": "The image shows multiple distinct small plant clusters scattered as a collection."
+ },
+ "dandelion_01": {
+  "kind": "distinct",
+  "why": "The image shows multiple separate dandelion plant models with different structures and stages of growth."
+ },
+ "decorative_book_set_01": {
+  "kind": "distinct",
+  "why": "The asset is a set containing numerous distinct books lined up in a row."
+ },
+ "didelta_spinosa": {
+  "kind": "distinct",
+  "why": "The image displays three different plant variations of varying sizes shown side by side."
+ },
+ "dry_branches_medium_01": {
+  "kind": "distinct",
+  "why": "The image displays three different branches with distinct shapes and structures."
+ },
+ "dry_quiver_leaf": {
+  "kind": "distinct",
+  "why": "The image displays two different variations of a dried quiver leaf side by side."
+ },
+ "exterior_aircon_unit": {
+  "kind": "same_object",
+  "why": "The image shows the same air conditioning unit model displayed in two different texture finishes: clean and weathered/rusty."
+ },
+ "fern_02": {
+  "kind": "distinct",
+  "why": "The image displays four distinct fern plants of varying sizes and shapes presented as a pack."
+ },
+ "filmstrip_projector_8mm": {
+  "kind": "distinct",
+  "why": "The image displays a filmstrip projector alongside detached power cables and plugs as separate items."
+ },
+ "fir_sapling": {
+  "kind": "distinct",
+  "why": "The image displays three different fir sapling models of varying sizes and branch structures."
+ },
+ "fir_sapling_medium": {
+  "kind": "distinct",
+  "why": "The image shows three different fir sapling models of varying sizes and branch structures."
+ },
+ "fir_tree_01": {
+  "kind": "distinct",
+  "why": "The image displays three different fir trees with distinct shapes, heights, and branch structures."
+ },
+ "fire_hydrant": {
+  "kind": "same_object",
+  "why": "The image shows the same fire hydrant 3D model displayed in two different wear and texture finishes (clean and weathered)."
+ },
+ "flower_empodium": {
+  "kind": "distinct",
+  "why": "The image displays multiple distinct variations or growth stages of the plant in a row."
+ },
+ "flower_gazania": {
+  "kind": "distinct",
+  "why": "The image displays multiple distinct variations and growth stages of Gazania plants."
+ },
+ "flower_heliophila": {
+  "kind": "distinct",
+  "why": "The image displays three different sizes/variations of the Heliophila flower model side by side."
+ },
+ "flower_stinkkruid": {
+  "kind": "distinct",
+  "why": "The image displays four different variations or growth stages of the stinkkruid plant side by side."
+ },
+ "flower_ursinia": {
+  "kind": "distinct",
+  "why": "The image shows multiple distinct variations of the Ursinia flower plant in different sizes and growth stages."
+ },
+ "food_pears_asian_01": {
+  "kind": "distinct",
+  "why": "The image displays a cluster of multiple distinct pears grouped together."
+ },
+ "football": {
+  "kind": "same_object",
+  "why": "The same worn soccer ball model is shown in two different states: deflated and inflated."
+ },
+ "garden_gloves_01": {
+  "kind": "distinct",
+  "why": "The image shows a pair of gardening gloves, which consists of two distinct objects together."
+ },
+ "hamburger_buns": {
+  "kind": "distinct",
+  "why": "The image showcases three different hamburger buns included together in an asset set."
+ },
+ "industrial_caged_sconce": {
+  "kind": "distinct",
+  "why": "The image displays a modular kit containing separate sconce components along with several different assembled sconce variations."
+ },
+ "large_iron_gate": {
+  "kind": "distinct",
+  "why": "The image displays a pair of matching gate doors that together form a double gate."
+ },
+ "leipoldtia_schultzei": {
+  "kind": "distinct",
+  "why": "The image shows three different model variations of the Leipoldtia Schultzei plant."
+ },
+ "long_life_food": {
+  "kind": "distinct",
+  "why": "The image shows four different food items: two cans, a milk carton, and a sardine tin."
+ },
+ "metal_trash_can": {
+  "kind": "same_object",
+  "why": "The image shows the same metal trash can model presented in two different texture and rust finishes."
+ },
+ "modular_airduct_circular_01": {
+  "kind": "distinct",
+  "why": "The image shows a collection of multiple different modular air duct components, including pipes, vents, fans, and connectors."
+ },
+ "modular_airduct_rectangular_01": {
+  "kind": "distinct",
+  "why": "The thumbnail displays a collection of several different modular air duct pieces."
+ },
+ "modular_chainlink_fence": {
+  "kind": "distinct",
+  "why": "The image showcases multiple different modular components of a chainlink fence system, including fence segments, gates, corners, and posts."
+ },
+ "modular_electric_cables": {
+  "kind": "distinct",
+  "why": "The image shows a collection of numerous distinct modular electric cable pieces, conduits, and junction boxes."
+ },
+ "modular_electricity_poles": {
+  "kind": "distinct",
+  "why": "The thumbnail displays a modular kit with multiple distinct assembled telephone poles and individual component parts."
+ },
+ "modular_factory_facade": {
+  "kind": "distinct",
+  "why": "The image shows a modular kit consisting of multiple distinct architectural facade pieces, windows, doors, and trim elements."
+ },
+ "modular_fire_escape": {
+  "kind": "distinct",
+  "why": "The image displays several distinct modular components of a fire escape system, including two different platform types, a staircase, and a vertical ladder."
+ },
+ "modular_fort_01": {
+  "kind": "distinct",
+  "why": "The image shows a modular collection of several different fort components, including towers, walls, gates, and stair sections."
+ },
+ "modular_industrial_pipes_01": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple distinct modular pipe pieces, such as elbows, T-junctions, valves, and straight segments."
+ },
+ "modular_metal_gutter": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple distinct modular gutter components, such as pipes, joints, brackets, and gutters."
+ },
+ "modular_pipes": {
+  "kind": "distinct",
+  "why": "The image displays a modular pipe kit containing many distinct pipe segments, joints, valves, and fittings."
+ },
+ "modular_pipes_plastic_01": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple distinct modular pipe components, including pipes, valves, and connectors."
+ },
+ "modular_street_seating": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple modular seating components and variations shown together."
+ },
+ "modular_urban_apartments_facade": {
+  "kind": "distinct",
+  "why": "It shows a collection of separate modular building facade pieces."
+ },
+ "modular_wooden_pier": {
+  "kind": "distinct",
+  "why": "The thumbnail displays modular components of a wooden pier set, including a connected walkway section and separate detached wooden posts."
+ },
+ "mounted_fluorescent_lights": {
+  "kind": "distinct",
+  "why": "The image shows a collection of multiple fluorescent light fixtures of varying lengths."
+ },
+ "namaqualand_boulder_02": {
+  "kind": "distinct",
+  "why": "The thumbnail shows a pile consisting of several different rocks grouped together."
+ },
+ "namaqualand_boulders_01": {
+  "kind": "distinct",
+  "why": "The image displays two different boulders with distinct shapes, textures, and structures."
+ },
+ "namaqualand_rocks_01": {
+  "kind": "distinct",
+  "why": "The image shows four different rocks with distinct shapes, textures, and colors."
+ },
+ "namaqualand_stones_01": {
+  "kind": "distinct",
+  "why": "The image shows a set of several distinct stones with different shapes and textures lined up together."
+ },
+ "nettle_plant": {
+  "kind": "distinct",
+  "why": "The image shows a collection of multiple distinct nettle plants at various sizes and stages of growth."
+ },
+ "office_notepads": {
+  "kind": "distinct",
+  "why": "The image displays a collection of multiple different types and sizes of office notepads and paper sheets."
+ },
+ "old_military_crate": {
+  "kind": "same_object",
+  "why": "The image shows the same military crate in both its closed and open states side by side."
+ },
+ "ornate_medieval_dagger": {
+  "kind": "distinct",
+  "why": "The image shows two separate items: a medieval dagger and its matching scabbard."
+ },
+ "othonna_cerarioides": {
+  "kind": "distinct",
+  "why": "The image shows multiple separate variations of the Othonna Cerarioides plant in different sizes and shapes."
+ },
+ "outdoor_table_chair_set_01": {
+  "kind": "distinct",
+  "why": "The image features an outdoor furniture set consisting of multiple distinct items: a table and two folding chairs."
+ },
+ "pachira_aquatica_01": {
+  "kind": "distinct",
+  "why": "The image displays four distinct models of Pachira Aquatica plants of varying sizes and structures."
+ },
+ "periwinkle_plant": {
+  "kind": "distinct",
+  "why": "The image displays six distinct periwinkle plant models of varying heights and growth stages."
+ },
+ "pine_roots": {
+  "kind": "distinct",
+  "why": "The image shows two different modular ground patches with distinct root shapes and layouts."
+ },
+ "pine_sapling_medium": {
+  "kind": "distinct",
+  "why": "The image shows three distinct variations of pine saplings of different heights and branch structures."
+ },
+ "pine_sapling_small": {
+  "kind": "distinct",
+  "why": "The image displays three different small pine sapling models with unique branch structures."
+ },
+ "pine_tree_01": {
+  "kind": "distinct",
+  "why": "The image displays three different pine tree models with distinct shapes, heights, and branch structures."
+ },
+ "portable_cassette_player": {
+  "kind": "distinct",
+  "why": "The image shows two distinct objects: a portable cassette player and an audio cassette tape."
+ },
+ "portable_welding_cart": {
+  "kind": "one",
+  "why": "The image shows a single assembled portable welding cart unit with attached cylinders and hoses."
+ },
+ "postcard_set_01": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple different postcards arranged together, each featuring a unique picture."
+ },
+ "rock_moss_set_01": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple different mossy rocks."
+ },
+ "rock_moss_set_02": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple different rocks with distinct shapes and sizes."
+ },
+ "rollershutter_door": {
+  "kind": "same_object",
+  "why": "The same roller shutter door model is shown in two different texture finishes: one plain and one with graffiti."
+ },
+ "rollershutter_window_01": {
+  "kind": "same_object",
+  "why": "The same roller shutter model is shown in two different texture finishes, one clean and one with graffiti."
+ },
+ "rollershutter_window_02": {
+  "kind": "same_object",
+  "why": "The thumbnail displays the same roller shutter window model shown in two different texture finishes (clean and graffiti)."
+ },
+ "rollershutter_window_03": {
+  "kind": "same_object",
+  "why": "The image shows the same roller shutter model in two different texture variations: clean and covered in graffiti."
+ },
+ "root_cluster_02": {
+  "kind": "distinct",
+  "why": "The image shows a set of several distinct terrain patches with roots."
+ },
+ "rubber_boots": {
+  "kind": "same_object",
+  "why": "The rubber boots are shown twice side by side to display different material finishes or viewing angles."
+ },
+ "russian_food_cans_01": {
+  "kind": "distinct",
+  "why": "The image shows three distinct grocery items: a can of sprats, a carton of salt, and a can of condensed milk."
+ },
+ "sand_rocks_small_01": {
+  "kind": "distinct",
+  "why": "The image features a scatter or pile of multiple rocks and stones across a patch of sand, which constitutes several distinct objects."
+ },
+ "screwdrivers_02": {
+  "kind": "distinct",
+  "why": "The image displays two different screwdrivers with different lengths and heads (Phillips and flathead)."
+ },
+ "searsia_burchellii": {
+  "kind": "distinct",
+  "why": "The image displays three different individual shrub models representing variations in size and shape."
+ },
+ "searsia_lucida": {
+  "kind": "distinct",
+  "why": "The image shows multiple distinct variations and sizes of Searsia Lucida bushes or small trees grouped together in a set."
+ },
+ "service_pistol": {
+  "kind": "same_object",
+  "why": "The image shows the same pistol model displayed in two different variations/finishes (wooden grip vs. blue taped grip) alongside accessories."
+ },
+ "shrub_01": {
+  "kind": "distinct",
+  "why": "The thumbnail showcases multiple different plant variations side by side."
+ },
+ "shrub_02": {
+  "kind": "distinct",
+  "why": "The image displays four distinct variations of a shrub model side-by-side."
+ },
+ "shrub_03": {
+  "kind": "distinct",
+  "why": "The image shows four different variations or models of shrubs/plants."
+ },
+ "shrub_04": {
+  "kind": "distinct",
+  "why": "The image displays four distinct shrub variations of different sizes and branching patterns."
+ },
+ "shrub_sorrel_01": {
+  "kind": "distinct",
+  "why": "The image displays several different 3D models of sorrel plants with varying sizes, leaf counts, and flowers."
+ },
+ "spray_paint_bottles": {
+  "kind": "distinct",
+  "why": "The image shows two different spray paint bottles with different colored caps and surface wear side by side."
+ },
+ "spray_paint_bottles_02": {
+  "kind": "distinct",
+  "why": "The image showcases two different spray paint can models: one straight with purple paint and one dented with orange paint."
+ },
+ "stationery_supplies": {
+  "kind": "distinct",
+  "why": "The image features multiple distinct stationery items including various pencils, pens, an eraser, and a cup."
+ },
+ "sungka_board_02": {
+  "kind": "distinct",
+  "why": "The asset contains a wooden sungka board along with multiple individual cowrie shells as playing pieces."
+ },
+ "tea_set_01": {
+  "kind": "distinct",
+  "why": "The image shows a set consisting of several distinct objects, including a teapot, sugar bowl, teacups, and saucers."
+ },
+ "throw_pillows_01": {
+  "kind": "distinct",
+  "why": "The image shows a pair of two throw pillows arranged together as a set."
+ },
+ "vintage_crutches_01": {
+  "kind": "distinct",
+  "why": "The image displays a pair of vintage crutches together."
+ },
+ "vintage_radio_transceiver": {
+  "kind": "distinct",
+  "why": "The image shows a set of multiple distinct equipment components, including a radio transceiver, an antenna, a microphone, and a telegraph key."
+ },
+ "vintage_stapler": {
+  "kind": "distinct",
+  "why": "The asset includes a stapler alongside a row of staples and a single staple, similar to a cannon with cannonballs."
+ },
+ "vintage_suitcase": {
+  "kind": "same_object",
+  "why": "The image shows the same vintage suitcase from the front with stickers and the back without stickers (or two texture variations)."
+ },
+ "weed_plant_02": {
+  "kind": "distinct",
+  "why": "The image displays multiple different weed plant variations."
+ },
+ "wild_rooibos_bush": {
+  "kind": "distinct",
+  "why": "The image shows five different variations of the bush asset representing different sizes and shapes."
+ },
+ "wine_bottles_01": {
+  "kind": "distinct",
+  "why": "The image features four different wine bottles with distinct shapes, colors, and labels."
+ },
+ "wooden_barrels_01": {
+  "kind": "distinct",
+  "why": "The image displays a set of multiple distinct 3D models, including intact barrels and various broken wooden pieces/debris."
+ }
+}

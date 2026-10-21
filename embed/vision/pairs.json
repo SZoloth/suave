@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "CoffeeCart_01",
+  "query": "a coffee cart",
+  "split": "dev"
+ },
+ {
+  "id": "CoffeeCart_01",
+  "query": "a coffee can",
+  "split": "dev"
+ },
+ {
+  "id": "CoffeeCart_01",
+  "query": "a coffee mug",
+  "split": "dev"
+ },
+ {
+  "id": "binder_notebook",
+  "query": "a binder notebook",
+  "split": "dev"
+ },
+ {
+  "id": "bolt_action_rifle_7_62",
+  "query": "a bolt action rifle",
+  "split": "dev"
+ },
+ {
+  "id": "book_encyclopedia_set_01",
+  "query": "an encyclopedia set",
+  "split": "dev"
+ },
+ {
+  "id": "book_encyclopedia_set_01",
+  "query": "a book",
+  "split": "dev"
+ },
+ {
+  "id": "bunsen_burner",
+  "query": "a bunsen burner",
+  "split": "dev"
+ },
+ {
+  "id": "calathea_orbifolia_01",
+  "query": "a calathea",
+  "split": "dev"
+ },
+ {
+  "id": "cannon_01",
+  "query": "a cannon",
+  "split": "dev"
+ },
+ {
+  "id": "cannon_01",
+  "query": "a cannonball",
+  "split": "dev"
+ },
+ {
+  "id": "celandine_01",
+  "query": "a celandine",
+  "split": "dev"
+ },
+ {
+  "id": "celandine_01",
+  "query": "a celandine plant",
+  "split": "dev"
+ },
+ {
+  "id": "chemistry_set",
+  "query": "a chemistry set",
+  "split": "dev"
+ },
+ {
+  "id": "chemistry_set",
+  "query": "a bottle",
+  "split": "dev"
+ },
+ {
+  "id": "chemistry_set",
+  "query": "a beaker",
+  "split": "dev"
+ },
+ {
+  "id": "chess_set",
+  "query": "a chess set",
+  "split": "dev"
+ },
+ {
+  "id": "chess_set",
+  "query": "a chess piece",
+  "split": "dev"
+ },
+ {
+  "id": "chinese_screen_panels",
+  "query": "a folding screen",
+  "split": "dev"
+ },
+ {
+  "id": "cigarette_case",
+  "query": "a cigarette case",
+  "split": "dev"
+ },
+ {
+  "id": "cigarette_case",
+  "query": "a cigarette",
+  "split": "dev"
+ },
+ {
+  "id": "coast_land_rocks_02",
+  "query": "a rocky ground",
+  "split": "dev"
+ },
+ {
+  "id": "coast_land_rocks_02",
+  "query": "a rock",
+  "split": "dev"
+ },
+ {
+  "id": "coast_land_rocks_04",
+  "query": "a ground patch",
+  "split": "dev"
+ },
+ {
+  "id": "coast_line_01",
+  "query": "a rocky coastline",
+  "split": "dev"
+ },
+ {
+  "id": "coast_line_02",
+  "query": "a rocky shoreline",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_01",
+  "query": "a coastal rock formation",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_02",
+  "query": "a rock formation",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_03",
+  "query": "a rock formation",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_03",
+  "query": "a rock",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_05",
+  "query": "a coastal rock",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_05",
+  "query": "a rock",
+  "split": "dev"
+ },
+ {
+  "id": "dandelion_01",
+  "query": "a dandelion",
+  "split": "dev"
+ },
+ {
+  "id": "didelta_spinosa",
+  "query": "a desert shrub",
+  "split": "dev"
+ },
+ {
+  "id": "dry_quiver_leaf",
+  "query": "a dried quiver leave",
+  "split": "dev"
+ },
+ {
+  "id": "dry_quiver_leaf",
+  "query": "a leaf",
+  "split": "dev"
+ },
+ {
+  "id": "exterior_aircon_unit",
+  "query": "an air conditioner unit",
+  "split": "dev"
+ },
+ {
+  "id": "filmstrip_projector_8mm",
+  "query": "a film projector",
+  "split": "dev"
+ },
+ {
+  "id": "fir_sapling_medium",
+  "query": "a fir sapling",
+  "split": "dev"
+ },
+ {
+  "id": "fire_hydrant",
+  "query": "a fire hydrant",
+  "split": "dev"
+ },
+ {
+  "id": "flower_stinkkruid",
+  "query": "a stinkkruid plant",
+  "split": "dev"
+ },
+ {
+  "id": "flower_stinkkruid",
+  "query": "a plant",
+  "split": "dev"
+ },
+ {
+  "id": "food_pears_asian_01",
+  "query": "an Asian pear",
+  "split": "dev"
+ },
+ {
+  "id": "garden_gloves_01",
+  "query": "a garden glove",
+  "split": "dev"
+ },
+ {
+  "id": "grass_bermuda_01",
+  "query": "a bermuda grass",
+  "split": "dev"
+ },
+ {
+  "id": "grass_bermuda_01",
+  "query": "a grass tuft",
+  "split": "dev"
+ },
+ {
+  "id": "industrial_caged_sconce",
+  "query": "a wall sconce",
+  "split": "dev"
+ },
+ {
+  "id": "korean_fire_extinguisher_01",
+  "query": "a fire extinguisher",
+  "split": "dev"
+ },
+ {
+  "id": "large_iron_gate",
+  "query": "an iron gate",
+  "split": "dev"
+ },
+ {
+  "id": "leipoldtia_schultzei",
+  "query": "a flowering succulent",
+  "split": "dev"
+ },
+ {
+  "id": "metal_trash_can",
+  "query": "a metal trash can",
+  "split": "dev"
+ },
+ {
+  "id": "modular_airduct_rectangular_01",
+  "query": "an air duct set",
+  "split": "dev"
+ },
+ {
+  "id": "modular_airduct_rectangular_01",
+  "query": "an air duct",
+  "split": "dev"
+ },
+ {
+  "id": "modular_airduct_rectangular_01",
+  "query": "a vent",
+  "split": "dev"
+ },
+ {
+  "id": "modular_chainlink_fence",
+  "query": "a chainlink fence kit",
+  "split": "dev"
+ },
+ {
+  "id": "modular_chainlink_fence",
+  "query": "a fence section",
+  "split": "dev"
+ },
+ {
+  "id": "modular_chainlink_fence",
+  "query": "a fence post",
+  "split": "dev"
+ },
+ {
+  "id": "modular_electric_cables",
+  "query": "a modular cable kit",
+  "split": "dev"
+ },
+ {
+  "id": "modular_electric_cables",
+  "query": "a cable segment",
+  "split": "dev"
+ },
+ {
+  "id": "modular_electric_cables",
+  "query": "a junction box",
+  "split": "dev"
+ },
+ {
+  "id": "modular_factory_facade",
+  "query": "a modular factory facade",
+  "split": "dev"
+ },
+ {
+  "id": "modular_factory_facade",
+  "query": "a wall panel",
+  "split": "dev"
+ },
+ {
+  "id": "modular_fire_escape",
+  "query": "a modular fire escape",
+  "split": "dev"
+ },
+ {
+  "id": "modular_fire_escape",
+  "query": "a fire escape platform",
+  "split": "dev"
+ },
+ {
+  "id": "modular_pipes_plastic_01",
+  "query": "a pipe kit",
+  "split": "dev"
+ },
+ {
+  "id": "modular_pipes_plastic_01",
+  "query": "a pipe fitting",
+  "split": "dev"
+ },
+ {
+  "id": "modular_pipes_plastic_01",
+  "query": "a valve",
+  "split": "dev"
+ },
+ {
+  "id": "modular_urban_apartments_facade",
+  "query": "a modular facade kit",
+  "split": "dev"
+ },
+ {
+  "id": "modular_urban_apartments_facade",
+  "query": "a facade piece",
+  "split": "dev"
+ },
+ {
+  "id": "modular_wooden_pier",
+  "query": "a wooden pier kit",
+  "split": "dev"
+ },
+ {
+  "id": "modular_wooden_pier",
+  "query": "a pier section",
+  "split": "dev"
+ },
+ {
+  "id": "modular_wooden_pier",
+  "query": "a wooden pole",
+  "split": "dev"
+ },
+ {
+  "id": "mountainside",
+  "query": "a cliff face",
+  "split": "dev"
+ },
+ {
+  "id": "mounted_fluorescent_lights",
+  "query": "a fluorescent light",
+  "split": "dev"
+ },
+ {
+  "id": "namaqualand_cliff_01",
+  "query": "a rock cliff",
+  "split": "dev"
+ },
+ {
+  "id": "namaqualand_cliff_01",
+  "query": "a rock",
+  "split": "dev"
+ },
+ {
+  "id": "namaqualand_cliff_02",
+  "query": "a cliff",
+  "split": "dev"
+ },
+ {
+  "id": "nettle_plant",
+  "query": "a nettle",
+  "split": "dev"
+ },
+ {
+  "id": "old_military_crate",
+  "query": "a military crate",
+  "split": "dev"
+ },
+ {
+  "id": "ornate_medieval_dagger",
+  "query": "a medieval dagger",
+  "split": "dev"
+ },
+ {
+  "id": "othonna_cerarioides",
+  "query": "a succulent shrub",
+  "split": "dev"
+ },
+ {
+  "id": "pachira_aquatica_01",
+  "query": "a money tree",
+  "split": "dev"
+ },
+ {
+  "id": "periwinkle_plant",
+  "query": "a periwinkle plant",
+  "split": "dev"
+ },
+ {
+  "id": "pine_sapling_medium",
+  "query": "a pine sapling",
+  "split": "dev"
+ },
+ {
+  "id": "pine_sapling_small",
+  "query": "a pine sapling",
+  "split": "dev"
+ },
+ {
+  "id": "pine_tree_01",
+  "query": "a pine tree",
+  "split": "dev"
+ },
+ {
+  "id": "portable_welding_cart",
+  "query": "a welding cart",
+  "split": "dev"
+ },
+ {
+  "id": "postcard_set_01",
+  "query": "a postcard set",
+  "split": "dev"
+ },
+ {
+  "id": "postcard_set_01",
+  "query": "a postcard",
+  "split": "dev"
+ },
+ {
+  "id": "rollershutter_door",
+  "query": "a roller shutter door",
+  "split": "dev"
+ },
+ {
+  "id": "rollershutter_window_01",
+  "query": "a roller shutter",
+  "split": "dev"
+ },
+ {
+  "id": "rollershutter_window_02",
+  "query": "a roller shutter",
+  "split": "dev"
+ },
+ {
+  "id": "rollershutter_window_03",
+  "query": "a roller shutter",
+  "split": "dev"
+ },
+ {
+  "id": "root_cluster_01",
+  "query": "a root cluster",
+  "split": "dev"
+ },
+ {
+  "id": "rubber_boots",
+  "query": "a rubber boot",
+  "split": "dev"
+ },
+ {
+  "id": "service_pistol",
+  "query": "a pistol",
+  "split": "dev"
+ },
+ {
+  "id": "service_pistol",
+  "query": "a magazine",
+  "split": "dev"
+ },
+ {
+  "id": "searsia_burchellii",
+  "query": "a shrub",
+  "split": "dev"
+ },
+ {
+  "id": "searsia_lucida",
+  "query": "a shrub",
+  "split": "dev"
+ },
+ {
+  "id": "searsia_lucida",
+  "query": "a desert shrub",
+  "split": "dev"
+ },
+ {
+  "id": "shrub_01",
+  "query": "a shrub",
+  "split": "dev"
+ },
+ {
+  "id": "shrub_02",
+  "query": "a shrub",
+  "split": "dev"
+ },
+ {
+  "id": "shrub_03",
+  "query": "a shrub",
+  "split": "dev"
+ },
+ {
+  "id": "stone_fire_pit",
+  "query": "a stone fire pit",
+  "split": "dev"
+ },
+ {
+  "id": "sungka_board_02",
+  "query": "a sungka board",
+  "split": "dev"
+ },
+ {
+  "id": "sungka_board_02",
+  "query": "a shell",
+  "split": "dev"
+ },
+ {
+  "id": "vintage_crutches_01",
+  "query": "a vintage crutch",
+  "split": "dev"
+ },
+ {
+  "id": "vintage_crutches_01",
+  "query": "a crutch",
+  "split": "dev"
+ },
+ {
+  "id": "vintage_stapler",
+  "query": "a vintage stapler",
+  "split": "dev"
+ },
+ {
+  "id": "vintage_suitcase",
+  "query": "a vintage suitcase",
+  "split": "dev"
+ },
+ {
+  "id": "wild_rooibos_bush",
+  "query": "a wild rooibos bush",
+  "split": "dev"
+ },
+ {
+  "id": "CoffeeCart_01",
+  "query": "a mug",
+  "split": "dev"
+ },
+ {
+  "id": "bolt_action_rifle_7_62",
+  "query": "a bolt-action rifle",
+  "split": "dev"
+ },
+ {
+  "id": "bunsen_burner",
+  "query": "a bunsen burner set",
+  "split": "dev"
+ },
+ {
+  "id": "calathea_orbifolia_01",
+  "query": "a calathea plant",
+  "split": "dev"
+ },
+ {
+  "id": "chinese_screen_panels",
+  "query": "a screen panel",
+  "split": "dev"
+ },
+ {
+  "id": "coast_land_rocks_02",
+  "query": "a coastal rock",
+  "split": "dev"
+ },
+ {
+  "id": "coast_land_rocks_04",
+  "query": "a rocky ground patch",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_01",
+  "query": "a coastal rock",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_02",
+  "query": "a terrain patch",
+  "split": "dev"
+ },
+ {
+  "id": "coast_rocks_05",
+  "query": "a rock formation",
+  "split": "dev"
+ },
+ {
+  "id": "didelta_spinosa",
+  "query": "a shrub",
+  "split": "dev"
+ },
+ {
+  "id": "dry_quiver_leaf",
+  "query": "a dried quiver leaf",
+  "split": "dev"
+ },
+ {
+  "id": "exterior_aircon_unit",
+  "query": "an exterior air conditioner",
+  "split": "dev"
+ },
+ {
+  "id": "flower_stinkkruid",
+  "query": "a stinkkruid",
+  "split": "dev"
+ },
+ {
+  "id": "flower_stinkkruid",
+  "query": "a stinkkruid flower",
+  "split": "dev"
+ },
+ {
+  "id": "industrial_caged_sconce",
+  "query": "an industrial wall sconce",
+  "split": "dev"
+ },
+ {
+  "id": "leipoldtia_schultzei",
+  "query": "a succulent",
+  "split": "dev"
+ },
+ {
+  "id": "modular_airduct_rectangular_01",
+  "query": "an air duct piece",
+  "split": "dev"
+ },
+ {
+  "id": "modular_electric_cables",
+  "query": "a modular cable set",
+  "split": "dev"
+ },
+ {
+  "id": "modular_factory_facade",
+  "query": "a cornice",
+  "split": "dev"
+ },
+ {
+  "id": "modular_fire_escape",
+  "query": "a platform",
+  "split": "dev"
+ },
+ {
+  "id": "modular_pipes_plastic_01",
+  "query": "a pipe set",
+  "split": "dev"
+ },
+ {
+  "id": "modular_urban_apartments_facade",
+  "query": "a facade kit",
+  "split": "dev"
+ },
+ {
+  "id": "modular_urban_apartments_facade",
+  "query": "a facade module",
+  "split": "dev"
+ },
+ {
+  "id": "modular_wooden_pier",
+  "query": "a wooden pier",
+  "split": "dev"
+ },
+ {
+  "id": "namaqualand_cliff_01",
+  "query": "a cliff",
+  "split": "dev"
+ },
+ {
+  "id": "namaqualand_cliff_02",
+  "query": "a cliff face",
+  "split": "dev"
+ },
+ {
+  "id": "nettle_plant",
+  "query": "a nettle plant",
+  "split": "dev"
+ },
+ {
+  "id": "periwinkle_plant",
+  "query": "a periwinkle",
+  "split": "dev"
+ },
+ {
+  "id": "searsia_burchellii",
+  "query": "a karoo shrub",
+  "split": "dev"
+ },
+ {
+  "id": "service_pistol",
+  "query": "a service pistol",
+  "split": "dev"
+ },
+ {
+  "id": "wild_rooibos_bush",
+  "query": "a rooibos bush",
+  "split": "dev"
+ },
+ {
+  "id": "wild_rooibos_bush",
+  "query": "a bush",
+  "split": "dev"
+ },
+ {
+  "id": "ArmChair_01",
+  "query": "an armchair",
+  "split": "test"
+ },
+ {
+  "id": "ratchet_wrench",
+  "query": "a ratchet wrench",
+  "split": "test"
+ },
+ {
+  "id": "compost_bags",
+  "query": "a compost bag",
+  "split": "test"
+ },
+ {
+  "id": "wooden_crate_01",
+  "query": "a wooden crate",
+  "split": "test"
+ },
+ {
+  "id": "dead_tree_trunk",
+  "query": "a dead tree trunk",
+  "split": "test"
+ },
+ {
+  "id": "namaqualand_boulder_02",
+  "query": "a namaqualand boulder",
+  "split": "test"
+ },
+ {
+  "id": "namaqualand_boulder_03",
+  "query": "a namaqualand boulder",
+  "split": "test"
+ },
+ {
+  "id": "metal_detector",
+  "query": "a metal detector",
+  "split": "test"
+ },
+ {
+  "id": "coffee_table_round_01",
+  "query": "a coffee table round",
+  "split": "test"
+ },
+ {
+  "id": "wooden_military_crate",
+  "query": "a wooden military crate",
+  "split": "test"
+ },
+ {
+  "id": "russian_food_cans_01",
+  "query": "a russian food can",
+  "split": "test"
+ },
+ {
+  "id": "dining_chair_02",
+  "query": "a dining chair",
+  "split": "test"
+ },
+ {
+  "id": "rock_09",
+  "query": "a rock",
+  "split": "test"
+ },
+ {
+  "id": "lion_head",
+  "query": "a lion head",
+  "split": "test"
+ },
+ {
+  "id": "jacaranda_tree",
+  "query": "a jacaranda tree",
+  "split": "test"
+ },
+ {
+  "id": "tree_stump_02",
+  "query": "a tree stump",
+  "split": "test"
+ },
+ {
+  "id": "fir_sapling",
+  "query": "a fir sapling",
+  "split": "test"
+ },
+ {
+  "id": "wooden_table_02",
+  "query": "a wooden table",
+  "split": "test"
+ },
+ {
+  "id": "mantel_clock_01",
+  "query": "a mantel clock",
+  "split": "test"
+ },
+ {
+  "id": "flower_empodium",
+  "query": "a flower empodium",
+  "split": "test"
+ },
+ {
+  "id": "vintage_flashlight",
+  "query": "a vintage flashlight",
+  "split": "test"
+ },
+ {
+  "id": "wooden_display_shelves_01",
+  "query": "a wooden display shelf",
+  "split": "test"
+ },
+ {
+  "id": "shrub_04",
+  "query": "a shrub",
+  "split": "test"
+ },
+ {
+  "id": "wooden_candlestick",
+  "query": "a wooden candlestick",
+  "split": "test"
+ },
+ {
+  "id": "dutch_ship_medium",
+  "query": "a dutch ship medium",
+  "split": "test"
+ },
+ {
+  "id": "sofa_02",
+  "query": "a sofa",
+  "split": "test"
+ },
+ {
+  "id": "GreenChair_01",
+  "query": "a greenchair",
+  "split": "test"
+ },
+ {
+  "id": "bench_vice_01",
+  "query": "a bench vice",
+  "split": "test"
+ },
+ {
+  "id": "vintage_electric_kettle",
+  "query": "a vintage electric kettle",
+  "split": "test"
+ },
+ {
+  "id": "throw_pillows_01",
+  "query": "a throw pillow",
+  "split": "test"
+ },
+ {
+  "id": "bananas",
+  "query": "a banana",
+  "split": "test"
+ },
+ {
+  "id": "modern_wooden_cabinet",
+  "query": "a modern wooden cabinet",
+  "split": "test"
+ },
+ {
+  "id": "wheelchair_01",
+  "query": "a wheelchair",
+  "split": "test"
+ },
+ {
+  "id": "wooden_barrels_01",
+  "query": "a wooden barrel",
+  "split": "test"
+ },
+ {
+  "id": "mousetrap",
+  "query": "a mousetrap",
+  "split": "test"
+ },
+ {
+  "id": "lateral_sea_marker",
+  "query": "a lateral sea marker",
+  "split": "test"
+ },
+ {
+  "id": "compost_bag_02",
+  "query": "a compost bag",
+  "split": "test"
+ },
+ {
+  "id": "tire_pump",
+  "query": "a tire pump",
+  "split": "test"
+ },
+ {
+  "id": "cheiridopsis_succulent",
+  "query": "a cheiridopsis succulent",
+  "split": "test"
+ },
+ {
+  "id": "chinese_chandelier",
+  "query": "a chinese chandelier",
+  "split": "test"
+ },
+ {
+  "id": "bolt_action_rifle_7_62",
+  "query": "a scope",
+  "split": "hard"
+ },
+ {
+  "id": "cannon_01",
+  "query": "a ball",
+  "split": "hard"
+ },
+ {
+  "id": "chess_set",
+  "query": "a rook",
+  "split": "hard"
+ },
+ {
+  "id": "cigarette_case",
+  "query": "a cover",
+  "split": "hard"
+ },
+ {
+  "id": "fire_hydrant",
+  "query": "a cap",
+  "split": "hard"
+ },
+ {
+  "id": "industrial_caged_sconce",
+  "query": "a mount",
+  "split": "hard"
+ },
+ {
+  "id": "large_iron_gate",
+  "query": "a door",
+  "split": "hard"
+ },
+ {
+  "id": "metal_trash_can",
+  "query": "a handle",
+  "split": "hard"
+ },
+ {
+  "id": "modular_airduct_rectangular_01",
+  "query": "a corner",
+  "split": "hard"
+ },
+ {
+  "id": "modular_chainlink_fence",
+  "query": "a door",
+  "split": "hard"
+ },
+ {
+  "id": "modular_fire_escape",
+  "query": "a railing",
+  "split": "hard"
+ },
+ {
+  "id": "modular_urban_apartments_facade",
+  "query": "a door",
+  "split": "hard"
+ },
+ {
+  "id": "modular_wooden_pier",
+  "query": "a plank",
+  "split": "hard"
+ },
+ {
+  "id": "old_military_crate",
+  "query": "a lid",
+  "split": "hard"
+ },
+ {
+  "id": "service_pistol",
+  "query": "a slide",
+  "split": "hard"
+ },
+ {
+  "id": "vintage_suitcase",
+  "query": "a clasp",
+  "split": "hard"
+ },
+ {
+  "id": "Camera_01",
+  "query": "a strap",
+  "split": "blind"
+ },
+ {
+  "id": "vintage_cabinet_01",
+  "query": "a door",
+  "split": "blind"
+ },
+ {
+  "id": "metal_tool_chest",
+  "query": "a lid",
+  "split": "blind"
+ },
+ {
+  "id": "dining_table",
+  "query": "a cloth",
+  "split": "blind"
+ },
+ {
+  "id": "electric_stove",
+  "query": "a hinge",
+  "split": "blind"
+ },
+ {
+  "id": "gallinera_table",
+  "query": "a door",
+  "split": "blind"
+ },
+ {
+  "id": "vintage_grandfather_clock_01",
+  "query": "a minutehand",
+  "split": "blind"
+ },
+ {
+  "id": "long_life_food",
+  "query": "a sardine",
+  "split": "blind"
+ },
+ {
+  "id": "vintage_lighter",
+  "query": "a flintstone",
+  "split": "blind"
+ },
+ {
+  "id": "CoffeeCart_01",
+  "query": "a prop",
+  "split": "blind"
+ },
+ {
+  "id": "namaqualand_boulders_01",
+  "query": "a rock",
+  "split": "blind"
+ },
+ {
+  "id": "namaqualand_cliff_01",
+  "query": "a drone",
+  "split": "blind"
+ },
+ {
+  "id": "chemistry_set",
+  "query": "a dropper",
+  "split": "blind"
+ },
+ {
+  "id": "filmstrip_projector_8mm",
+  "query": "a feed",
+  "split": "blind"
+ },
+ {
+  "id": "pliers",
+  "query": "a pin",
+  "split": "blind"
+ },
+ {
+  "id": "stationery_supplies",
+  "query": "a pen",
+  "split": "blind"
+ },
+ {
+  "id": "othonna_cerarioides",
+  "query": "a cerarioide",
+  "split": "blind"
+ },
+ {
+  "id": "nettle_plant",
+  "query": "a medium",
+  "split": "blind"
+ },
+ {
+  "id": "binoculars",
+  "query": "a column",
+  "split": "blind"
+ },
+ {
+  "id": "round_wooden_table_01",
+  "query": "a bolt",
+  "split": "blind"
+ },
+ {
+  "id": "rubber_boots",
+  "query": "a dirty",
+  "split": "blind"
+ },
+ {
+  "id": "grass_medium_01",
+  "query": "a tiny",
+  "split": "blind"
+ },
+ {
+  "id": "wine_barrel_01",
+  "query": "a base",
+  "split": "blind"
+ },
+ {
+  "id": "pachira_aquatica_01",
+  "query": "a bark",
+  "split": "blind"
+ }
+]

@@ -1,0 +1,7957 @@
+{
+ "ArmChair_01": {
+  "contents": [
+   {
+    "thing": "armchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "BarberShopChair_01": {
+  "contents": [
+   {
+    "thing": "barbershopchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Barrel_01": {
+  "contents": [
+   {
+    "thing": "barrel",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Barrel_02": {
+  "contents": [
+   {
+    "thing": "barrel",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Camera_01": {
+  "contents": [
+   {
+    "thing": "strap",
+    "count": 1
+   },
+   {
+    "thing": "camera",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "CashRegister_01": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "Chandelier_01": {
+  "contents": [
+   {
+    "thing": "chandelier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Chandelier_02": {
+  "contents": [
+   {
+    "thing": "chandelier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Chandelier_03": {
+  "contents": [
+   {
+    "thing": "chandelier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "CheeseBox_01": {
+  "contents": [
+   {
+    "thing": "cheesebox",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "ClassicConsole_01": {
+  "contents": [
+   {
+    "thing": "classicconsole",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ClassicNightstand_01": {
+  "contents": [
+   {
+    "thing": "classicnightstand",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "CoffeeCart_01": {
+  "contents": [
+   {
+    "thing": "cart",
+    "count": 1
+   },
+   {
+    "thing": "props",
+    "count": 1
+   },
+   {
+    "thing": "mugs",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "CoffeeTable_01": {
+  "contents": [
+   {
+    "thing": "coffeetable",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Drill_01": {
+  "contents": [
+   {
+    "thing": "drill",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "GothicBed_01": {
+  "contents": [
+   {
+    "thing": "gothicbed",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "GothicCabinet_01": {
+  "contents": [
+   {
+    "thing": "cabinet",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "GothicCommode_01": {
+  "contents": [
+   {
+    "thing": "gothiccommode",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "GreenChair_01": {
+  "contents": [
+   {
+    "thing": "greenchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Lantern_01": {
+  "contents": [
+   {
+    "thing": "lantern",
+    "count": 1
+   },
+   {
+    "thing": "glass",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "Megaphone_01": {
+  "contents": [
+   {
+    "thing": "megaphone",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Ottoman_01": {
+  "contents": [
+   {
+    "thing": "ottoman",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Rockingchair_01": {
+  "contents": [
+   {
+    "thing": "rockingchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "SchoolChair_01": {
+  "contents": [
+   {
+    "thing": "schoolchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "SchoolDesk_01": {
+  "contents": [
+   {
+    "thing": "schooldesk",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Shelf_01": {
+  "contents": [
+   {
+    "thing": "shelf",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Sofa_01": {
+  "contents": [
+   {
+    "thing": "sofa",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Television_01": {
+  "contents": [
+   {
+    "thing": "television",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "Ukulele_01": {
+  "contents": [
+   {
+    "thing": "ukulele",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "WetFloorSign_01": {
+  "contents": [
+   {
+    "thing": "wetfloorsign",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "WoodenChair_01": {
+  "contents": [
+   {
+    "thing": "woodenchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "WoodenTable_01": {
+  "contents": [
+   {
+    "thing": "woodentable",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "WoodenTable_02": {
+  "contents": [
+   {
+    "thing": "woodentable",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "WoodenTable_03": {
+  "contents": [
+   {
+    "thing": "drawer",
+    "count": 4
+   },
+   {
+    "thing": "door",
+    "count": 1
+   },
+   {
+    "thing": "body",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "adjustable_wrench": {
+  "contents": [
+   {
+    "thing": "jaw",
+    "count": 1
+   },
+   {
+    "thing": "nut",
+    "count": 1
+   },
+   {
+    "thing": "adjustable wrench",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "alarm_clock_01": {
+  "contents": [
+   {
+    "thing": "alarm clock",
+    "count": 1
+   },
+   {
+    "thing": "houd hand",
+    "count": 1
+   },
+   {
+    "thing": "minute hand",
+    "count": 1
+   },
+   {
+    "thing": "second hand",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "all_purpose_cleaner": {
+  "contents": [
+   {
+    "thing": "all purpose cleaner",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "american_football": {
+  "contents": [
+   {
+    "thing": "american football",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ammo_box": {
+  "contents": [
+   {
+    "thing": "handle ring",
+    "count": 2
+   },
+   {
+    "thing": "ammo box",
+    "count": 1
+   },
+   {
+    "thing": "latch",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "anthurium_botany_01": {
+  "contents": [
+   {
+    "thing": "anthurium botany",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "antique_ceramic_vase_01": {
+  "contents": [
+   {
+    "thing": "antique ceramic vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "antique_estoc": {
+  "contents": [
+   {
+    "thing": "antique estoc",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "antique_katana_01": {
+  "contents": [
+   {
+    "thing": "antique katana",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bananas": {
+  "contents": [
+   {
+    "thing": "bunch",
+    "count": 1
+   },
+   {
+    "thing": "bananas",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "bar_chair_round_01": {
+  "contents": [
+   {
+    "thing": "bar chair round",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bark_debris_01": {
+  "contents": [
+   {
+    "thing": "bark debris",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "barrel_03": {
+  "contents": [
+   {
+    "thing": "barrel",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "barrel_stove": {
+  "contents": [
+   {
+    "thing": "barrel stove",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "baseball_01": {
+  "contents": [
+   {
+    "thing": "baseball",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "baseball_bat": {
+  "contents": [
+   {
+    "thing": "baseball bat",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bench_vice_01": {
+  "contents": [
+   {
+    "thing": "bench vice frame",
+    "count": 1
+   },
+   {
+    "thing": "bench vice clamp",
+    "count": 1
+   },
+   {
+    "thing": "bench vice dial",
+    "count": 1
+   },
+   {
+    "thing": "bench vice bar",
+    "count": 1
+   },
+   {
+    "thing": "rig bench vice",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "binder_notebook": {
+  "contents": [
+   {
+    "thing": "binder notebook",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "closed"
+  ],
+  "fused": false
+ },
+ "binoculars": {
+  "contents": [
+   {
+    "thing": "binoculars",
+    "count": 2
+   },
+   {
+    "thing": "column",
+    "count": 1
+   },
+   {
+    "thing": "strap",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "bleach_bottle": {
+  "contents": [
+   {
+    "thing": "bleach bottle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bolt_action_rifle_7_62": {
+  "contents": [
+   {
+    "thing": "scope",
+    "count": 1
+   },
+   {
+    "thing": "wrap",
+    "count": 1
+   },
+   {
+    "thing": "bolt action rifle 7",
+    "count": 1
+   },
+   {
+    "thing": "bolt",
+    "count": 2
+   },
+   {
+    "thing": "bullet 54mm",
+    "count": 1
+   },
+   {
+    "thing": "trigger",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "bolt_cutters_01": {
+  "contents": [
+   {
+    "thing": "bolt cutters",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "book_encyclopedia_set_01": {
+  "contents": [
+   {
+    "thing": "book",
+    "count": 20
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "boombox": {
+  "contents": [
+   {
+    "thing": "boombox",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "boulder_01": {
+  "contents": [
+   {
+    "thing": "boulder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_blowtorch": {
+  "contents": [
+   {
+    "thing": "brass blowtorch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_candleholders": {
+  "contents": [
+   {
+    "thing": "brass candleholder",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "brass_diya_lantern": {
+  "contents": [
+   {
+    "thing": "connection",
+    "count": 1
+   },
+   {
+    "thing": "brass diya lantern",
+    "count": 1
+   },
+   {
+    "thing": "chain",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "brass_goblets": {
+  "contents": [
+   {
+    "thing": "brass goblet",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "brass_pan_01": {
+  "contents": [
+   {
+    "thing": "brass pan",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_pot_01": {
+  "contents": [
+   {
+    "thing": "brass pot",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_pot_02": {
+  "contents": [
+   {
+    "thing": "brass pot",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_vase_01": {
+  "contents": [
+   {
+    "thing": "brass vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_vase_02": {
+  "contents": [
+   {
+    "thing": "brass vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_vase_03": {
+  "contents": [
+   {
+    "thing": "brass vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "brass_vase_04": {
+  "contents": [
+   {
+    "thing": "brass vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bronze_ray_statue": {
+  "contents": [
+   {
+    "thing": "bronze ray statue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bronze_shark_statue": {
+  "contents": [
+   {
+    "thing": "bronze shark statue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bronze_whale_statue": {
+  "contents": [
+   {
+    "thing": "bronze whale statue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bull_head": {
+  "contents": [
+   {
+    "thing": "bull head",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "bunsen_burner": {
+  "contents": [
+   {
+    "thing": "bunsen burner",
+    "count": 1
+   },
+   {
+    "thing": "burner stand",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "caged_hanging_light": {
+  "contents": [
+   {
+    "thing": "caged hanging light",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "calathea_orbifolia_01": {
+  "contents": [
+   {
+    "thing": "calathea orbifolia",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "can_rusted": {
+  "contents": [
+   {
+    "thing": "can rusted",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "cannon_01": {
+  "contents": [
+   {
+    "thing": "ball",
+    "count": 3
+   },
+   {
+    "thing": "barrel",
+    "count": 1
+   },
+   {
+    "thing": "frame",
+    "count": 1
+   },
+   {
+    "thing": "pusherblock",
+    "count": 1
+   },
+   {
+    "thing": "wheel",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "cardboard_box_01": {
+  "contents": [
+   {
+    "thing": "cardboard box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "carrot_cake": {
+  "contents": [
+   {
+    "thing": "carrot cake",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "carved_wooden_elephant": {
+  "contents": [
+   {
+    "thing": "carved wooden elephant",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "carved_wooden_plate": {
+  "contents": [
+   {
+    "thing": "carved wooden plate",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "cassette_player": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "tape",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "ceiling_fan": {
+  "contents": [
+   {
+    "thing": "ceiling fan",
+    "count": 1
+   },
+   {
+    "thing": "blades",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "celandine_01": {
+  "contents": [
+   {
+    "thing": "celandine",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "cement_bag": {
+  "contents": [
+   {
+    "thing": "cement bag",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ceramic_pot": {
+  "contents": [
+   {
+    "thing": "ceramic pot",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ceramic_vase_01": {
+  "contents": [
+   {
+    "thing": "ceramic vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ceramic_vase_02": {
+  "contents": [
+   {
+    "thing": "ceramic vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ceramic_vase_03": {
+  "contents": [
+   {
+    "thing": "ceramic vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ceramic_vase_04": {
+  "contents": [
+   {
+    "thing": "ceramic vase",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "cheiridopsis_succulent": {
+  "contents": [
+   {
+    "thing": "cheiridopsis succulent",
+    "count": 9
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "chemistry_set": {
+  "contents": [
+   {
+    "thing": "beaker",
+    "count": 2
+   },
+   {
+    "thing": "beaker med",
+    "count": 1
+   },
+   {
+    "thing": "test tube",
+    "count": 2
+   },
+   {
+    "thing": "test tube content",
+    "count": 6
+   },
+   {
+    "thing": "clamp",
+    "count": 1
+   },
+   {
+    "thing": "clamp stand",
+    "count": 1
+   },
+   {
+    "thing": "bottle dark",
+    "count": 5
+   },
+   {
+    "thing": "bottle dark lid",
+    "count": 2
+   },
+   {
+    "thing": "bottle dark cork",
+    "count": 2
+   },
+   {
+    "thing": "bottle dark dropper",
+    "count": 1
+   },
+   {
+    "thing": "bottle clear",
+    "count": 5
+   },
+   {
+    "thing": "bottle clear cork",
+    "count": 2
+   },
+   {
+    "thing": "bottle clear lid",
+    "count": 2
+   },
+   {
+    "thing": "bottle clear dropper",
+    "count": 1
+   },
+   {
+    "thing": "bottle content",
+    "count": 6
+   },
+   {
+    "thing": "bottle label",
+    "count": 7
+   },
+   {
+    "thing": "clamp tool",
+    "count": 1
+   },
+   {
+    "thing": "bunsen burner",
+    "count": 1
+   },
+   {
+    "thing": "test tube stand",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "chess_set": {
+  "contents": [
+   {
+    "thing": "piece rook white",
+    "count": 2
+   },
+   {
+    "thing": "piece pawn white",
+    "count": 8
+   },
+   {
+    "thing": "piece bishop white",
+    "count": 2
+   },
+   {
+    "thing": "piece queen white",
+    "count": 1
+   },
+   {
+    "thing": "piece king white",
+    "count": 1
+   },
+   {
+    "thing": "piece knight white",
+    "count": 2
+   },
+   {
+    "thing": "board",
+    "count": 1
+   },
+   {
+    "thing": "piece rook black",
+    "count": 2
+   },
+   {
+    "thing": "piece pawn black",
+    "count": 8
+   },
+   {
+    "thing": "piece bishop black",
+    "count": 2
+   },
+   {
+    "thing": "piece queen black",
+    "count": 1
+   },
+   {
+    "thing": "piece king black",
+    "count": 1
+   },
+   {
+    "thing": "piece knight black",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "chinese_armchair": {
+  "contents": [
+   {
+    "thing": "chinese armchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_cabinet": {
+  "contents": [
+   {
+    "thing": "chinese cabinet",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_chandelier": {
+  "contents": [
+   {
+    "thing": "chinese chandelier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_commode": {
+  "contents": [
+   {
+    "thing": "chinese commode",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_console_table": {
+  "contents": [
+   {
+    "thing": "chinese console table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_screen_panels": {
+  "contents": [
+   {
+    "thing": "chinese screen panels",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "chinese_sofa": {
+  "contents": [
+   {
+    "thing": "chinese sofa",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_stool": {
+  "contents": [
+   {
+    "thing": "chinese stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "chinese_tea_table": {
+  "contents": [
+   {
+    "thing": "chinese tea table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "cigarette_case": {
+  "contents": [
+   {
+    "thing": "cover",
+    "count": 2
+   },
+   {
+    "thing": "clip",
+    "count": 2
+   },
+   {
+    "thing": "cigarette",
+    "count": 3
+   },
+   {
+    "thing": "note",
+    "count": 1
+   },
+   {
+    "thing": "cigarette case",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "cigarette_pack": {
+  "contents": [
+   {
+    "thing": "main",
+    "count": 1
+   },
+   {
+    "thing": "foil",
+    "count": 1
+   },
+   {
+    "thing": "cigarettes",
+    "count": 1
+   },
+   {
+    "thing": "cigarette",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "circuit_board": {
+  "contents": [
+   {
+    "thing": "circuit board",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "classic_laptop": {
+  "contents": [
+   {
+    "thing": "stand",
+    "count": 1
+   },
+   {
+    "thing": "classic laptop",
+    "count": 1
+   },
+   {
+    "thing": "screen",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "cleaner_tin_01": {
+  "contents": [
+   {
+    "thing": "cleaner tin",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "clipboard": {
+  "contents": [
+   {
+    "thing": "clipboard",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_land_rocks_02": {
+  "contents": [
+   {
+    "thing": "coast land rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_land_rocks_03": {
+  "contents": [
+   {
+    "thing": "coast land rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_land_rocks_04": {
+  "contents": [
+   {
+    "thing": "coast land rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_line_01": {
+  "contents": [
+   {
+    "thing": "coast line",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_line_02": {
+  "contents": [
+   {
+    "thing": "coast line",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_rocks_01": {
+  "contents": [
+   {
+    "thing": "coast rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_rocks_02": {
+  "contents": [
+   {
+    "thing": "coast rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_rocks_03": {
+  "contents": [
+   {
+    "thing": "coast rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coast_rocks_05": {
+  "contents": [
+   {
+    "thing": "coast rocks",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coastal_cliff_01": {
+  "contents": [
+   {
+    "thing": "coastal cliff",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coastal_cliff_02": {
+  "contents": [
+   {
+    "thing": "coastal cliff",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coastal_cliff_04": {
+  "contents": [
+   {
+    "thing": "coastal cliff",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "coffee_table_round_01": {
+  "contents": [
+   {
+    "thing": "coffee table round",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "combination_wrench": {
+  "contents": [
+   {
+    "thing": "combination wrench",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "compost_bag_02": {
+  "contents": [
+   {
+    "thing": "compost bag",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "compost_bags": {
+  "contents": [
+   {
+    "thing": "floorstacked",
+    "count": 1
+   },
+   {
+    "thing": "leaning",
+    "count": 1
+   },
+   {
+    "thing": "floor",
+    "count": 1
+   },
+   {
+    "thing": "standing",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "concrete_cat_statue": {
+  "contents": [
+   {
+    "thing": "concrete cat statue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "concrete_road_barrier": {
+  "contents": [
+   {
+    "thing": "concrete road barrier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "concrete_road_barrier_02": {
+  "contents": [
+   {
+    "thing": "concrete road barrier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "covered_car": {
+  "contents": [
+   {
+    "thing": "wheel",
+    "count": 4
+   },
+   {
+    "thing": "covered car",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "croissant": {
+  "contents": [
+   {
+    "thing": "croissant",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "cross_pein_hammer": {
+  "contents": [
+   {
+    "thing": "cross pein hammer",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "crowbar_01": {
+  "contents": [
+   {
+    "thing": "crowbar",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "crystalline_iceplant": {
+  "contents": [
+   {
+    "thing": "crystalline iceplant",
+    "count": 8
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dandelion_01": {
+  "contents": [
+   {
+    "thing": "dandelion",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dartboard": {
+  "contents": [
+   {
+    "thing": "dartboard",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dead_quiver_branch_01": {
+  "contents": [
+   {
+    "thing": "dead quiver branch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dead_quiver_branch_02": {
+  "contents": [
+   {
+    "thing": "dead quiver branch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dead_quiver_trunk": {
+  "contents": [
+   {
+    "thing": "dead quiver trunk",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dead_tree_trunk": {
+  "contents": [
+   {
+    "thing": "dead tree trunk",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dead_tree_trunk_02": {
+  "contents": [
+   {
+    "thing": "dead tree trunk",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "desk_lamp_arm_01": {
+  "contents": [
+   {
+    "thing": "desk lamp arm",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "didelta_spinosa": {
+  "contents": [
+   {
+    "thing": "didelta spinosa",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "digital_wrist_watch": {
+  "contents": [
+   {
+    "thing": "digital wrist watch",
+    "count": 1
+   },
+   {
+    "thing": "clasp",
+    "count": 1
+   },
+   {
+    "thing": "strap",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dining_chair_02": {
+  "contents": [
+   {
+    "thing": "dining chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dining_table": {
+  "contents": [
+   {
+    "thing": "dining table",
+    "count": 1
+   },
+   {
+    "thing": "cloth",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dirty_football": {
+  "contents": [
+   {
+    "thing": "dirty football",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "drain_cleaner": {
+  "contents": [
+   {
+    "thing": "drain cleaner",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "drawer_cabinet": {
+  "contents": [
+   {
+    "thing": "drawer cabinet",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "drill_press_01": {
+  "contents": [
+   {
+    "thing": "drill press",
+    "count": 1
+   },
+   {
+    "thing": "plate",
+    "count": 1
+   },
+   {
+    "thing": "catch",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "belt",
+    "count": 1
+   },
+   {
+    "thing": "gear",
+    "count": 2
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   },
+   {
+    "thing": "button",
+    "count": 2
+   },
+   {
+    "thing": "limiter",
+    "count": 1
+   },
+   {
+    "thing": "bit",
+    "count": 1
+   },
+   {
+    "thing": "plug",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dry_branches_medium_01": {
+  "contents": [
+   {
+    "thing": "dry branches medium",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dry_quiver_leaf": {
+  "contents": [
+   {
+    "thing": "dry quiver leaf",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dustpan": {
+  "contents": [
+   {
+    "thing": "dustpan",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "dutch_ship_large_01": {
+  "contents": [
+   {
+    "thing": "hull",
+    "count": 1
+   },
+   {
+    "thing": "rigging",
+    "count": 1
+   },
+   {
+    "thing": "sails",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dutch_ship_large_02": {
+  "contents": [
+   {
+    "thing": "rigging",
+    "count": 1
+   },
+   {
+    "thing": "hull",
+    "count": 1
+   },
+   {
+    "thing": "sails",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "dutch_ship_medium": {
+  "contents": [
+   {
+    "thing": "rigging",
+    "count": 1
+   },
+   {
+    "thing": "hull",
+    "count": 1
+   },
+   {
+    "thing": "sails",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "electric_stove": {
+  "contents": [
+   {
+    "thing": "stovetop",
+    "count": 1
+   },
+   {
+    "thing": "sheet",
+    "count": 1
+   },
+   {
+    "thing": "hinge bottom attachment",
+    "count": 2
+   },
+   {
+    "thing": "hinge bottom rotator",
+    "count": 2
+   },
+   {
+    "thing": "hinge top rotator",
+    "count": 2
+   },
+   {
+    "thing": "hinge top attachment",
+    "count": 2
+   },
+   {
+    "thing": "grid",
+    "count": 1
+   },
+   {
+    "thing": "dial",
+    "count": 6
+   },
+   {
+    "thing": "handle bottom attachment",
+    "count": 1
+   },
+   {
+    "thing": "door top",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "exterior_aircon_unit": {
+  "contents": [
+   {
+    "thing": "exterior aircon unit",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "rusted"
+  ],
+  "fused": false
+ },
+ "fancy_picture_frame_01": {
+  "contents": [
+   {
+    "thing": "fancy picture frame",
+    "count": 1
+   },
+   {
+    "thing": "canvas",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fancy_picture_frame_02": {
+  "contents": [
+   {
+    "thing": "fancy picture frame",
+    "count": 1
+   },
+   {
+    "thing": "canvas",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fern_02": {
+  "contents": [
+   {
+    "thing": "fern",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "filmstrip_projector_8mm": {
+  "contents": [
+   {
+    "thing": "takeup holder",
+    "count": 1
+   },
+   {
+    "thing": "spool takeup",
+    "count": 1
+   },
+   {
+    "thing": "spool feed",
+    "count": 1
+   },
+   {
+    "thing": "spool arm",
+    "count": 1
+   },
+   {
+    "thing": "schuko",
+    "count": 1
+   },
+   {
+    "thing": "switch",
+    "count": 1
+   },
+   {
+    "thing": "dial speed",
+    "count": 1
+   },
+   {
+    "thing": "dial mode",
+    "count": 1
+   },
+   {
+    "thing": "focus",
+    "count": 1
+   },
+   {
+    "thing": "feed roller",
+    "count": 1
+   },
+   {
+    "thing": "feed holder",
+    "count": 1
+   },
+   {
+    "thing": "cable",
+    "count": 1
+   },
+   {
+    "thing": "connector",
+    "count": 1
+   },
+   {
+    "thing": "filmstrip projector 8mm",
+    "count": 1
+   },
+   {
+    "thing": "film side",
+    "count": 1
+   },
+   {
+    "thing": "cable curve",
+    "count": 1
+   },
+   {
+    "thing": "film",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fir_sapling": {
+  "contents": [
+   {
+    "thing": "fir sapling",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fir_sapling_medium": {
+  "contents": [
+   {
+    "thing": "fir sapling medium",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fir_tree_01": {
+  "contents": [
+   {
+    "thing": "fir tree",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fire_alarm": {
+  "contents": [
+   {
+    "thing": "fire alarm",
+    "count": 1
+   },
+   {
+    "thing": "lever",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fire_hydrant": {
+  "contents": [
+   {
+    "thing": "fire hydrant",
+    "count": 1
+   },
+   {
+    "thing": "cap",
+    "count": 3
+   },
+   {
+    "thing": "chain",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "aged"
+  ],
+  "fused": false
+ },
+ "fish_knife": {
+  "contents": [
+   {
+    "thing": "handle",
+    "count": 1
+   },
+   {
+    "thing": "blade",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "fishermans_hat": {
+  "contents": [
+   {
+    "thing": "fishermans hat",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "flathead_screwdriver": {
+  "contents": [
+   {
+    "thing": "flathead screwdriver",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "flower_empodium": {
+  "contents": [
+   {
+    "thing": "flower empodium",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "flower_gazania": {
+  "contents": [
+   {
+    "thing": "flower gazania",
+    "count": 8
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "flower_heliophila": {
+  "contents": [
+   {
+    "thing": "flower heliophila",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "flower_stinkkruid": {
+  "contents": [
+   {
+    "thing": "flower stinkkruid",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "flower_ursinia": {
+  "contents": [
+   {
+    "thing": "flower ursinia",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "folding_wooden_stool": {
+  "contents": [
+   {
+    "thing": "folding wooden stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_apple_01": {
+  "contents": [
+   {
+    "thing": "food apple",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_avocado_01": {
+  "contents": [
+   {
+    "thing": "food avocado",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_ginger_01": {
+  "contents": [
+   {
+    "thing": "food ginger",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_kiwi_01": {
+  "contents": [
+   {
+    "thing": "food kiwi",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_lime_01": {
+  "contents": [
+   {
+    "thing": "food lime",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_lychee_01": {
+  "contents": [
+   {
+    "thing": "food lychee",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "food_pears_asian_01": {
+  "contents": [
+   {
+    "thing": "food pears asian",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "food_pomegranate_01": {
+  "contents": [
+   {
+    "thing": "food pomegranate",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "football": {
+  "contents": [
+   {
+    "thing": "football",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "deflated"
+  ],
+  "fused": false
+ },
+ "gallinera_chair": {
+  "contents": [
+   {
+    "thing": "gallinera chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "gallinera_table": {
+  "contents": [
+   {
+    "thing": "gallinera table",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "gamepad": {
+  "contents": [
+   {
+    "thing": "gamepad",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "gaming_console": {
+  "contents": [
+   {
+    "thing": "gaming console",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "garden_gloves_01": {
+  "contents": [
+   {
+    "thing": "garden gloves",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "garden_gnome": {
+  "contents": [
+   {
+    "thing": "garden gnome",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "garden_hose_wall_mounted_01": {
+  "contents": [
+   {
+    "thing": "garden hose wall bracket",
+    "count": 1
+   },
+   {
+    "thing": "garden hose",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "garden_sprinkler_01": {
+  "contents": [
+   {
+    "thing": "body main",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "gate_latch_01": {
+  "contents": [
+   {
+    "thing": "frame",
+    "count": 1
+   },
+   {
+    "thing": "latch",
+    "count": 1
+   },
+   {
+    "thing": "hook",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "gothic_coffee_table": {
+  "contents": [
+   {
+    "thing": "gothic coffee table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "gothic_statue": {
+  "contents": [
+   {
+    "thing": "gothic statue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "grass_bermuda_01": {
+  "contents": [
+   {
+    "thing": "dead",
+    "count": 2
+   },
+   {
+    "thing": "flattened",
+    "count": 1
+   },
+   {
+    "thing": "grass bermuda",
+    "count": 12
+   },
+   {
+    "thing": "seedling",
+    "count": 4
+   },
+   {
+    "thing": "single",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "grass_medium_01": {
+  "contents": [
+   {
+    "thing": "grass medium",
+    "count": 11
+   },
+   {
+    "thing": "tiny",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "grass_medium_02": {
+  "contents": [
+   {
+    "thing": "grass medium",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "hamburger_buns": {
+  "contents": [
+   {
+    "thing": "hamburger buns",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "hand_plane_no4": {
+  "contents": [
+   {
+    "thing": "hand plane no4",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "hand_truck": {
+  "contents": [
+   {
+    "thing": "hand truck",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "handsaw_wood": {
+  "contents": [
+   {
+    "thing": "handsaw wood",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "hanging_industrial_lamp": {
+  "contents": [
+   {
+    "thing": "hanging industrial lamp",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "hanging_picture_frame_01": {
+  "contents": [
+   {
+    "thing": "hanging picture frame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "hanging_picture_frame_02": {
+  "contents": [
+   {
+    "thing": "hanging picture frame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "hanging_picture_frame_03": {
+  "contents": [
+   {
+    "thing": "hanging picture frame",
+    "count": 1
+   },
+   {
+    "thing": "glass",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "hatchet": {
+  "contents": [
+   {
+    "thing": "hatchet",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "horse_head": {
+  "contents": [
+   {
+    "thing": "horse head",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "horse_statue_01": {
+  "contents": [
+   {
+    "thing": "horse statue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "industrial_caged_sconce": {
+  "contents": [
+   {
+    "thing": "industrial caged sconce",
+    "count": 3
+   },
+   {
+    "thing": "mount",
+    "count": 1
+   },
+   {
+    "thing": "elbow",
+    "count": 1
+   },
+   {
+    "thing": "light",
+    "count": 1
+   },
+   {
+    "thing": "pipe long",
+    "count": 1
+   },
+   {
+    "thing": "pipe short",
+    "count": 1
+   },
+   {
+    "thing": "base",
+    "count": 2
+   },
+   {
+    "thing": "pipe",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "industrial_coffee_table": {
+  "contents": [
+   {
+    "thing": "industrial coffee table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "industrial_microscope": {
+  "contents": [
+   {
+    "thing": "cable",
+    "count": 1
+   },
+   {
+    "thing": "industrial microscope",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "industrial_pastic_container": {
+  "contents": [
+   {
+    "thing": "industrial pastic container",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "industrial_pipe_lamp": {
+  "contents": [
+   {
+    "thing": "industrial pipe lamp",
+    "count": 1
+   },
+   {
+    "thing": "bulb",
+    "count": 1
+   },
+   {
+    "thing": "switch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "industrial_storage_cart": {
+  "contents": [
+   {
+    "thing": "industrial storage cart",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "industrial_wall_lamp": {
+  "contents": [
+   {
+    "thing": "industrial wall lamp",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "industrial_wall_sconce": {
+  "contents": [
+   {
+    "thing": "industrial wall sconce",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "island_tree_01": {
+  "contents": [
+   {
+    "thing": "island tree",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "island_tree_02": {
+  "contents": [
+   {
+    "thing": "island tree",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "island_tree_03": {
+  "contents": [
+   {
+    "thing": "island tree",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "jacaranda_tree": {
+  "contents": [
+   {
+    "thing": "jacaranda tree",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "jug_01": {
+  "contents": [
+   {
+    "thing": "jug",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "katana_stand_01": {
+  "contents": [
+   {
+    "thing": "katana stand",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "kite_shield": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "metal trim",
+    "count": 1
+   },
+   {
+    "thing": "clamps and bolts",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "korean_fire_extinguisher_01": {
+  "contents": [
+   {
+    "thing": "korean fire extinguisher",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "korean_public_payphone_01": {
+  "contents": [
+   {
+    "thing": "korean public payphone",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ladder_sectioned_01": {
+  "contents": [
+   {
+    "thing": "ladder section",
+    "count": 3
+   },
+   {
+    "thing": "ladder ribbon",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "lambis_shell": {
+  "contents": [
+   {
+    "thing": "lambis shell",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "lantern_chandelier_01": {
+  "contents": [
+   {
+    "thing": "lantern chandelier",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "large_castle_door": {
+  "contents": [
+   {
+    "thing": "frame",
+    "count": 1
+   },
+   {
+    "thing": "large castle door",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "large_iron_gate": {
+  "contents": [
+   {
+    "thing": "door",
+    "count": 2
+   },
+   {
+    "thing": "bolt",
+    "count": 1
+   },
+   {
+    "thing": "large iron gate",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "lateral_sea_marker": {
+  "contents": [
+   {
+    "thing": "lateral sea marker",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "leather_cleaner_can": {
+  "contents": [
+   {
+    "thing": "leather cleaner can",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "leipoldtia_schultzei": {
+  "contents": [
+   {
+    "thing": "leipoldtia schultzei",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "lemon": {
+  "contents": [
+   {
+    "thing": "lemon",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "life_jacket": {
+  "contents": [
+   {
+    "thing": "life jacket",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "lifebuoy": {
+  "contents": [
+   {
+    "thing": "lifebuoy",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "lightbulb_01": {
+  "contents": [
+   {
+    "thing": "lightbulb",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "lightbulb_led": {
+  "contents": [
+   {
+    "thing": "lightbulb led",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "lion_head": {
+  "contents": [
+   {
+    "thing": "lion head",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "long_life_food": {
+  "contents": [
+   {
+    "thing": "milk",
+    "count": 1
+   },
+   {
+    "thing": "tomatoes",
+    "count": 1
+   },
+   {
+    "thing": "beans",
+    "count": 1
+   },
+   {
+    "thing": "sardines",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "lubricant_spray": {
+  "contents": [
+   {
+    "thing": "pipe",
+    "count": 1
+   },
+   {
+    "thing": "tape",
+    "count": 1
+   },
+   {
+    "thing": "tin",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "machete": {
+  "contents": [
+   {
+    "thing": "machete",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "magnifying_glass_01": {
+  "contents": [
+   {
+    "thing": "magnifying glass",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "mantel_clock_01": {
+  "contents": [
+   {
+    "thing": "mantel clock",
+    "count": 1
+   },
+   {
+    "thing": "glass",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "marble_bust_01": {
+  "contents": [
+   {
+    "thing": "marble bust",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "measuring_tape_01": {
+  "contents": [
+   {
+    "thing": "measuring tape",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "medical_box": {
+  "contents": [
+   {
+    "thing": "latch",
+    "count": 1
+   },
+   {
+    "thing": "latch rings",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "medical box",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "medical_tape": {
+  "contents": [
+   {
+    "thing": "medical tape",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_detector": {
+  "contents": [
+   {
+    "thing": "metal detector",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_jerrycan": {
+  "contents": [
+   {
+    "thing": "metal jerrycan",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_jerrycan_green": {
+  "contents": [
+   {
+    "thing": "pin",
+    "count": 1
+   },
+   {
+    "thing": "cap",
+    "count": 1
+   },
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "latch",
+    "count": 1
+   },
+   {
+    "thing": "fastener",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "metal_jug": {
+  "contents": [
+   {
+    "thing": "metal jug",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_office_desk": {
+  "contents": [
+   {
+    "thing": "drawer",
+    "count": 6
+   },
+   {
+    "thing": "tray",
+    "count": 2
+   },
+   {
+    "thing": "metal office desk",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "metal_stool_01": {
+  "contents": [
+   {
+    "thing": "metal stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_stool_02": {
+  "contents": [
+   {
+    "thing": "metal stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_stool_03": {
+  "contents": [
+   {
+    "thing": "metal stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "metal_tool_chest": {
+  "contents": [
+   {
+    "thing": "chest",
+    "count": 1
+   },
+   {
+    "thing": "hinge chest",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 2
+   },
+   {
+    "thing": "lock",
+    "count": 1
+   },
+   {
+    "thing": "hinge lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "metal_toolbox": {
+  "contents": [
+   {
+    "thing": "metal toolbox",
+    "count": 1
+   },
+   {
+    "thing": "tray",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "metal_trash_can": {
+  "contents": [
+   {
+    "thing": "handle",
+    "count": 2
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "metal trash can",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "rust"
+  ],
+  "fused": false
+ },
+ "mid_century_lounge_chair": {
+  "contents": [
+   {
+    "thing": "mid century lounge chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "modern_arm_chair_01": {
+  "contents": [
+   {
+    "thing": "modern arm chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "modern_ceiling_lamp_01": {
+  "contents": [
+   {
+    "thing": "modern ceiling lamp",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "modern_coffee_table_01": {
+  "contents": [
+   {
+    "thing": "modern coffee table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "modern_coffee_table_02": {
+  "contents": [
+   {
+    "thing": "modern coffee table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "modern_wooden_cabinet": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 2
+   },
+   {
+    "thing": "path",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modified_thermos": {
+  "contents": [
+   {
+    "thing": "modified thermos",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "modular_airduct_circular_01": {
+  "contents": [
+   {
+    "thing": "modular airduct rectangular vent fan",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct rectangular converter",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular single",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular smooth single",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular smooth bend half",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular smooth bend quater",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular fan",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular brace extention wires",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular brace",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular brace extention",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular triple",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular double",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular smooth double",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular smooth triple",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular bend half",
+    "count": 1
+   },
+   {
+    "thing": "modular airduct circular bend quater",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_airduct_rectangular_01": {
+  "contents": [
+   {
+    "thing": "single",
+    "count": 1
+   },
+   {
+    "thing": "double",
+    "count": 1
+   },
+   {
+    "thing": "tripple",
+    "count": 1
+   },
+   {
+    "thing": "corner",
+    "count": 2
+   },
+   {
+    "thing": "bend",
+    "count": 2
+   },
+   {
+    "thing": "transition double",
+    "count": 2
+   },
+   {
+    "thing": "splitter",
+    "count": 1
+   },
+   {
+    "thing": "half",
+    "count": 1
+   },
+   {
+    "thing": "connector",
+    "count": 1
+   },
+   {
+    "thing": "vent",
+    "count": 2
+   },
+   {
+    "thing": "brace",
+    "count": 1
+   },
+   {
+    "thing": "brace wire",
+    "count": 1
+   },
+   {
+    "thing": "fastener",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "closed"
+  ],
+  "fused": false
+ },
+ "modular_chainlink_fence": {
+  "contents": [
+   {
+    "thing": "door latch",
+    "count": 1
+   },
+   {
+    "thing": "door gate",
+    "count": 1
+   },
+   {
+    "thing": "corner outer",
+    "count": 1
+   },
+   {
+    "thing": "start corner",
+    "count": 2
+   },
+   {
+    "thing": "modular chainlink post middle",
+    "count": 1
+   },
+   {
+    "thing": "end",
+    "count": 2
+   },
+   {
+    "thing": "door frame",
+    "count": 1
+   },
+   {
+    "thing": "bar bracket",
+    "count": 3
+   },
+   {
+    "thing": "post bracket",
+    "count": 3
+   },
+   {
+    "thing": "double",
+    "count": 1
+   },
+   {
+    "thing": "modular chainlink fence",
+    "count": 1
+   },
+   {
+    "thing": "post",
+    "count": 1
+   },
+   {
+    "thing": "corner support",
+    "count": 1
+   },
+   {
+    "thing": "corner inner",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_electric_cables": {
+  "contents": [
+   {
+    "thing": "cable straight",
+    "count": 1
+   },
+   {
+    "thing": "cable straight short",
+    "count": 1
+   },
+   {
+    "thing": "cable mount",
+    "count": 1
+   },
+   {
+    "thing": "cable end",
+    "count": 1
+   },
+   {
+    "thing": "cable straight long",
+    "count": 1
+   },
+   {
+    "thing": "cable scurve",
+    "count": 4
+   },
+   {
+    "thing": "cable turn long",
+    "count": 1
+   },
+   {
+    "thing": "cable turn short",
+    "count": 1
+   },
+   {
+    "thing": "cable corner towards",
+    "count": 1
+   },
+   {
+    "thing": "cable 10cm",
+    "count": 1
+   },
+   {
+    "thing": "cable 5cm",
+    "count": 1
+   },
+   {
+    "thing": "cable 2cm",
+    "count": 1
+   },
+   {
+    "thing": "cable bridge",
+    "count": 3
+   },
+   {
+    "thing": "cable corner away",
+    "count": 1
+   },
+   {
+    "thing": "cable 3way junction",
+    "count": 1
+   },
+   {
+    "thing": "cable double",
+    "count": 1
+   },
+   {
+    "thing": "cable double 10cm",
+    "count": 1
+   },
+   {
+    "thing": "cable double alt long",
+    "count": 1
+   },
+   {
+    "thing": "cable double alt short",
+    "count": 1
+   },
+   {
+    "thing": "cable double alt turn",
+    "count": 1
+   },
+   {
+    "thing": "cable double end",
+    "count": 1
+   },
+   {
+    "thing": "cable double junction",
+    "count": 1
+   },
+   {
+    "thing": "cable double mount",
+    "count": 1
+   },
+   {
+    "thing": "cable double scurve",
+    "count": 1
+   },
+   {
+    "thing": "cable double turn long",
+    "count": 1
+   },
+   {
+    "thing": "cable double turn short",
+    "count": 1
+   },
+   {
+    "thing": "cable double uturn",
+    "count": 1
+   },
+   {
+    "thing": "cable to double",
+    "count": 4
+   },
+   {
+    "thing": "cable box 3way",
+    "count": 1
+   },
+   {
+    "thing": "cable box 4way",
+    "count": 1
+   },
+   {
+    "thing": "cable box double",
+    "count": 1
+   },
+   {
+    "thing": "cable box double to single",
+    "count": 2
+   },
+   {
+    "thing": "cable box turn",
+    "count": 1
+   },
+   {
+    "thing": "cable lightswitch",
+    "count": 2
+   },
+   {
+    "thing": "cable lightswitch double",
+    "count": 1
+   },
+   {
+    "thing": "cable plug 4x",
+    "count": 1
+   },
+   {
+    "thing": "cable plug covered",
+    "count": 2
+   },
+   {
+    "thing": "cable switch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_electricity_poles": {
+  "contents": [
+   {
+    "thing": "bolt",
+    "count": 2
+   },
+   {
+    "thing": "cap",
+    "count": 1
+   },
+   {
+    "thing": "connection",
+    "count": 4
+   },
+   {
+    "thing": "connection offset",
+    "count": 2
+   },
+   {
+    "thing": "connection single",
+    "count": 3
+   },
+   {
+    "thing": "fastener",
+    "count": 1
+   },
+   {
+    "thing": "fastener bolt",
+    "count": 1
+   },
+   {
+    "thing": "fastener connection",
+    "count": 1
+   },
+   {
+    "thing": "fastener loop",
+    "count": 1
+   },
+   {
+    "thing": "fastener nut",
+    "count": 1
+   },
+   {
+    "thing": "fuse",
+    "count": 2
+   },
+   {
+    "thing": "insulator",
+    "count": 3
+   },
+   {
+    "thing": "insulator cable",
+    "count": 3
+   },
+   {
+    "thing": "insulators",
+    "count": 2
+   },
+   {
+    "thing": "nail",
+    "count": 1
+   },
+   {
+    "thing": "nail bent",
+    "count": 1
+   },
+   {
+    "thing": "nut",
+    "count": 1
+   },
+   {
+    "thing": "pole",
+    "count": 3
+   },
+   {
+    "thing": "ring",
+    "count": 2
+   },
+   {
+    "thing": "support",
+    "count": 4
+   },
+   {
+    "thing": "support offset",
+    "count": 2
+   },
+   {
+    "thing": "transformer",
+    "count": 2
+   },
+   {
+    "thing": "preset bolt",
+    "count": 15
+   },
+   {
+    "thing": "preset cap",
+    "count": 3
+   },
+   {
+    "thing": "preset connection offset",
+    "count": 1
+   },
+   {
+    "thing": "preset connection single",
+    "count": 4
+   },
+   {
+    "thing": "preset connection",
+    "count": 5
+   },
+   {
+    "thing": "preset fuse",
+    "count": 3
+   },
+   {
+    "thing": "preset nail bent",
+    "count": 2
+   },
+   {
+    "thing": "preset pole",
+    "count": 3
+   },
+   {
+    "thing": "preset ring",
+    "count": 18
+   },
+   {
+    "thing": "preset transformer",
+    "count": 3
+   },
+   {
+    "thing": "preset fastener",
+    "count": 1
+   },
+   {
+    "thing": "preset fastener connection",
+    "count": 1
+   },
+   {
+    "thing": "preset fastener loop",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_factory_facade": {
+  "contents": [
+   {
+    "thing": "cornice standard standard",
+    "count": 3
+   },
+   {
+    "thing": "cornice end",
+    "count": 4
+   },
+   {
+    "thing": "cornice standard corner",
+    "count": 12
+   },
+   {
+    "thing": "cornice pier corner",
+    "count": 4
+   },
+   {
+    "thing": "cornice pier standard",
+    "count": 2
+   },
+   {
+    "thing": "window centered",
+    "count": 12
+   },
+   {
+    "thing": "window",
+    "count": 16
+   },
+   {
+    "thing": "window centered double",
+    "count": 4
+   },
+   {
+    "thing": "window offset",
+    "count": 8
+   },
+   {
+    "thing": "dado standard corner",
+    "count": 4
+   },
+   {
+    "thing": "dado end",
+    "count": 2
+   },
+   {
+    "thing": "dado standard standard",
+    "count": 1
+   },
+   {
+    "thing": "dado door centered",
+    "count": 2
+   },
+   {
+    "thing": "dado door recessed",
+    "count": 2
+   },
+   {
+    "thing": "dado garage door",
+    "count": 2
+   },
+   {
+    "thing": "dado garage centered",
+    "count": 1
+   },
+   {
+    "thing": "dado garage double",
+    "count": 1
+   },
+   {
+    "thing": "dado pier corner",
+    "count": 2
+   },
+   {
+    "thing": "dado pier pedestal",
+    "count": 1
+   },
+   {
+    "thing": "base standard corner",
+    "count": 4
+   },
+   {
+    "thing": "base end",
+    "count": 2
+   },
+   {
+    "thing": "base standard standard",
+    "count": 1
+   },
+   {
+    "thing": "crown standard standard",
+    "count": 1
+   },
+   {
+    "thing": "crown end",
+    "count": 2
+   },
+   {
+    "thing": "crown standard corner",
+    "count": 4
+   },
+   {
+    "thing": "crown pier corner",
+    "count": 2
+   },
+   {
+    "thing": "crown pier pedestal",
+    "count": 1
+   },
+   {
+    "thing": "wall standard standard",
+    "count": 1
+   },
+   {
+    "thing": "wall door centered",
+    "count": 3
+   },
+   {
+    "thing": "wall window",
+    "count": 20
+   },
+   {
+    "thing": "wall window centered",
+    "count": 16
+   },
+   {
+    "thing": "wall door recessed",
+    "count": 3
+   },
+   {
+    "thing": "wall door garage door",
+    "count": 2
+   },
+   {
+    "thing": "wall door garage centered",
+    "count": 1
+   },
+   {
+    "thing": "wall window centered double",
+    "count": 4
+   },
+   {
+    "thing": "wall window offset",
+    "count": 8
+   },
+   {
+    "thing": "wall door garage double",
+    "count": 1
+   },
+   {
+    "thing": "wall door window",
+    "count": 8
+   },
+   {
+    "thing": "wall standard corner",
+    "count": 4
+   },
+   {
+    "thing": "wall pier corner",
+    "count": 2
+   },
+   {
+    "thing": "wall pier standard",
+    "count": 1
+   },
+   {
+    "thing": "door recessed",
+    "count": 3
+   },
+   {
+    "thing": "door centered",
+    "count": 3
+   },
+   {
+    "thing": "door garage door",
+    "count": 2
+   },
+   {
+    "thing": "door garage centered",
+    "count": 1
+   },
+   {
+    "thing": "door garage double",
+    "count": 1
+   },
+   {
+    "thing": "door window",
+    "count": 8
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_fire_escape": {
+  "contents": [
+   {
+    "thing": "railing middle",
+    "count": 1
+   },
+   {
+    "thing": "platform railing",
+    "count": 1
+   },
+   {
+    "thing": "platform middle",
+    "count": 1
+   },
+   {
+    "thing": "stairs",
+    "count": 1
+   },
+   {
+    "thing": "ladder bottom",
+    "count": 1
+   },
+   {
+    "thing": "railing bottom",
+    "count": 1
+   },
+   {
+    "thing": "platform bottom",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_fort_01": {
+  "contents": [
+   {
+    "thing": "wall thick corner",
+    "count": 2
+   },
+   {
+    "thing": "tower round",
+    "count": 1
+   },
+   {
+    "thing": "wall thick straight",
+    "count": 2
+   },
+   {
+    "thing": "wall thick end",
+    "count": 2
+   },
+   {
+    "thing": "wall thick thin transition",
+    "count": 1
+   },
+   {
+    "thing": "wall thin straight",
+    "count": 4
+   },
+   {
+    "thing": "wall thin corner",
+    "count": 3
+   },
+   {
+    "thing": "wall thin gate",
+    "count": 1
+   },
+   {
+    "thing": "wall walkway straight",
+    "count": 2
+   },
+   {
+    "thing": "wall walkway corner",
+    "count": 2
+   },
+   {
+    "thing": "wall stairs straight",
+    "count": 1
+   },
+   {
+    "thing": "wall walkway end",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_industrial_pipes_01": {
+  "contents": [
+   {
+    "thing": "pipe",
+    "count": 8
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_metal_gutter": {
+  "contents": [
+   {
+    "thing": "outlet",
+    "count": 1
+   },
+   {
+    "thing": "coupler",
+    "count": 1
+   },
+   {
+    "thing": "funnel",
+    "count": 1
+   },
+   {
+    "thing": "bend",
+    "count": 1
+   },
+   {
+    "thing": "bracing",
+    "count": 1
+   },
+   {
+    "thing": "gutter plug",
+    "count": 1
+   },
+   {
+    "thing": "modular metal gutter",
+    "count": 1
+   },
+   {
+    "thing": "gutter bracing",
+    "count": 1
+   },
+   {
+    "thing": "corner",
+    "count": 1
+   },
+   {
+    "thing": "shower receiver",
+    "count": 1
+   },
+   {
+    "thing": "gutter coupler",
+    "count": 1
+   },
+   {
+    "thing": "section",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_pipes": {
+  "contents": [
+   {
+    "thing": "pipe 5cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 10cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 20cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 40cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 60cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 100cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 140cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe 200cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe chamber metal",
+    "count": 2
+   },
+   {
+    "thing": "pipe junction metal",
+    "count": 5
+   },
+   {
+    "thing": "pipe curve metal",
+    "count": 4
+   },
+   {
+    "thing": "pipe support crossover metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe support double metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe support extension long metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe support extension short metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe support long metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe support metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 5cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 10cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 20cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 40cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 60cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 100cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 140cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 200cm metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin end metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin junction metal",
+    "count": 2
+   },
+   {
+    "thing": "pipe thin curve metal",
+    "count": 2
+   },
+   {
+    "thing": "pipe thin support crossover metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin support double metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin support long metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin support metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin turn long metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin turn short metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin valve metal",
+    "count": 2
+   },
+   {
+    "thing": "pipe to thin metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe turn long metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe turn short metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe uturn metal",
+    "count": 1
+   },
+   {
+    "thing": "pipe valve metal",
+    "count": 3
+   },
+   {
+    "thing": "pipe 5cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 10cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 20cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 40cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 60cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 100cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 140cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe 200cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe chamber pvc",
+    "count": 2
+   },
+   {
+    "thing": "pipe junction pvc",
+    "count": 5
+   },
+   {
+    "thing": "pipe curve pvc",
+    "count": 4
+   },
+   {
+    "thing": "pipe support crossover pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe support double pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe support extension long pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe support extension short pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe support long pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe support pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 5cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 10cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 20cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 40cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 60cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 100cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 140cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin 200cm pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin end pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin junction pvc",
+    "count": 2
+   },
+   {
+    "thing": "pipe thin curve pvc",
+    "count": 2
+   },
+   {
+    "thing": "pipe thin support crossover pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin support double pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin support long pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin support pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin turn long pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin turn short pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe thin valve pvc",
+    "count": 2
+   },
+   {
+    "thing": "pipe to thin pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe turn long pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe turn short pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe uturn pvc",
+    "count": 1
+   },
+   {
+    "thing": "pipe valve pvc",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_pipes_plastic_01": {
+  "contents": [
+   {
+    "thing": "garden pipe",
+    "count": 1
+   },
+   {
+    "thing": "garden pipe connector",
+    "count": 4
+   },
+   {
+    "thing": "garden pipe curve",
+    "count": 1
+   },
+   {
+    "thing": "straight pvc pipe",
+    "count": 1
+   },
+   {
+    "thing": "pvc ball valve",
+    "count": 1
+   },
+   {
+    "thing": "pvc connector",
+    "count": 7
+   },
+   {
+    "thing": "wall clamp",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_street_seating": {
+  "contents": [
+   {
+    "thing": "crossbar",
+    "count": 1
+   },
+   {
+    "thing": "legs double",
+    "count": 1
+   },
+   {
+    "thing": "legs single",
+    "count": 1
+   },
+   {
+    "thing": "suspended support",
+    "count": 2
+   },
+   {
+    "thing": "back support",
+    "count": 2
+   },
+   {
+    "thing": "arm rest",
+    "count": 2
+   },
+   {
+    "thing": "seat",
+    "count": 1
+   },
+   {
+    "thing": "seat back",
+    "count": 1
+   },
+   {
+    "thing": "connector",
+    "count": 4
+   },
+   {
+    "thing": "seat bench",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_urban_apartments_facade": {
+  "contents": [
+   {
+    "thing": "door angled",
+    "count": 2
+   },
+   {
+    "thing": "door centered",
+    "count": 3
+   },
+   {
+    "thing": "door offset",
+    "count": 4
+   },
+   {
+    "thing": "door window",
+    "count": 12
+   },
+   {
+    "thing": "cornice end",
+    "count": 2
+   },
+   {
+    "thing": "cornice standard standard",
+    "count": 1
+   },
+   {
+    "thing": "cornice standard angled",
+    "count": 2
+   },
+   {
+    "thing": "cornice standard corner",
+    "count": 4
+   },
+   {
+    "thing": "cornice pier angled",
+    "count": 1
+   },
+   {
+    "thing": "cornice pier corner",
+    "count": 2
+   },
+   {
+    "thing": "cornice pier standard",
+    "count": 1
+   },
+   {
+    "thing": "crown standard angled",
+    "count": 2
+   },
+   {
+    "thing": "crown standard standard",
+    "count": 1
+   },
+   {
+    "thing": "crown end",
+    "count": 2
+   },
+   {
+    "thing": "crown standard corner",
+    "count": 4
+   },
+   {
+    "thing": "crown pier pedestal",
+    "count": 1
+   },
+   {
+    "thing": "crown pier corner",
+    "count": 2
+   },
+   {
+    "thing": "crown pier angled",
+    "count": 1
+   },
+   {
+    "thing": "dado end",
+    "count": 2
+   },
+   {
+    "thing": "dado door centered",
+    "count": 3
+   },
+   {
+    "thing": "dado door angled",
+    "count": 2
+   },
+   {
+    "thing": "dado door offset",
+    "count": 2
+   },
+   {
+    "thing": "dado door window",
+    "count": 1
+   },
+   {
+    "thing": "dado standard standard",
+    "count": 1
+   },
+   {
+    "thing": "dado standard angled",
+    "count": 2
+   },
+   {
+    "thing": "dado standard corner",
+    "count": 4
+   },
+   {
+    "thing": "dado pier pedestal",
+    "count": 1
+   },
+   {
+    "thing": "dado pier angled",
+    "count": 1
+   },
+   {
+    "thing": "dado pier corner",
+    "count": 2
+   },
+   {
+    "thing": "wall door centered",
+    "count": 3
+   },
+   {
+    "thing": "wall door angled",
+    "count": 2
+   },
+   {
+    "thing": "wall window angled",
+    "count": 4
+   },
+   {
+    "thing": "wall window centered",
+    "count": 6
+   },
+   {
+    "thing": "wall window centered double",
+    "count": 3
+   },
+   {
+    "thing": "wall window offset",
+    "count": 6
+   },
+   {
+    "thing": "wall door offset",
+    "count": 4
+   },
+   {
+    "thing": "wall door window",
+    "count": 12
+   },
+   {
+    "thing": "wall standard standard",
+    "count": 1
+   },
+   {
+    "thing": "wall standard angled",
+    "count": 2
+   },
+   {
+    "thing": "wall standard corner",
+    "count": 4
+   },
+   {
+    "thing": "wall pier angled",
+    "count": 1
+   },
+   {
+    "thing": "wall pier corner",
+    "count": 2
+   },
+   {
+    "thing": "wall pier standard",
+    "count": 1
+   },
+   {
+    "thing": "base end",
+    "count": 2
+   },
+   {
+    "thing": "base standard",
+    "count": 1
+   },
+   {
+    "thing": "base angled",
+    "count": 2
+   },
+   {
+    "thing": "base corner",
+    "count": 4
+   },
+   {
+    "thing": "window centered",
+    "count": 6
+   },
+   {
+    "thing": "window angled",
+    "count": 4
+   },
+   {
+    "thing": "window centered double",
+    "count": 3
+   },
+   {
+    "thing": "window offset",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "modular_wooden_pier": {
+  "contents": [
+   {
+    "thing": "poles",
+    "count": 1
+   },
+   {
+    "thing": "planks",
+    "count": 1
+   },
+   {
+    "thing": "section",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "moon_rock_01": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "moon_rock_02": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "moon_rock_03": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "moon_rock_04": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "moon_rock_05": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "moon_rock_06": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "moon_rock_07": {
+  "contents": [
+   {
+    "thing": "moon rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "moss_01": {
+  "contents": [
+   {
+    "thing": "moss",
+    "count": 12
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "mountainside": {
+  "contents": [
+   {
+    "thing": "mountainside",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "mounted_fluorescent_lights": {
+  "contents": [
+   {
+    "thing": "mounted fluorescent lights",
+    "count": 7
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "mousetrap": {
+  "contents": [
+   {
+    "thing": "mousetrap",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "multi_cleaner_5_litre": {
+  "contents": [
+   {
+    "thing": "multi cleaner 5 litre",
+    "count": 1
+   },
+   {
+    "thing": "cap",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "multi_cleaner_bottle": {
+  "contents": [
+   {
+    "thing": "multi cleaner bottle",
+    "count": 1
+   },
+   {
+    "thing": "sticker",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "namaqualand_boulder_02": {
+  "contents": [
+   {
+    "thing": "boulder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_boulder_03": {
+  "contents": [
+   {
+    "thing": "boulder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_boulder_04": {
+  "contents": [
+   {
+    "thing": "boulder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_boulder_05": {
+  "contents": [
+   {
+    "thing": "namaqualand boulder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_boulder_06": {
+  "contents": [
+   {
+    "thing": "namaqualand boulder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_boulders_01": {
+  "contents": [
+   {
+    "thing": "namaqualand rocks",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "namaqualand_cliff_01": {
+  "contents": [
+   {
+    "thing": "drone rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_cliff_02": {
+  "contents": [
+   {
+    "thing": "drone rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "namaqualand_rocks_01": {
+  "contents": [
+   {
+    "thing": "namaqualand rocks",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "namaqualand_stones_01": {
+  "contents": [
+   {
+    "thing": "namaqualand stones",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "nettle_plant": {
+  "contents": [
+   {
+    "thing": "nettle plant",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "ocean_buoy": {
+  "contents": [
+   {
+    "thing": "ocean buoy",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "office_notepads": {
+  "contents": [
+   {
+    "thing": "yellow sheet",
+    "count": 1
+   },
+   {
+    "thing": "yellow pad",
+    "count": 1
+   },
+   {
+    "thing": "note stack",
+    "count": 1
+   },
+   {
+    "thing": "sticky stack",
+    "count": 1
+   },
+   {
+    "thing": "sticky sheet",
+    "count": 1
+   },
+   {
+    "thing": "note sheet",
+    "count": 1
+   },
+   {
+    "thing": "stack",
+    "count": 1
+   },
+   {
+    "thing": "office notepads",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "oil_tin": {
+  "contents": [
+   {
+    "thing": "oil tin",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "old_bed_frame": {
+  "contents": [
+   {
+    "thing": "old bed frame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "old_drill_press": {
+  "contents": [
+   {
+    "thing": "cable",
+    "count": 1
+   },
+   {
+    "thing": "old drill press",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "old_gas_mask": {
+  "contents": [
+   {
+    "thing": "old gas mask",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "old_military_compressor": {
+  "contents": [
+   {
+    "thing": "old military compressor",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "old_military_crate": {
+  "contents": [
+   {
+    "thing": "lid",
+    "count": 2
+   },
+   {
+    "thing": "loop",
+    "count": 2
+   },
+   {
+    "thing": "latch",
+    "count": 2
+   },
+   {
+    "thing": "cloth",
+    "count": 2
+   },
+   {
+    "thing": "old military crate",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "old_tyre": {
+  "contents": [
+   {
+    "thing": "old tyre",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ornate_medieval_dagger": {
+  "contents": [
+   {
+    "thing": "ornate medieval dagger",
+    "count": 1
+   },
+   {
+    "thing": "scabbard",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "ornate_medieval_mace": {
+  "contents": [
+   {
+    "thing": "ornate medieval mace",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ornate_mirror_01": {
+  "contents": [
+   {
+    "thing": "ornate mirror",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ornate_war_hammer": {
+  "contents": [
+   {
+    "thing": "ornate war hammer",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "othonna_cerarioides": {
+  "contents": [
+   {
+    "thing": "othonna cerarioides",
+    "count": 7
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "outdoor_table_chair_set_01": {
+  "contents": [
+   {
+    "thing": "chair",
+    "count": 2
+   },
+   {
+    "thing": "table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "overhead_crane": {
+  "contents": [
+   {
+    "thing": "rails",
+    "count": 1
+   },
+   {
+    "thing": "winch",
+    "count": 1
+   },
+   {
+    "thing": "overhead crane",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "pachira_aquatica_01": {
+  "contents": [
+   {
+    "thing": "bark",
+    "count": 4
+   },
+   {
+    "thing": "leaves",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "painted_wooden_bench": {
+  "contents": [
+   {
+    "thing": "painted wooden bench",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "painted_wooden_cabinet": {
+  "contents": [
+   {
+    "thing": "painted wooden cabinet",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 2
+   },
+   {
+    "thing": "drawer",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "painted_wooden_cabinet_02": {
+  "contents": [
+   {
+    "thing": "painted wooden cabinet",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "painted_wooden_chair_01": {
+  "contents": [
+   {
+    "thing": "painted wooden chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "painted_wooden_chair_02": {
+  "contents": [
+   {
+    "thing": "painted wooden chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "painted_wooden_nightstand": {
+  "contents": [
+   {
+    "thing": "painted wooden nightstand",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "painted_wooden_shelves": {
+  "contents": [
+   {
+    "thing": "painted wooden shelves",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "painted_wooden_sofa": {
+  "contents": [
+   {
+    "thing": "painted wooden sofa",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "painted_wooden_stool": {
+  "contents": [
+   {
+    "thing": "painted wooden stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "painted_wooden_table": {
+  "contents": [
+   {
+    "thing": "painted wooden table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "pastic_torch_6v": {
+  "contents": [
+   {
+    "thing": "pastic torch 6v",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "periwinkle_plant": {
+  "contents": [
+   {
+    "thing": "periwinkle plant",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "picke_dirty_01": {
+  "contents": [
+   {
+    "thing": "picke dirty",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "pine_roots": {
+  "contents": [
+   {
+    "thing": "pine roots",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "pine_sapling_medium": {
+  "contents": [
+   {
+    "thing": "pine sapling medium",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "pine_sapling_small": {
+  "contents": [
+   {
+    "thing": "pine sapling small",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "pine_tree_01": {
+  "contents": [
+   {
+    "thing": "pine tree",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "pipe_wrench": {
+  "contents": [
+   {
+    "thing": "pipe wrench",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "planter_box_01": {
+  "contents": [
+   {
+    "thing": "planter box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "planter_box_02": {
+  "contents": [
+   {
+    "thing": "planter box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "planter_box_03": {
+  "contents": [
+   {
+    "thing": "planter box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "planter_pot_clay": {
+  "contents": [
+   {
+    "thing": "planter pot clay",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_bottle_gallon": {
+  "contents": [
+   {
+    "thing": "plastic bottle gallon",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_broom": {
+  "contents": [
+   {
+    "thing": "plastic broom",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_container": {
+  "contents": [
+   {
+    "thing": "plastic container",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_crate_01": {
+  "contents": [
+   {
+    "thing": "plastic crate",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_crate_02": {
+  "contents": [
+   {
+    "thing": "plastic crate",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_crate_03": {
+  "contents": [
+   {
+    "thing": "plastic crate",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_jerrycan": {
+  "contents": [
+   {
+    "thing": "plastic jerrycan",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_monobloc_chair_01": {
+  "contents": [
+   {
+    "thing": "plastic monobloc chair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "plastic_thermos": {
+  "contents": [
+   {
+    "thing": "plastic thermos",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "pliers": {
+  "contents": [
+   {
+    "thing": "pliers",
+    "count": 2
+   },
+   {
+    "thing": "pin",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "plunger": {
+  "contents": [
+   {
+    "thing": "plunger",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "pocket_watch": {
+  "contents": [
+   {
+    "thing": "button",
+    "count": 1
+   },
+   {
+    "thing": "frame",
+    "count": 1
+   },
+   {
+    "thing": "hand hours",
+    "count": 1
+   },
+   {
+    "thing": "ring",
+    "count": 1
+   },
+   {
+    "thing": "hand secondes",
+    "count": 1
+   },
+   {
+    "thing": "hand minutes",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "portable_cassette_player": {
+  "contents": [
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "portable cassette player",
+    "count": 1
+   },
+   {
+    "thing": "casette",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "portable_generator": {
+  "contents": [
+   {
+    "thing": "portable generator",
+    "count": 1
+   },
+   {
+    "thing": "dial",
+    "count": 1
+   },
+   {
+    "thing": "switch",
+    "count": 1
+   },
+   {
+    "thing": "toggle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "portable_searchlight": {
+  "contents": [
+   {
+    "thing": "portable searchlight",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "portable_welding_cart": {
+  "contents": [
+   {
+    "thing": "portable welding cart",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "postcard_set_01": {
+  "contents": [
+   {
+    "thing": "postcard",
+    "count": 20
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "pot_enamel_01": {
+  "contents": [
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "base",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "potted_plant_01": {
+  "contents": [
+   {
+    "thing": "stem",
+    "count": 1
+   },
+   {
+    "thing": "pebbles",
+    "count": 1
+   },
+   {
+    "thing": "pot",
+    "count": 1
+   },
+   {
+    "thing": "leaves",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "potted_plant_02": {
+  "contents": [
+   {
+    "thing": "pot",
+    "count": 1
+   },
+   {
+    "thing": "leaves",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "dirt"
+  ],
+  "fused": false
+ },
+ "potted_plant_04": {
+  "contents": [
+   {
+    "thing": "ground",
+    "count": 1
+   },
+   {
+    "thing": "plant",
+    "count": 1
+   },
+   {
+    "thing": "pot",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "dirt"
+  ],
+  "fused": false
+ },
+ "power_box_01": {
+  "contents": [
+   {
+    "thing": "door",
+    "count": 1
+   },
+   {
+    "thing": "box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "projector_screen": {
+  "contents": [
+   {
+    "thing": "projector screen",
+    "count": 1
+   },
+   {
+    "thing": "frame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "propane_tank": {
+  "contents": [
+   {
+    "thing": "propane tank",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "propane_torch": {
+  "contents": [
+   {
+    "thing": "propane torch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "propane_torch_02": {
+  "contents": [
+   {
+    "thing": "propane torch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "pull_chain_light_socket": {
+  "contents": [
+   {
+    "thing": "pull chain light socket",
+    "count": 1
+   },
+   {
+    "thing": "chain",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "quiver_tree_01": {
+  "contents": [
+   {
+    "thing": "quiver tree",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "quiver_tree_02": {
+  "contents": [
+   {
+    "thing": "quiver tree",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "ratchet_wrench": {
+  "contents": [
+   {
+    "thing": "ratchet wrench",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "retro_multimeter": {
+  "contents": [
+   {
+    "thing": "retro multimeter",
+    "count": 1
+   },
+   {
+    "thing": "buttons",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   },
+   {
+    "thing": "dial",
+    "count": 1
+   },
+   {
+    "thing": "knob",
+    "count": 1
+   },
+   {
+    "thing": "cables",
+    "count": 1
+   },
+   {
+    "thing": "needle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "rock_07": {
+  "contents": [
+   {
+    "thing": "rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rock_09": {
+  "contents": [
+   {
+    "thing": "rock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rock_face_01": {
+  "contents": [
+   {
+    "thing": "rock face",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rock_face_02": {
+  "contents": [
+   {
+    "thing": "rock face",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rock_moss_set_01": {
+  "contents": [
+   {
+    "thing": "rock",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "rock_moss_set_02": {
+  "contents": [
+   {
+    "thing": "rock",
+    "count": 7
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "rollershutter_door": {
+  "contents": [
+   {
+    "thing": "rollershutter door",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "graffiti"
+  ],
+  "fused": false
+ },
+ "rollershutter_window_01": {
+  "contents": [
+   {
+    "thing": "rollershutter window",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "graffiti"
+  ],
+  "fused": false
+ },
+ "rollershutter_window_02": {
+  "contents": [
+   {
+    "thing": "rollershutter window",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "graffiti"
+  ],
+  "fused": false
+ },
+ "rollershutter_window_03": {
+  "contents": [
+   {
+    "thing": "rollershutter window",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "graffiti"
+  ],
+  "fused": false
+ },
+ "root_cluster_01": {
+  "contents": [
+   {
+    "thing": "root cluster",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "root_cluster_02": {
+  "contents": [
+   {
+    "thing": "root cluster",
+    "count": 8
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "round_spectacles": {
+  "contents": [
+   {
+    "thing": "round spectacles",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "round_wooden_table_01": {
+  "contents": [
+   {
+    "thing": "round wooden table",
+    "count": 1
+   },
+   {
+    "thing": "bolts",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "round_wooden_table_02": {
+  "contents": [
+   {
+    "thing": "round wooden table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rubber_boots": {
+  "contents": [
+   {
+    "thing": "rubber boots",
+    "count": 2
+   }
+  ],
+  "versions": [
+   "dirty",
+   "dirt"
+  ],
+  "fused": false
+ },
+ "rubber_duck_toy": {
+  "contents": [
+   {
+    "thing": "rubber duck toy",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "russian_food_cans_01": {
+  "contents": [
+   {
+    "thing": "salt box",
+    "count": 1
+   },
+   {
+    "thing": "can cond",
+    "count": 1
+   },
+   {
+    "thing": "can fish",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "rusted_hacksaw": {
+  "contents": [
+   {
+    "thing": "rusted hacksaw",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rusted_spade_01": {
+  "contents": [
+   {
+    "thing": "rusted spade",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rusted_wheel_rim_01": {
+  "contents": [
+   {
+    "thing": "rusted wheel rim",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "rusted_wheel_rim_02": {
+  "contents": [
+   {
+    "thing": "rusted wheel rim",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "sand_rocks_small_01": {
+  "contents": [
+   {
+    "thing": "sand rocks small",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "scandinavian_masonry_heater": {
+  "contents": [
+   {
+    "thing": "scandinavian masonry heater",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "screwdriver": {
+  "contents": [
+   {
+    "thing": "screwdriver",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "screwdrivers_02": {
+  "contents": [
+   {
+    "thing": "screwdrivers",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "seadogs_compass": {
+  "contents": [
+   {
+    "thing": "seadogs compass",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "needle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "searsia_burchellii": {
+  "contents": [
+   {
+    "thing": "searsia burchellii",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "searsia_lucida": {
+  "contents": [
+   {
+    "thing": "searsia lucida",
+    "count": 7
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "security_camera_01": {
+  "contents": [
+   {
+    "thing": "security camera",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "security_camera_02": {
+  "contents": [
+   {
+    "thing": "mount",
+    "count": 1
+   },
+   {
+    "thing": "security camera",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "security_light": {
+  "contents": [
+   {
+    "thing": "security light",
+    "count": 1
+   },
+   {
+    "thing": "glass",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "seeding_tray_01": {
+  "contents": [
+   {
+    "thing": "seeding tray",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "service_pistol": {
+  "contents": [
+   {
+    "thing": "pistol",
+    "count": 2
+   },
+   {
+    "thing": "slide",
+    "count": 2
+   },
+   {
+    "thing": "magazine loaded",
+    "count": 1
+   },
+   {
+    "thing": "magazine empty",
+    "count": 1
+   },
+   {
+    "thing": "bullet",
+    "count": 1
+   },
+   {
+    "thing": "hammer",
+    "count": 2
+   },
+   {
+    "thing": "trigger",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "ship_pinnace": {
+  "contents": [
+   {
+    "thing": "aft",
+    "count": 1
+   },
+   {
+    "thing": "rigging",
+    "count": 1
+   },
+   {
+    "thing": "details",
+    "count": 1
+   },
+   {
+    "thing": "hull",
+    "count": 1
+   },
+   {
+    "thing": "deck",
+    "count": 1
+   },
+   {
+    "thing": "interior",
+    "count": 1
+   },
+   {
+    "thing": "sails",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "shrub_01": {
+  "contents": [
+   {
+    "thing": "shrub",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "shrub_02": {
+  "contents": [
+   {
+    "thing": "shrub",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "shrub_03": {
+  "contents": [
+   {
+    "thing": "shrub",
+    "count": 4
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "shrub_04": {
+  "contents": [
+   {
+    "thing": "shrub",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "shrub_sorrel_01": {
+  "contents": [
+   {
+    "thing": "shrub sorrel",
+    "count": 11
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "side_table_01": {
+  "contents": [
+   {
+    "thing": "side table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "side_table_tall_01": {
+  "contents": [
+   {
+    "thing": "side table tall",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "signal_flashlight": {
+  "contents": [
+   {
+    "thing": "clip",
+    "count": 1
+   },
+   {
+    "thing": "signal flashlight",
+    "count": 1
+   },
+   {
+    "thing": "signal",
+    "count": 3
+   },
+   {
+    "thing": "switch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "single_root": {
+  "contents": [
+   {
+    "thing": "single root",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "sledgehammer_01": {
+  "contents": [
+   {
+    "thing": "sledgehammer",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "small_lpg_tank": {
+  "contents": [
+   {
+    "thing": "small lpg tank",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "small_oil_can_01": {
+  "contents": [
+   {
+    "thing": "small oil can",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "small_plastic_torch": {
+  "contents": [
+   {
+    "thing": "small plastic torch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "small_wooden_table_01": {
+  "contents": [
+   {
+    "thing": "small wooden table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "sofa_02": {
+  "contents": [
+   {
+    "thing": "base",
+    "count": 1
+   },
+   {
+    "thing": "seat",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "sofa_03": {
+  "contents": [
+   {
+    "thing": "sofa",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "spinning_wheel_01": {
+  "contents": [
+   {
+    "thing": "spinning wheel",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "spray_paint_bottles": {
+  "contents": [
+   {
+    "thing": "spray paint bottles",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "dirty"
+  ],
+  "fused": false
+ },
+ "spray_paint_bottles_02": {
+  "contents": [
+   {
+    "thing": "spray paint bottles",
+    "count": 1
+   }
+  ],
+  "versions": [
+   "dented"
+  ],
+  "fused": false
+ },
+ "standing_chalkboard_01": {
+  "contents": [
+   {
+    "thing": "standing chalkboard",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "standing_picture_frame_01": {
+  "contents": [
+   {
+    "thing": "standing picture frame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "standing_picture_frame_02": {
+  "contents": [
+   {
+    "thing": "standing picture frame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "stationery_supplies": {
+  "contents": [
+   {
+    "thing": "pen red",
+    "count": 1
+   },
+   {
+    "thing": "pencilcup",
+    "count": 1
+   },
+   {
+    "thing": "eraser",
+    "count": 1
+   },
+   {
+    "thing": "pencil new",
+    "count": 2
+   },
+   {
+    "thing": "pencil used",
+    "count": 1
+   },
+   {
+    "thing": "pencil old",
+    "count": 1
+   },
+   {
+    "thing": "pen fancy",
+    "count": 1
+   },
+   {
+    "thing": "pen blue",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "steel_frame_shelves_01": {
+  "contents": [
+   {
+    "thing": "steel frame shelves",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "steel_frame_shelves_02": {
+  "contents": [
+   {
+    "thing": "steel frame shelves",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "steel_frame_shelves_03": {
+  "contents": [
+   {
+    "thing": "steel frame shelves",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "stick_grenade": {
+  "contents": [
+   {
+    "thing": "stick grenade",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "stone_01": {
+  "contents": [
+   {
+    "thing": "stone",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "stone_fire_pit": {
+  "contents": [
+   {
+    "thing": "stone fire pit",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "strawberry_chocolate_cake": {
+  "contents": [
+   {
+    "thing": "strawberry chocolate cake",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "street_lamp_01": {
+  "contents": [
+   {
+    "thing": "street lamp",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "street_lamp_02": {
+  "contents": [
+   {
+    "thing": "street lamp",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "street_rat": {
+  "contents": [
+   {
+    "thing": "street rat",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "sungka_board": {
+  "contents": [
+   {
+    "thing": "sungka board",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "sungka_board_02": {
+  "contents": [
+   {
+    "thing": "sungka board",
+    "count": 1
+   },
+   {
+    "thing": "shells",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "sweet_potato": {
+  "contents": [
+   {
+    "thing": "sweet potato",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "tea_set_01": {
+  "contents": [
+   {
+    "thing": "plate square",
+    "count": 1
+   },
+   {
+    "thing": "cup",
+    "count": 2
+   },
+   {
+    "thing": "saucer circular",
+    "count": 2
+   },
+   {
+    "thing": "plate circular",
+    "count": 1
+   },
+   {
+    "thing": "sugar cup",
+    "count": 1
+   },
+   {
+    "thing": "teapot",
+    "count": 1
+   },
+   {
+    "thing": "sugar cup lid",
+    "count": 1
+   },
+   {
+    "thing": "teapot lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "television_02": {
+  "contents": [
+   {
+    "thing": "television",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "throw_pillows_01": {
+  "contents": [
+   {
+    "thing": "pillow",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "tire_pump": {
+  "contents": [
+   {
+    "thing": "tire pump",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "tongue_groove_pliers": {
+  "contents": [
+   {
+    "thing": "tongue groove pliers",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "tool_cart": {
+  "contents": [
+   {
+    "thing": "tool cart",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "trashbag": {
+  "contents": [
+   {
+    "thing": "trashbag",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "treasure_chest": {
+  "contents": [
+   {
+    "thing": "bottom",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 2
+   },
+   {
+    "thing": "lock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "tree_small_02": {
+  "contents": [
+   {
+    "thing": "tree small",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "tree_stump_01": {
+  "contents": [
+   {
+    "thing": "tree stump",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "tree_stump_02": {
+  "contents": [
+   {
+    "thing": "tree stump",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "trowel_01": {
+  "contents": [
+   {
+    "thing": "trowel",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "utility_box_01": {
+  "contents": [
+   {
+    "thing": "box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "utility_box_02": {
+  "contents": [
+   {
+    "thing": "utility box",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_binocular": {
+  "contents": [
+   {
+    "thing": "lens",
+    "count": 2
+   },
+   {
+    "thing": "prism",
+    "count": 2
+   },
+   {
+    "thing": "middle",
+    "count": 1
+   },
+   {
+    "thing": "eye relief",
+    "count": 1
+   },
+   {
+    "thing": "focus",
+    "count": 1
+   },
+   {
+    "thing": "diopter",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_cabinet_01": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 7
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_crutches_01": {
+  "contents": [
+   {
+    "thing": "crutch",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_day_bed": {
+  "contents": [
+   {
+    "thing": "vintage day bed",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_electric_kettle": {
+  "contents": [
+   {
+    "thing": "vintage electric kettle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_flashlight": {
+  "contents": [
+   {
+    "thing": "vintage flashlight",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_grandfather_clock_01": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "hourhand",
+    "count": 1
+   },
+   {
+    "thing": "minutehand",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_hand_drill": {
+  "contents": [
+   {
+    "thing": "vintage hand drill",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_lighter": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "flintstone",
+    "count": 1
+   },
+   {
+    "thing": "hammer",
+    "count": 1
+   },
+   {
+    "thing": "hinge",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_microscope": {
+  "contents": [
+   {
+    "thing": "mirror arm",
+    "count": 1
+   },
+   {
+    "thing": "condenser",
+    "count": 1
+   },
+   {
+    "thing": "rack mount support",
+    "count": 1
+   },
+   {
+    "thing": "base",
+    "count": 1
+   },
+   {
+    "thing": "mirror base",
+    "count": 1
+   },
+   {
+    "thing": "eye piece",
+    "count": 1
+   },
+   {
+    "thing": "adjustment",
+    "count": 1
+   },
+   {
+    "thing": "revolver",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_microwave": {
+  "contents": [
+   {
+    "thing": "vintage microwave",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_oil_lamp": {
+  "contents": [
+   {
+    "thing": "glass",
+    "count": 1
+   },
+   {
+    "thing": "vintage oil lamp",
+    "count": 1
+   },
+   {
+    "thing": "flame",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_pocket_watch": {
+  "contents": [
+   {
+    "thing": "vintage pocket watch",
+    "count": 1
+   },
+   {
+    "thing": "hour hand",
+    "count": 1
+   },
+   {
+    "thing": "minute hand",
+    "count": 1
+   },
+   {
+    "thing": "second hand",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_radio_transceiver": {
+  "contents": [
+   {
+    "thing": "vintage radio transceiver",
+    "count": 1
+   },
+   {
+    "thing": "dial",
+    "count": 1
+   },
+   {
+    "thing": "cable",
+    "count": 1
+   },
+   {
+    "thing": "antenna",
+    "count": 1
+   },
+   {
+    "thing": "antenna plug",
+    "count": 2
+   },
+   {
+    "thing": "cable curve",
+    "count": 1
+   },
+   {
+    "thing": "microphone",
+    "count": 1
+   },
+   {
+    "thing": "microphone plug",
+    "count": 1
+   },
+   {
+    "thing": "morse key arm",
+    "count": 1
+   },
+   {
+    "thing": "morse key base",
+    "count": 1
+   },
+   {
+    "thing": "morse key plug",
+    "count": 1
+   },
+   {
+    "thing": "speaker",
+    "count": 1
+   },
+   {
+    "thing": "speaker plug",
+    "count": 1
+   },
+   {
+    "thing": "cables",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_spacecraft_instrument": {
+  "contents": [
+   {
+    "thing": "vintage spacecraft instrument",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_stapler": {
+  "contents": [
+   {
+    "thing": "top",
+    "count": 1
+   },
+   {
+    "thing": "staple single",
+    "count": 1
+   },
+   {
+    "thing": "staples",
+    "count": 1
+   },
+   {
+    "thing": "base",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_suitcase": {
+  "contents": [
+   {
+    "thing": "bottom",
+    "count": 2
+   },
+   {
+    "thing": "clasp",
+    "count": 2
+   },
+   {
+    "thing": "handle",
+    "count": 2
+   },
+   {
+    "thing": "top",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "vintage_telephone_wall_clock": {
+  "contents": [
+   {
+    "thing": "vintage telephone wall clock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_video_camera": {
+  "contents": [
+   {
+    "thing": "vintage video camera",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "vintage_wooden_drawer_01": {
+  "contents": [
+   {
+    "thing": "body",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 6
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wall_clock": {
+  "contents": [
+   {
+    "thing": "minute hand",
+    "count": 1
+   },
+   {
+    "thing": "second hand",
+    "count": 1
+   },
+   {
+    "thing": "hours hand",
+    "count": 1
+   },
+   {
+    "thing": "wall clock",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "water_manhole_cover": {
+  "contents": [
+   {
+    "thing": "frame",
+    "count": 1
+   },
+   {
+    "thing": "water manhole cover",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "watering_can_metal_01": {
+  "contents": [
+   {
+    "thing": "watering can metal",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "weed_plant_02": {
+  "contents": [
+   {
+    "thing": "weed plant",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wheelchair_01": {
+  "contents": [
+   {
+    "thing": "wheelchair",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wicker_basket_01": {
+  "contents": [
+   {
+    "thing": "wicker basket",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wicker_basket_02": {
+  "contents": [
+   {
+    "thing": "base",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wild_rooibos_bush": {
+  "contents": [
+   {
+    "thing": "wild rooibos bush",
+    "count": 5
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wine_barrel_01": {
+  "contents": [
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "bung",
+    "count": 1
+   },
+   {
+    "thing": "wine barrel",
+    "count": 1
+   },
+   {
+    "thing": "base",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wine_bottles_01": {
+  "contents": [
+   {
+    "thing": "bordeaux",
+    "count": 1
+   },
+   {
+    "thing": "alsace",
+    "count": 1
+   },
+   {
+    "thing": "burgundy",
+    "count": 1
+   },
+   {
+    "thing": "champagne",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_axe": {
+  "contents": [
+   {
+    "thing": "wooden axe",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_axe_02": {
+  "contents": [
+   {
+    "thing": "wooden axe",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_axe_03": {
+  "contents": [
+   {
+    "thing": "wooden axe",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_barrels_01": {
+  "contents": [
+   {
+    "thing": "barrel",
+    "count": 2
+   },
+   {
+    "thing": "piece",
+    "count": 17
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_bookshelf_worn": {
+  "contents": [
+   {
+    "thing": "wooden bookshelf worn",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_bowl_01": {
+  "contents": [
+   {
+    "thing": "wooden bowl",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_bowl_02": {
+  "contents": [
+   {
+    "thing": "wooden bowl",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_broom": {
+  "contents": [
+   {
+    "thing": "bristles",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   },
+   {
+    "thing": "wooden broom",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_bucket_01": {
+  "contents": [
+   {
+    "thing": "wooden bucket",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_bucket_02": {
+  "contents": [
+   {
+    "thing": "wooden bucket",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 2
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_candlestick": {
+  "contents": [
+   {
+    "thing": "wooden candlestick",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_crate_01": {
+  "contents": [
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "wooden crate",
+    "count": 1
+   },
+   {
+    "thing": "latch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_crate_02": {
+  "contents": [
+   {
+    "thing": "crate",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_cutting_board": {
+  "contents": [
+   {
+    "thing": "wooden cutting board",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_display_shelves_01": {
+  "contents": [
+   {
+    "thing": "wooden display shelves",
+    "count": 1
+   },
+   {
+    "thing": "drawer",
+    "count": 3
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_hammer_01": {
+  "contents": [
+   {
+    "thing": "wooden hammer",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_handle_saber": {
+  "contents": [
+   {
+    "thing": "wooden handle saber",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_ladder": {
+  "contents": [
+   {
+    "thing": "supports",
+    "count": 1
+   },
+   {
+    "thing": "steps",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_ladder_02": {
+  "contents": [
+   {
+    "thing": "wooden ladder",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_lantern_01": {
+  "contents": [
+   {
+    "thing": "wooden lantern",
+    "count": 1
+   },
+   {
+    "thing": "door",
+    "count": 1
+   },
+   {
+    "thing": "handle",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_military_crate": {
+  "contents": [
+   {
+    "thing": "wooden military crate",
+    "count": 1
+   },
+   {
+    "thing": "lid",
+    "count": 1
+   },
+   {
+    "thing": "latch",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": false
+ },
+ "wooden_picnic_table": {
+  "contents": [
+   {
+    "thing": "wooden picnic table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_spoon": {
+  "contents": [
+   {
+    "thing": "wooden spoon",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_stool_01": {
+  "contents": [
+   {
+    "thing": "wooden stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_stool_02": {
+  "contents": [
+   {
+    "thing": "wooden stool",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "wooden_table_02": {
+  "contents": [
+   {
+    "thing": "wooden table",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "worn_metal_rack": {
+  "contents": [
+   {
+    "thing": "worn metal rack",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ },
+ "yellow_onion": {
+  "contents": [
+   {
+    "thing": "yellow onion",
+    "count": 1
+   }
+  ],
+  "versions": [],
+  "fused": true
+ }
+}

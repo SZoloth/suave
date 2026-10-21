@@ -1,0 +1,570 @@
+{
+ "CoffeeCart_01::a coffee cart": {
+  "answer": "one"
+ },
+ "CoffeeCart_01::a coffee can": {
+  "answer": "several"
+ },
+ "CoffeeCart_01::a coffee mug": {
+  "answer": "several"
+ },
+ "binder_notebook::a binder notebook": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "bolt_action_rifle_7_62::a bolt action rifle": {
+  "answer": "one"
+ },
+ "book_encyclopedia_set_01::an encyclopedia set": {
+  "answer": "one"
+ },
+ "book_encyclopedia_set_01::a book": {
+  "answer": "several"
+ },
+ "bunsen_burner::a bunsen burner": {
+  "answer": "one"
+ },
+ "calathea_orbifolia_01::a calathea": {
+  "answer": "several"
+ },
+ "cannon_01::a cannon": {
+  "answer": "one"
+ },
+ "cannon_01::a cannonball": {
+  "answer": "several"
+ },
+ "celandine_01::a celandine": {
+  "answer": "several",
+  "note": "plant packs ruled Several, Oct 14"
+ },
+ "celandine_01::a celandine plant": {
+  "answer": "several",
+  "note": "plant packs ruled Several, Oct 14"
+ },
+ "chemistry_set::a chemistry set": {
+  "answer": "one"
+ },
+ "chemistry_set::a bottle": {
+  "answer": "several"
+ },
+ "chemistry_set::a beaker": {
+  "answer": "several"
+ },
+ "chess_set::a chess set": {
+  "answer": "one"
+ },
+ "chess_set::a chess piece": {
+  "answer": "several"
+ },
+ "chinese_screen_panels::a folding screen": {
+  "answer": "one"
+ },
+ "cigarette_case::a cigarette case": {
+  "answer": "one"
+ },
+ "cigarette_case::a cigarette": {
+  "answer": "several"
+ },
+ "coast_land_rocks_02::a rocky ground": {
+  "answer": "one"
+ },
+ "coast_land_rocks_02::a rock": {
+  "answer": "one",
+  "note": "fused scans ruled One, Oct 14"
+ },
+ "coast_land_rocks_04::a ground patch": {
+  "answer": "one"
+ },
+ "coast_line_01::a rocky coastline": {
+  "answer": "one"
+ },
+ "coast_line_02::a rocky shoreline": {
+  "answer": "one"
+ },
+ "coast_rocks_01::a coastal rock formation": {
+  "answer": "one"
+ },
+ "coast_rocks_02::a rock formation": {
+  "answer": "one"
+ },
+ "coast_rocks_03::a rock formation": {
+  "answer": "one"
+ },
+ "coast_rocks_03::a rock": {
+  "answer": "one",
+  "note": "fused scans ruled One, Oct 14"
+ },
+ "coast_rocks_05::a coastal rock": {
+  "answer": "one"
+ },
+ "coast_rocks_05::a rock": {
+  "answer": "one"
+ },
+ "dandelion_01::a dandelion": {
+  "answer": "several"
+ },
+ "didelta_spinosa::a desert shrub": {
+  "answer": "several"
+ },
+ "dry_quiver_leaf::a dried quiver leave": {
+  "answer": "several",
+  "note": "idk not sure"
+ },
+ "dry_quiver_leaf::a leaf": {
+  "answer": "several",
+  "note": "idk not sure"
+ },
+ "exterior_aircon_unit::an air conditioner unit": {
+  "answer": "several"
+ },
+ "filmstrip_projector_8mm::a film projector": {
+  "answer": "one"
+ },
+ "fir_sapling_medium::a fir sapling": {
+  "answer": "several"
+ },
+ "fire_hydrant::a fire hydrant": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "flower_stinkkruid::a stinkkruid plant": {
+  "answer": "several"
+ },
+ "flower_stinkkruid::a plant": {
+  "answer": "several"
+ },
+ "food_pears_asian_01::an Asian pear": {
+  "answer": "several"
+ },
+ "garden_gloves_01::a garden glove": {
+  "answer": "one"
+ },
+ "grass_bermuda_01::a bermuda grass": {
+  "answer": "several",
+  "note": "plant packs ruled Several, Oct 14"
+ },
+ "grass_bermuda_01::a grass tuft": {
+  "answer": "several",
+  "note": "plant packs ruled Several, Oct 14"
+ },
+ "industrial_caged_sconce::a wall sconce": {
+  "answer": "several"
+ },
+ "korean_fire_extinguisher_01::a fire extinguisher": {
+  "answer": "one"
+ },
+ "large_iron_gate::an iron gate": {
+  "answer": "one"
+ },
+ "leipoldtia_schultzei::a flowering succulent": {
+  "answer": "several"
+ },
+ "metal_trash_can::a metal trash can": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "modular_airduct_rectangular_01::an air duct set": {
+  "answer": "one"
+ },
+ "modular_airduct_rectangular_01::an air duct": {
+  "answer": "several"
+ },
+ "modular_airduct_rectangular_01::a vent": {
+  "answer": "several"
+ },
+ "modular_chainlink_fence::a chainlink fence kit": {
+  "answer": "one"
+ },
+ "modular_chainlink_fence::a fence section": {
+  "answer": "several"
+ },
+ "modular_chainlink_fence::a fence post": {
+  "answer": "several"
+ },
+ "modular_electric_cables::a modular cable kit": {
+  "answer": "one"
+ },
+ "modular_electric_cables::a cable segment": {
+  "answer": "several"
+ },
+ "modular_electric_cables::a junction box": {
+  "answer": "several"
+ },
+ "modular_factory_facade::a modular factory facade": {
+  "answer": "one"
+ },
+ "modular_factory_facade::a wall panel": {
+  "answer": "several"
+ },
+ "modular_fire_escape::a modular fire escape": {
+  "answer": "one"
+ },
+ "modular_fire_escape::a fire escape platform": {
+  "answer": "several"
+ },
+ "modular_pipes_plastic_01::a pipe kit": {
+  "answer": "one"
+ },
+ "modular_pipes_plastic_01::a pipe fitting": {
+  "answer": "several"
+ },
+ "modular_pipes_plastic_01::a valve": {
+  "answer": "several"
+ },
+ "modular_urban_apartments_facade::a modular facade kit": {
+  "answer": "one"
+ },
+ "modular_urban_apartments_facade::a facade piece": {
+  "answer": "several"
+ },
+ "modular_wooden_pier::a wooden pier kit": {
+  "answer": "one"
+ },
+ "modular_wooden_pier::a pier section": {
+  "answer": "several"
+ },
+ "modular_wooden_pier::a wooden pole": {
+  "answer": "several"
+ },
+ "mountainside::a cliff face": {
+  "answer": "one"
+ },
+ "mounted_fluorescent_lights::a fluorescent light": {
+  "answer": "several"
+ },
+ "namaqualand_cliff_01::a rock cliff": {
+  "answer": "one"
+ },
+ "namaqualand_cliff_01::a rock": {
+  "answer": "one",
+  "note": "fused scans ruled One, Oct 14"
+ },
+ "namaqualand_cliff_02::a cliff": {
+  "answer": "one"
+ },
+ "nettle_plant::a nettle": {
+  "answer": "several"
+ },
+ "old_military_crate::a military crate": {
+  "answer": "one"
+ },
+ "ornate_medieval_dagger::a medieval dagger": {
+  "answer": "one"
+ },
+ "othonna_cerarioides::a succulent shrub": {
+  "answer": "several"
+ },
+ "pachira_aquatica_01::a money tree": {
+  "answer": "several"
+ },
+ "periwinkle_plant::a periwinkle plant": {
+  "answer": "several"
+ },
+ "pine_sapling_medium::a pine sapling": {
+  "answer": "several"
+ },
+ "pine_sapling_small::a pine sapling": {
+  "answer": "several"
+ },
+ "pine_tree_01::a pine tree": {
+  "answer": "several"
+ },
+ "portable_welding_cart::a welding cart": {
+  "answer": "one"
+ },
+ "postcard_set_01::a postcard set": {
+  "answer": "one"
+ },
+ "postcard_set_01::a postcard": {
+  "answer": "several"
+ },
+ "rollershutter_door::a roller shutter door": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "rollershutter_window_01::a roller shutter": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "rollershutter_window_02::a roller shutter": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "rollershutter_window_03::a roller shutter": {
+  "answer": "several",
+  "note": "versions ruled Several, Oct 14"
+ },
+ "root_cluster_01::a root cluster": {
+  "answer": "one"
+ },
+ "rubber_boots::a rubber boot": {
+  "answer": "several"
+ },
+ "service_pistol::a pistol": {
+  "answer": "several"
+ },
+ "service_pistol::a magazine": {
+  "answer": "several"
+ },
+ "searsia_burchellii::a shrub": {
+  "answer": "several"
+ },
+ "searsia_lucida::a shrub": {
+  "answer": "several"
+ },
+ "searsia_lucida::a desert shrub": {
+  "answer": "several"
+ },
+ "shrub_01::a shrub": {
+  "answer": "several"
+ },
+ "shrub_02::a shrub": {
+  "answer": "several"
+ },
+ "shrub_03::a shrub": {
+  "answer": "several"
+ },
+ "stone_fire_pit::a stone fire pit": {
+  "answer": "one"
+ },
+ "sungka_board_02::a sungka board": {
+  "answer": "one"
+ },
+ "sungka_board_02::a shell": {
+  "answer": "several"
+ },
+ "vintage_crutches_01::a vintage crutch": {
+  "answer": "one"
+ },
+ "vintage_crutches_01::a crutch": {
+  "answer": "one"
+ },
+ "vintage_stapler::a vintage stapler": {
+  "answer": "one"
+ },
+ "vintage_suitcase::a vintage suitcase": {
+  "answer": "one"
+ },
+ "wild_rooibos_bush::a wild rooibos bush": {
+  "answer": "several"
+ },
+ "ArmChair_01::an armchair": {
+  "answer": "one"
+ },
+ "ratchet_wrench::a ratchet wrench": {
+  "answer": "one"
+ },
+ "compost_bags::a compost bag": {
+  "answer": "several"
+ },
+ "wooden_crate_01::a wooden crate": {
+  "answer": "one"
+ },
+ "dead_tree_trunk::a dead tree trunk": {
+  "answer": "one"
+ },
+ "namaqualand_boulder_02::a namaqualand boulder": {
+  "answer": "one",
+  "note": "fused scans ruled One, Oct 14"
+ },
+ "namaqualand_boulder_03::a namaqualand boulder": {
+  "answer": "one"
+ },
+ "metal_detector::a metal detector": {
+  "answer": "one"
+ },
+ "coffee_table_round_01::a coffee table round": {
+  "answer": "one"
+ },
+ "wooden_military_crate::a wooden military crate": {
+  "answer": "one"
+ },
+ "russian_food_cans_01::a russian food can": {
+  "answer": "several"
+ },
+ "dining_chair_02::a dining chair": {
+  "answer": "one"
+ },
+ "rock_09::a rock": {
+  "answer": "one"
+ },
+ "lion_head::a lion head": {
+  "answer": "one"
+ },
+ "jacaranda_tree::a jacaranda tree": {
+  "answer": "one"
+ },
+ "tree_stump_02::a tree stump": {
+  "answer": "one"
+ },
+ "fir_sapling::a fir sapling": {
+  "answer": "several"
+ },
+ "wooden_table_02::a wooden table": {
+  "answer": "one"
+ },
+ "mantel_clock_01::a mantel clock": {
+  "answer": "one"
+ },
+ "vintage_flashlight::a vintage flashlight": {
+  "answer": "one"
+ },
+ "wooden_display_shelves_01::a wooden display shelf": {
+  "answer": "one"
+ },
+ "shrub_04::a shrub": {
+  "answer": "several"
+ },
+ "wooden_candlestick::a wooden candlestick": {
+  "answer": "one"
+ },
+ "dutch_ship_medium::a dutch ship medium": {
+  "answer": "one"
+ },
+ "sofa_02::a sofa": {
+  "answer": "one"
+ },
+ "GreenChair_01::a greenchair": {
+  "answer": "one"
+ },
+ "bench_vice_01::a bench vice": {
+  "answer": "one"
+ },
+ "vintage_electric_kettle::a vintage electric kettle": {
+  "answer": "one"
+ },
+ "throw_pillows_01::a throw pillow": {
+  "answer": "several"
+ },
+ "bananas::a banana": {
+  "answer": "several"
+ },
+ "modern_wooden_cabinet::a modern wooden cabinet": {
+  "answer": "one"
+ },
+ "wheelchair_01::a wheelchair": {
+  "answer": "one"
+ },
+ "wooden_barrels_01::a wooden barrel": {
+  "answer": "several"
+ },
+ "mousetrap::a mousetrap": {
+  "answer": "one"
+ },
+ "lateral_sea_marker::a lateral sea marker": {
+  "answer": "one"
+ },
+ "compost_bag_02::a compost bag": {
+  "answer": "one"
+ },
+ "tire_pump::a tire pump": {
+  "answer": "one"
+ },
+ "cheiridopsis_succulent::a cheiridopsis succulent": {
+  "answer": "several"
+ },
+ "chinese_chandelier::a chinese chandelier": {
+  "answer": "one"
+ },
+ "CoffeeCart_01::a mug": {
+  "answer": "several"
+ },
+ "bolt_action_rifle_7_62::a bolt-action rifle": {
+  "answer": "one"
+ },
+ "bunsen_burner::a bunsen burner set": {
+  "answer": "one"
+ },
+ "calathea_orbifolia_01::a calathea plant": {
+  "answer": "several"
+ },
+ "chinese_screen_panels::a screen panel": {
+  "answer": "one"
+ },
+ "coast_land_rocks_02::a coastal rock": {
+  "answer": "one",
+  "note": "fused scans ruled One, Oct 14"
+ },
+ "coast_land_rocks_04::a rocky ground patch": {
+  "answer": "one"
+ },
+ "coast_rocks_01::a coastal rock": {
+  "answer": "one",
+  "note": "fused scans ruled One, Oct 14"
+ },
+ "coast_rocks_02::a terrain patch": {
+  "answer": "one"
+ },
+ "coast_rocks_05::a rock formation": {
+  "answer": "one"
+ },
+ "didelta_spinosa::a shrub": {
+  "answer": "several"
+ },
+ "dry_quiver_leaf::a dried quiver leaf": {
+  "answer": "several"
+ },
+ "exterior_aircon_unit::an exterior air conditioner": {
+  "answer": "several"
+ },
+ "flower_stinkkruid::a stinkkruid": {
+  "answer": "several"
+ },
+ "flower_stinkkruid::a stinkkruid flower": {
+  "answer": "several"
+ },
+ "industrial_caged_sconce::an industrial wall sconce": {
+  "answer": "several"
+ },
+ "leipoldtia_schultzei::a succulent": {
+  "answer": "several"
+ },
+ "modular_airduct_rectangular_01::an air duct piece": {
+  "answer": "several"
+ },
+ "modular_electric_cables::a modular cable set": {
+  "answer": "one"
+ },
+ "modular_factory_facade::a cornice": {
+  "answer": "several"
+ },
+ "modular_fire_escape::a platform": {
+  "answer": "several"
+ },
+ "modular_pipes_plastic_01::a pipe set": {
+  "answer": "one"
+ },
+ "modular_urban_apartments_facade::a facade kit": {
+  "answer": "one"
+ },
+ "modular_urban_apartments_facade::a facade module": {
+  "answer": "several"
+ },
+ "modular_wooden_pier::a wooden pier": {
+  "answer": "one"
+ },
+ "namaqualand_cliff_01::a cliff": {
+  "answer": "one"
+ },
+ "namaqualand_cliff_02::a cliff face": {
+  "answer": "one"
+ },
+ "nettle_plant::a nettle plant": {
+  "answer": "several"
+ },
+ "periwinkle_plant::a periwinkle": {
+  "answer": "several"
+ },
+ "searsia_burchellii::a karoo shrub": {
+  "answer": "several"
+ },
+ "service_pistol::a service pistol": {
+  "answer": "several"
+ },
+ "wild_rooibos_bush::a rooibos bush": {
+  "answer": "several"
+ },
+ "wild_rooibos_bush::a bush": {
+  "answer": "several"
+ }
+}

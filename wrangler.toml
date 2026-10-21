@@ -1,0 +1,7 @@
+name = "suave"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+JEV_HOURLY_BUDGET = "200"

@@ -1,0 +1,16 @@
+node_modules
+dist
+.env.local
+.env.*.local
+*.log
+.DS_Store
+embed/.venv
+embed/index
+embed/index-*
+__pycache__
+tsconfig.tsbuildinfo
+.verify/
+.netlify
+eval/results/
+.dev.vars
+.wrangler/

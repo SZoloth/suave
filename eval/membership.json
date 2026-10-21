@@ -1,0 +1,4432 @@
+{
+  "queries": {
+    "all chairs": {
+      "about": "chairs",
+      "ranAt": "2026-10-14T00:30:30.706Z",
+      "candidates": [
+        {
+          "id": "painted_wooden_chair_01",
+          "name": "Painted Wooden Chair 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "SchoolChair_01",
+          "name": "School Chair 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "painted_wooden_chair_02",
+          "name": "Painted Wooden Chair 02",
+          "fit": 0.8918
+        },
+        {
+          "id": "WoodenChair_01",
+          "name": "Wooden Chair 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "GreenChair_01",
+          "name": "Green Chair 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "BarberShopChair_01",
+          "name": "Barber Shop Chair 01",
+          "fit": 0.8827
+        },
+        {
+          "id": "dining_chair_02",
+          "name": "Dining Chair 02",
+          "fit": 0.882
+        },
+        {
+          "id": "Rockingchair_01",
+          "name": "Rockingchair 01",
+          "fit": 0.8736
+        },
+        {
+          "id": "gallinera_chair",
+          "name": "Gallinera Chair",
+          "fit": 0.873
+        },
+        {
+          "id": "plastic_monobloc_chair_01",
+          "name": "Plastic Monobloc Chair 01",
+          "fit": 0.8722
+        },
+        {
+          "id": "chinese_armchair",
+          "name": "Chinese Armchair",
+          "fit": 0.864
+        },
+        {
+          "id": "modern_arm_chair_01",
+          "name": "Modern Arm Chair 01",
+          "fit": 0.8633
+        },
+        {
+          "id": "ArmChair_01",
+          "name": "Arm Chair 01",
+          "fit": 0.8633
+        },
+        {
+          "id": "bar_chair_round_01",
+          "name": "Bar Chair Round 01",
+          "fit": 0.8277000000000001
+        },
+        {
+          "id": "mid_century_lounge_chair",
+          "name": "Mid Century Lounge Chair",
+          "fit": 0.817
+        },
+        {
+          "id": "outdoor_table_chair_set_01",
+          "name": "Outdoor Table Chair Set 01",
+          "fit": 0.7826
+        },
+        {
+          "id": "metal_stool_03",
+          "name": "Metal Stool 03",
+          "fit": 0.7654
+        },
+        {
+          "id": "metal_stool_01",
+          "name": "Metal Stool 01",
+          "fit": 0.7387
+        },
+        {
+          "id": "modular_street_seating",
+          "name": "Modular Street Seating",
+          "fit": 0.6278
+        },
+        {
+          "id": "metal_stool_02",
+          "name": "Metal Stool 02",
+          "fit": 0.6264
+        },
+        {
+          "id": "painted_wooden_stool",
+          "name": "Painted Wooden Stool",
+          "fit": 0.6176999999999999
+        },
+        {
+          "id": "folding_wooden_stool",
+          "name": "Folding Wooden Stool",
+          "fit": 0.6003
+        },
+        {
+          "id": "wheelchair_01",
+          "name": "Wheelchair 01",
+          "fit": 0.5376
+        },
+        {
+          "id": "chinese_stool",
+          "name": "Chinese Stool",
+          "fit": 0.48160000000000003
+        },
+        {
+          "id": "wooden_stool_01",
+          "name": "Wooden Stool 01",
+          "fit": 0.4368
+        },
+        {
+          "id": "wooden_stool_02",
+          "name": "Wooden Stool 02",
+          "fit": 0.4316
+        },
+        {
+          "id": "painted_wooden_sofa",
+          "name": "Painted Wooden Sofa",
+          "fit": 0.36119999999999997
+        },
+        {
+          "id": "sofa_03",
+          "name": "Sofa 03",
+          "fit": 0.336
+        },
+        {
+          "id": "Ottoman_01",
+          "name": "Ottoman 01",
+          "fit": 0.3239
+        },
+        {
+          "id": "painted_wooden_bench",
+          "name": "Painted Wooden Bench",
+          "fit": 0.27749999999999997
+        },
+        {
+          "id": "Sofa_01",
+          "name": "Sofa 01",
+          "fit": 0.2541
+        },
+        {
+          "id": "sofa_02",
+          "name": "Sofa 02",
+          "fit": 0.24
+        },
+        {
+          "id": "chinese_sofa",
+          "name": "Chinese Sofa",
+          "fit": 0.2
+        },
+        {
+          "id": "vintage_day_bed",
+          "name": "Vintage Day Bed",
+          "fit": 0.15839999999999999
+        },
+        {
+          "id": "wooden_picnic_table",
+          "name": "Wooden Picnic Table",
+          "fit": 0.1564
+        },
+        {
+          "id": "SchoolDesk_01",
+          "name": "School Desk 01",
+          "fit": 0.1152
+        },
+        {
+          "id": "chinese_tea_table",
+          "name": "Chinese Tea Table",
+          "fit": 0.036
+        },
+        {
+          "id": "chinese_commode",
+          "name": "Chinese Commode",
+          "fit": 0.0325
+        },
+        {
+          "id": "gallinera_table",
+          "name": "Gallinera Table",
+          "fit": 0.028399999999999998
+        },
+        {
+          "id": "modern_wooden_cabinet",
+          "name": "Modern Wooden Cabinet",
+          "fit": 0.027200000000000002
+        },
+        {
+          "id": "steel_frame_shelves_02",
+          "name": "Steel Frame Shelves 02",
+          "fit": 0.0268
+        },
+        {
+          "id": "round_wooden_table_02",
+          "name": "Round Wooden Table 02",
+          "fit": 0.026400000000000003
+        },
+        {
+          "id": "painted_wooden_table",
+          "name": "Painted Wooden Table",
+          "fit": 0.026000000000000002
+        },
+        {
+          "id": "steel_frame_shelves_01",
+          "name": "Steel Frame Shelves 01",
+          "fit": 0.026000000000000002
+        },
+        {
+          "id": "wooden_table_02",
+          "name": "Wooden Table 02",
+          "fit": 0.0256
+        },
+        {
+          "id": "small_wooden_table_01",
+          "name": "Small Wooden Table 01",
+          "fit": 0.0252
+        },
+        {
+          "id": "painted_wooden_shelves",
+          "name": "Painted Wooden Shelves",
+          "fit": 0.0248
+        },
+        {
+          "id": "WoodenTable_01",
+          "name": "Wooden Table 01",
+          "fit": 0.0244
+        },
+        {
+          "id": "WoodenTable_02",
+          "name": "Wooden Table 02",
+          "fit": 0.024
+        },
+        {
+          "id": "metal_office_desk",
+          "name": "Metal Office Desk",
+          "fit": 0.0232
+        },
+        {
+          "id": "dining_table",
+          "name": "Dining Table",
+          "fit": 0.022000000000000002
+        },
+        {
+          "id": "side_table_tall_01",
+          "name": "Side Table Tall 01",
+          "fit": 0.020699999999999996
+        },
+        {
+          "id": "CoffeeCart_01",
+          "name": "Coffee Cart 01",
+          "fit": 0.0204
+        },
+        {
+          "id": "WoodenTable_03",
+          "name": "Wooden Table 03",
+          "fit": 0.0201
+        },
+        {
+          "id": "round_wooden_table_01",
+          "name": "Round Wooden Table 01",
+          "fit": 0.0198
+        },
+        {
+          "id": "CoffeeTable_01",
+          "name": "Coffee Table 01",
+          "fit": 0.0198
+        },
+        {
+          "id": "side_table_01",
+          "name": "Side Table 01",
+          "fit": 0.017699999999999997
+        },
+        {
+          "id": "coffee_table_round_01",
+          "name": "Coffee Table Round 01",
+          "fit": 0.0162
+        },
+        {
+          "id": "modern_coffee_table_01",
+          "name": "Modern Coffee Table 01",
+          "fit": 0.0126
+        },
+        {
+          "id": "old_bed_frame",
+          "name": "Old Bed Frame",
+          "fit": 0.0118
+        }
+      ],
+      "labels": {
+        "painted_wooden_chair_01": true,
+        "SchoolChair_01": true,
+        "painted_wooden_chair_02": true,
+        "WoodenChair_01": true,
+        "GreenChair_01": true,
+        "BarberShopChair_01": true,
+        "dining_chair_02": true,
+        "Rockingchair_01": true,
+        "gallinera_chair": true,
+        "plastic_monobloc_chair_01": true,
+        "chinese_armchair": true,
+        "modern_arm_chair_01": true,
+        "ArmChair_01": true,
+        "bar_chair_round_01": true,
+        "mid_century_lounge_chair": true,
+        "outdoor_table_chair_set_01": true,
+        "metal_stool_03": true,
+        "metal_stool_01": true,
+        "modular_street_seating": true,
+        "metal_stool_02": true,
+        "painted_wooden_stool": true,
+        "folding_wooden_stool": true,
+        "wheelchair_01": true,
+        "chinese_stool": false,
+        "wooden_stool_01": true,
+        "wooden_stool_02": true,
+        "painted_wooden_sofa": false,
+        "sofa_03": false,
+        "Ottoman_01": false,
+        "painted_wooden_bench": false,
+        "Sofa_01": false,
+        "sofa_02": false,
+        "chinese_sofa": false,
+        "vintage_day_bed": false,
+        "wooden_picnic_table": false,
+        "SchoolDesk_01": false,
+        "chinese_tea_table": false,
+        "chinese_commode": false,
+        "gallinera_table": false,
+        "modern_wooden_cabinet": false,
+        "steel_frame_shelves_02": false,
+        "round_wooden_table_02": false,
+        "painted_wooden_table": false,
+        "steel_frame_shelves_01": false,
+        "wooden_table_02": false,
+        "small_wooden_table_01": false,
+        "painted_wooden_shelves": false,
+        "WoodenTable_01": false,
+        "WoodenTable_02": false,
+        "metal_office_desk": false,
+        "dining_table": false,
+        "side_table_tall_01": false,
+        "CoffeeCart_01": false,
+        "WoodenTable_03": false,
+        "round_wooden_table_01": false,
+        "CoffeeTable_01": false,
+        "side_table_01": false,
+        "coffee_table_round_01": false,
+        "modern_coffee_table_01": false,
+        "old_bed_frame": false
+      },
+      "reviewedAt": "2026-10-14T01:16:24.056Z"
+    },
+    "all tables": {
+      "about": "tables",
+      "ranAt": "2026-10-14T00:22:53.439Z",
+      "candidates": [
+        {
+          "id": "small_wooden_table_01",
+          "name": "Small Wooden Table 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "round_wooden_table_01",
+          "name": "Round Wooden Table 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "round_wooden_table_02",
+          "name": "Round Wooden Table 02",
+          "fit": 0.8827
+        },
+        {
+          "id": "wooden_table_02",
+          "name": "Wooden Table 02",
+          "fit": 0.882
+        },
+        {
+          "id": "CoffeeTable_01",
+          "name": "Coffee Table 01",
+          "fit": 0.8736
+        },
+        {
+          "id": "dining_table",
+          "name": "Dining Table",
+          "fit": 0.873
+        },
+        {
+          "id": "WoodenTable_01",
+          "name": "Wooden Table 01",
+          "fit": 0.873
+        },
+        {
+          "id": "painted_wooden_table",
+          "name": "Painted Wooden Table",
+          "fit": 0.873
+        },
+        {
+          "id": "WoodenTable_02",
+          "name": "Wooden Table 02",
+          "fit": 0.873
+        },
+        {
+          "id": "chinese_tea_table",
+          "name": "Chinese Tea Table",
+          "fit": 0.855
+        },
+        {
+          "id": "wooden_picnic_table",
+          "name": "Wooden Picnic Table",
+          "fit": 0.855
+        },
+        {
+          "id": "gothic_coffee_table",
+          "name": "Gothic Coffee Table",
+          "fit": 0.855
+        },
+        {
+          "id": "gallinera_table",
+          "name": "Gallinera Table",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "industrial_coffee_table",
+          "name": "Industrial Coffee Table",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "ClassicConsole_01",
+          "name": "Classic Console 01",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "side_table_tall_01",
+          "name": "Side Table Tall 01",
+          "fit": 0.846
+        },
+        {
+          "id": "chinese_console_table",
+          "name": "Chinese Console Table",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "modern_coffee_table_01",
+          "name": "Modern Coffee Table 01",
+          "fit": 0.8448
+        },
+        {
+          "id": "side_table_01",
+          "name": "Side Table 01",
+          "fit": 0.8448
+        },
+        {
+          "id": "coffee_table_round_01",
+          "name": "Coffee Table Round 01",
+          "fit": 0.8448
+        },
+        {
+          "id": "modern_coffee_table_02",
+          "name": "Modern Coffee Table 02",
+          "fit": 0.8448
+        },
+        {
+          "id": "outdoor_table_chair_set_01",
+          "name": "Outdoor Table Chair Set 01",
+          "fit": 0.756
+        },
+        {
+          "id": "metal_office_desk",
+          "name": "Metal Office Desk",
+          "fit": 0.756
+        },
+        {
+          "id": "painted_wooden_nightstand",
+          "name": "Painted Wooden Nightstand",
+          "fit": 0.7200000000000001
+        },
+        {
+          "id": "SchoolDesk_01",
+          "name": "School Desk 01",
+          "fit": 0.6764
+        },
+        {
+          "id": "ClassicNightstand_01",
+          "name": "Classic Nightstand 01",
+          "fit": 0.6586
+        },
+        {
+          "id": "WoodenTable_03",
+          "name": "Wooden Table 03",
+          "fit": 0.6192
+        },
+        {
+          "id": "CoffeeCart_01",
+          "name": "Coffee Cart 01",
+          "fit": 0.522
+        },
+        {
+          "id": "tool_cart",
+          "name": "Tool Cart",
+          "fit": 0.42
+        },
+        {
+          "id": "GothicCommode_01",
+          "name": "Gothic Commode 01",
+          "fit": 0.3818
+        },
+        {
+          "id": "industrial_storage_cart",
+          "name": "Industrial Storage Cart",
+          "fit": 0.3192
+        },
+        {
+          "id": "GothicCabinet_01",
+          "name": "Gothic Cabinet 01",
+          "fit": 0.1875
+        },
+        {
+          "id": "desk_lamp_arm_01",
+          "name": "Desk Lamp Arm 01",
+          "fit": 0.16200000000000003
+        },
+        {
+          "id": "modern_wooden_cabinet",
+          "name": "Modern Wooden Cabinet",
+          "fit": 0.1558
+        },
+        {
+          "id": "vintage_wooden_drawer_01",
+          "name": "Vintage Wooden Drawer 01",
+          "fit": 0.14250000000000002
+        },
+        {
+          "id": "worn_metal_rack",
+          "name": "Worn Metal Rack",
+          "fit": 0.0923
+        },
+        {
+          "id": "steel_frame_shelves_02",
+          "name": "Steel Frame Shelves 02",
+          "fit": 0.07500000000000001
+        },
+        {
+          "id": "carved_wooden_plate",
+          "name": "Carved Wooden Plate",
+          "fit": 0.0684
+        },
+        {
+          "id": "steel_frame_shelves_01",
+          "name": "Steel Frame Shelves 01",
+          "fit": 0.06659999999999999
+        },
+        {
+          "id": "steel_frame_shelves_03",
+          "name": "Steel Frame Shelves 03",
+          "fit": 0.0657
+        },
+        {
+          "id": "painted_wooden_shelves",
+          "name": "Painted Wooden Shelves",
+          "fit": 0.065
+        },
+        {
+          "id": "chinese_commode",
+          "name": "Chinese Commode",
+          "fit": 0.056799999999999996
+        },
+        {
+          "id": "wicker_basket_01",
+          "name": "Wicker Basket 01",
+          "fit": 0.051800000000000006
+        },
+        {
+          "id": "wooden_display_shelves_01",
+          "name": "Wooden Display Shelves 01",
+          "fit": 0.04760000000000001
+        },
+        {
+          "id": "Shelf_01",
+          "name": "Shelf 01",
+          "fit": 0.0396
+        },
+        {
+          "id": "vintage_cabinet_01",
+          "name": "Vintage Cabinet 01",
+          "fit": 0.039
+        },
+        {
+          "id": "standing_chalkboard_01",
+          "name": "Standing Chalkboard 01",
+          "fit": 0.038000000000000006
+        },
+        {
+          "id": "modular_street_seating",
+          "name": "Modular Street Seating",
+          "fit": 0.0378
+        },
+        {
+          "id": "painted_wooden_chair_02",
+          "name": "Painted Wooden Chair 02",
+          "fit": 0.0372
+        },
+        {
+          "id": "metal_stool_02",
+          "name": "Metal Stool 02",
+          "fit": 0.036
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.036
+        },
+        {
+          "id": "folding_wooden_stool",
+          "name": "Folding Wooden Stool",
+          "fit": 0.033
+        },
+        {
+          "id": "Television_01",
+          "name": "Television 01",
+          "fit": 0.0295
+        },
+        {
+          "id": "painted_wooden_chair_01",
+          "name": "Painted Wooden Chair 01",
+          "fit": 0.028999999999999998
+        },
+        {
+          "id": "wooden_stool_01",
+          "name": "Wooden Stool 01",
+          "fit": 0.028999999999999998
+        },
+        {
+          "id": "bar_chair_round_01",
+          "name": "Bar Chair Round 01",
+          "fit": 0.0288
+        },
+        {
+          "id": "metal_stool_03",
+          "name": "Metal Stool 03",
+          "fit": 0.028499999999999998
+        },
+        {
+          "id": "chinese_stool",
+          "name": "Chinese Stool",
+          "fit": 0.0276
+        },
+        {
+          "id": "dining_chair_02",
+          "name": "Dining Chair 02",
+          "fit": 0.0268
+        },
+        {
+          "id": "SchoolChair_01",
+          "name": "School Chair 01",
+          "fit": 0.0212
+        }
+      ],
+      "labels": {
+        "small_wooden_table_01": true,
+        "round_wooden_table_01": true,
+        "round_wooden_table_02": true,
+        "wooden_table_02": true,
+        "CoffeeTable_01": true,
+        "dining_table": true,
+        "WoodenTable_01": true,
+        "painted_wooden_table": true,
+        "WoodenTable_02": true,
+        "chinese_tea_table": true,
+        "wooden_picnic_table": true,
+        "gothic_coffee_table": true,
+        "gallinera_table": true,
+        "industrial_coffee_table": true,
+        "ClassicConsole_01": true,
+        "side_table_tall_01": true,
+        "chinese_console_table": true,
+        "modern_coffee_table_01": true,
+        "side_table_01": true,
+        "coffee_table_round_01": true,
+        "modern_coffee_table_02": true,
+        "outdoor_table_chair_set_01": true,
+        "metal_office_desk": false,
+        "painted_wooden_nightstand": true,
+        "SchoolDesk_01": true,
+        "ClassicNightstand_01": true,
+        "WoodenTable_03": true,
+        "CoffeeCart_01": false,
+        "tool_cart": false,
+        "GothicCommode_01": false,
+        "industrial_storage_cart": false,
+        "GothicCabinet_01": false,
+        "desk_lamp_arm_01": false,
+        "modern_wooden_cabinet": false,
+        "vintage_wooden_drawer_01": false,
+        "worn_metal_rack": false,
+        "steel_frame_shelves_02": false,
+        "carved_wooden_plate": false,
+        "steel_frame_shelves_01": false,
+        "steel_frame_shelves_03": false,
+        "painted_wooden_shelves": false,
+        "chinese_commode": false,
+        "wicker_basket_01": false,
+        "wooden_display_shelves_01": false,
+        "Shelf_01": false,
+        "vintage_cabinet_01": false,
+        "standing_chalkboard_01": false,
+        "modular_street_seating": false,
+        "painted_wooden_chair_02": false,
+        "metal_stool_02": false,
+        "wooden_barrels_01": false,
+        "folding_wooden_stool": false,
+        "Television_01": false,
+        "painted_wooden_chair_01": false,
+        "wooden_stool_01": false,
+        "bar_chair_round_01": false,
+        "metal_stool_03": false,
+        "chinese_stool": false,
+        "dining_chair_02": false,
+        "SchoolChair_01": false
+      },
+      "reviewedAt": "2026-10-14T00:31:10.725Z"
+    },
+    "all wooden tools": {
+      "about": "wooden tools",
+      "ranAt": "2026-10-14T00:22:53.857Z",
+      "candidates": [
+        {
+          "id": "wooden_axe_02",
+          "name": "Wooden Axe 02",
+          "fit": 0.7371000000000001
+        },
+        {
+          "id": "wooden_axe_03",
+          "name": "Wooden Axe 03",
+          "fit": 0.7360000000000001
+        },
+        {
+          "id": "wooden_axe",
+          "name": "Wooden Axe",
+          "fit": 0.7280000000000001
+        },
+        {
+          "id": "vintage_hand_drill",
+          "name": "Vintage Hand Drill",
+          "fit": 0.6942
+        },
+        {
+          "id": "wooden_hammer_01",
+          "name": "Wooden Hammer 01",
+          "fit": 0.6930000000000001
+        },
+        {
+          "id": "rusted_spade_01",
+          "name": "Rusted Spade 01",
+          "fit": 0.6873
+        },
+        {
+          "id": "trowel_01",
+          "name": "Trowel 01",
+          "fit": 0.68
+        },
+        {
+          "id": "wooden_broom",
+          "name": "Wooden Broom",
+          "fit": 0.6794
+        },
+        {
+          "id": "picke_dirty_01",
+          "name": "Picke Dirty 01",
+          "fit": 0.6776
+        },
+        {
+          "id": "hand_plane_no4",
+          "name": "Hand Plane No4",
+          "fit": 0.6708000000000001
+        },
+        {
+          "id": "handsaw_wood",
+          "name": "Handsaw Wood",
+          "fit": 0.6708000000000001
+        },
+        {
+          "id": "cross_pein_hammer",
+          "name": "Cross Pein Hammer",
+          "fit": 0.6396
+        },
+        {
+          "id": "spinning_wheel_01",
+          "name": "Spinning Wheel 01",
+          "fit": 0.6237
+        },
+        {
+          "id": "wooden_spoon",
+          "name": "Wooden Spoon",
+          "fit": 0.6006
+        },
+        {
+          "id": "screwdrivers_02",
+          "name": "Screwdrivers 02",
+          "fit": 0.6004
+        },
+        {
+          "id": "flathead_screwdriver",
+          "name": "Flathead Screwdriver",
+          "fit": 0.585
+        },
+        {
+          "id": "wooden_ladder_02",
+          "name": "Wooden Ladder 02",
+          "fit": 0.5254
+        },
+        {
+          "id": "wooden_ladder",
+          "name": "Wooden Ladder",
+          "fit": 0.4662
+        },
+        {
+          "id": "hatchet",
+          "name": "Hatchet",
+          "fit": 0.42250000000000004
+        },
+        {
+          "id": "wooden_cutting_board",
+          "name": "Wooden Cutting Board",
+          "fit": 0.378
+        },
+        {
+          "id": "wooden_handle_saber",
+          "name": "Wooden Handle Saber",
+          "fit": 0.3408
+        },
+        {
+          "id": "measuring_tape_01",
+          "name": "Measuring Tape 01",
+          "fit": 0.3172
+        },
+        {
+          "id": "sungka_board",
+          "name": "Sungka Board",
+          "fit": 0.2812
+        },
+        {
+          "id": "vintage_crutches_01",
+          "name": "Vintage Crutches 01",
+          "fit": 0.273
+        },
+        {
+          "id": "adjustable_wrench",
+          "name": "Adjustable Wrench",
+          "fit": 0.24
+        },
+        {
+          "id": "rusted_hacksaw",
+          "name": "Rusted Hacksaw",
+          "fit": 0.2288
+        },
+        {
+          "id": "katana_stand_01",
+          "name": "Katana Stand 01",
+          "fit": 0.1932
+        },
+        {
+          "id": "screwdriver",
+          "name": "Screwdriver",
+          "fit": 0.192
+        },
+        {
+          "id": "wooden_bucket_02",
+          "name": "Wooden Bucket 02",
+          "fit": 0.17640000000000003
+        },
+        {
+          "id": "Drill_01",
+          "name": "Drill 01",
+          "fit": 0.1505
+        },
+        {
+          "id": "carved_wooden_plate",
+          "name": "Carved Wooden Plate",
+          "fit": 0.1475
+        },
+        {
+          "id": "wooden_bucket_01",
+          "name": "Wooden Bucket 01",
+          "fit": 0.1475
+        },
+        {
+          "id": "wooden_lantern_01",
+          "name": "Wooden Lantern 01",
+          "fit": 0.144
+        },
+        {
+          "id": "metal_toolbox",
+          "name": "Metal Toolbox",
+          "fit": 0.1323
+        },
+        {
+          "id": "wooden_bowl_01",
+          "name": "Wooden Bowl 01",
+          "fit": 0.12100000000000001
+        },
+        {
+          "id": "wooden_bowl_02",
+          "name": "Wooden Bowl 02",
+          "fit": 0.10439999999999999
+        },
+        {
+          "id": "folding_wooden_stool",
+          "name": "Folding Wooden Stool",
+          "fit": 0.1003
+        },
+        {
+          "id": "sledgehammer_01",
+          "name": "Sledgehammer 01",
+          "fit": 0.0957
+        },
+        {
+          "id": "bench_vice_01",
+          "name": "Bench Vice 01",
+          "fit": 0.08960000000000001
+        },
+        {
+          "id": "wooden_candlestick",
+          "name": "Wooden Candlestick",
+          "fit": 0.0885
+        },
+        {
+          "id": "wooden_stool_01",
+          "name": "Wooden Stool 01",
+          "fit": 0.0848
+        },
+        {
+          "id": "tongue_groove_pliers",
+          "name": "Tongue & Groove Pliers",
+          "fit": 0.0798
+        },
+        {
+          "id": "wooden_stool_02",
+          "name": "Wooden Stool 02",
+          "fit": 0.078
+        },
+        {
+          "id": "CheeseBox_01",
+          "name": "CheeseBox 01",
+          "fit": 0.07560000000000001
+        },
+        {
+          "id": "wooden_crate_02",
+          "name": "Wooden Crate 02",
+          "fit": 0.06440000000000001
+        },
+        {
+          "id": "crowbar_01",
+          "name": "Crowbar 01",
+          "fit": 0.0624
+        },
+        {
+          "id": "painted_wooden_stool",
+          "name": "Painted Wooden Stool",
+          "fit": 0.0624
+        },
+        {
+          "id": "Ukulele_01",
+          "name": "Ukulele 01",
+          "fit": 0.0594
+        },
+        {
+          "id": "carved_wooden_elephant",
+          "name": "Carved Wooden Elephant",
+          "fit": 0.058300000000000005
+        },
+        {
+          "id": "wooden_crate_01",
+          "name": "Wooden Crate 01",
+          "fit": 0.0528
+        },
+        {
+          "id": "pipe_wrench",
+          "name": "Pipe Wrench",
+          "fit": 0.052000000000000005
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.0484
+        },
+        {
+          "id": "bolt_cutters_01",
+          "name": "Bolt Cutters 01",
+          "fit": 0.0468
+        },
+        {
+          "id": "painted_wooden_table",
+          "name": "Painted Wooden Table",
+          "fit": 0.0462
+        },
+        {
+          "id": "old_drill_press",
+          "name": "Old Drill Press",
+          "fit": 0.044800000000000006
+        },
+        {
+          "id": "WoodenTable_01",
+          "name": "Wooden Table 01",
+          "fit": 0.044000000000000004
+        },
+        {
+          "id": "wooden_table_02",
+          "name": "Wooden Table 02",
+          "fit": 0.04000000000000001
+        },
+        {
+          "id": "wooden_bookshelf_worn",
+          "name": "Wooden Bookshelf Worn",
+          "fit": 0.039599999999999996
+        },
+        {
+          "id": "WoodenTable_02",
+          "name": "Wooden Table 02",
+          "fit": 0.0368
+        },
+        {
+          "id": "small_wooden_table_01",
+          "name": "Small Wooden Table 01",
+          "fit": 0.036000000000000004
+        }
+      ],
+      "labels": {
+        "wooden_axe_02": true,
+        "wooden_axe_03": true,
+        "wooden_axe": true,
+        "vintage_hand_drill": true,
+        "wooden_hammer_01": true,
+        "rusted_spade_01": true,
+        "trowel_01": true,
+        "wooden_broom": true,
+        "picke_dirty_01": true,
+        "hand_plane_no4": true,
+        "handsaw_wood": true,
+        "cross_pein_hammer": true,
+        "spinning_wheel_01": true,
+        "wooden_spoon": true,
+        "screwdrivers_02": true,
+        "flathead_screwdriver": true,
+        "wooden_ladder_02": true,
+        "wooden_ladder": true,
+        "hatchet": false,
+        "wooden_cutting_board": false,
+        "wooden_handle_saber": false,
+        "measuring_tape_01": false,
+        "sungka_board": false,
+        "vintage_crutches_01": true,
+        "adjustable_wrench": false,
+        "rusted_hacksaw": false,
+        "katana_stand_01": false,
+        "screwdriver": false,
+        "wooden_bucket_02": true,
+        "Drill_01": false,
+        "carved_wooden_plate": false,
+        "wooden_bucket_01": false,
+        "wooden_lantern_01": false,
+        "metal_toolbox": false,
+        "wooden_bowl_01": false,
+        "wooden_bowl_02": false,
+        "folding_wooden_stool": false,
+        "sledgehammer_01": false,
+        "bench_vice_01": false,
+        "wooden_candlestick": false,
+        "wooden_stool_01": false,
+        "tongue_groove_pliers": false,
+        "wooden_stool_02": false,
+        "CheeseBox_01": false,
+        "wooden_crate_02": false,
+        "crowbar_01": false,
+        "painted_wooden_stool": false,
+        "Ukulele_01": false,
+        "carved_wooden_elephant": false,
+        "wooden_crate_01": false,
+        "pipe_wrench": false,
+        "wooden_barrels_01": false,
+        "bolt_cutters_01": false,
+        "painted_wooden_table": false,
+        "old_drill_press": false,
+        "WoodenTable_01": false,
+        "wooden_table_02": false,
+        "wooden_bookshelf_worn": false,
+        "WoodenTable_02": false,
+        "small_wooden_table_01": false
+      },
+      "reviewedAt": "2026-10-14T00:31:34.434Z"
+    },
+    "every barrel": {
+      "about": "barrel",
+      "ranAt": "2026-10-14T00:22:54.134Z",
+      "candidates": [
+        {
+          "id": "barrel_03",
+          "name": "Barrel 03",
+          "fit": 0.882
+        },
+        {
+          "id": "wine_barrel_01",
+          "name": "Wine Barrel 01",
+          "fit": 0.882
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.882
+        },
+        {
+          "id": "Barrel_02",
+          "name": "Barrel 02",
+          "fit": 0.8722
+        },
+        {
+          "id": "Barrel_01",
+          "name": "Barrel 01",
+          "fit": 0.8722
+        },
+        {
+          "id": "barrel_stove",
+          "name": "Barrel Stove",
+          "fit": 0.714
+        },
+        {
+          "id": "can_rusted",
+          "name": "Can Rusted",
+          "fit": 0.46199999999999997
+        },
+        {
+          "id": "metal_trash_can",
+          "name": "Metal Trash Can",
+          "fit": 0.4264
+        },
+        {
+          "id": "propane_tank",
+          "name": "Propane Tank",
+          "fit": 0.42
+        },
+        {
+          "id": "small_lpg_tank",
+          "name": "Small Lpg Tank",
+          "fit": 0.40669999999999995
+        },
+        {
+          "id": "cannon_01",
+          "name": "Cannon 01",
+          "fit": 0.3956
+        },
+        {
+          "id": "wooden_bucket_01",
+          "name": "Wooden Bucket 01",
+          "fit": 0.3003
+        },
+        {
+          "id": "wooden_bucket_02",
+          "name": "Wooden Bucket 02",
+          "fit": 0.2997
+        },
+        {
+          "id": "bolt_action_rifle_7_62",
+          "name": "Bolt Action Rifle 7.62",
+          "fit": 0.23399999999999999
+        },
+        {
+          "id": "cleaner_tin_01",
+          "name": "Cleaner Tin 01",
+          "fit": 0.1825
+        },
+        {
+          "id": "lateral_sea_marker",
+          "name": "Lateral Sea Marker",
+          "fit": 0.17020000000000002
+        },
+        {
+          "id": "metal_jerrycan",
+          "name": "Metal Jerrycan",
+          "fit": 0.1474
+        },
+        {
+          "id": "oil_tin",
+          "name": "Oil Tin",
+          "fit": 0.1428
+        },
+        {
+          "id": "plastic_jerrycan",
+          "name": "Plastic Jerrycan",
+          "fit": 0.1273
+        },
+        {
+          "id": "metal_jerrycan_green",
+          "name": "Metal Jerrycan Green",
+          "fit": 0.12419999999999999
+        },
+        {
+          "id": "metal_toolbox",
+          "name": "Metal Toolbox",
+          "fit": 0.10360000000000001
+        },
+        {
+          "id": "industrial_pastic_container",
+          "name": "Industrial Plastic Container",
+          "fit": 0.1035
+        },
+        {
+          "id": "plastic_bottle_gallon",
+          "name": "Plastic Bottle Gallon",
+          "fit": 0.0975
+        },
+        {
+          "id": "brass_vase_04",
+          "name": "Brass Vase 04",
+          "fit": 0.0949
+        },
+        {
+          "id": "ammo_box",
+          "name": "Ammo Box",
+          "fit": 0.08820000000000001
+        },
+        {
+          "id": "bar_chair_round_01",
+          "name": "Bar Chair Round 01",
+          "fit": 0.083
+        },
+        {
+          "id": "wicker_basket_01",
+          "name": "Wicker Basket 01",
+          "fit": 0.0798
+        },
+        {
+          "id": "watering_can_metal_01",
+          "name": "Watering Can Metal 01",
+          "fit": 0.0781
+        },
+        {
+          "id": "modular_airduct_circular_01",
+          "name": "Modular Airduct Circular 01",
+          "fit": 0.077
+        },
+        {
+          "id": "wooden_military_crate",
+          "name": "Wooden Military Crate",
+          "fit": 0.07079999999999999
+        },
+        {
+          "id": "old_military_crate",
+          "name": "Old Military Crate",
+          "fit": 0.06269999999999999
+        },
+        {
+          "id": "spray_paint_bottles",
+          "name": "Spray Paint Bottles",
+          "fit": 0.0576
+        },
+        {
+          "id": "plastic_crate_02",
+          "name": "Plastic Crate 02",
+          "fit": 0.0549
+        },
+        {
+          "id": "small_oil_can_01",
+          "name": "Small Oil Can 01",
+          "fit": 0.049
+        },
+        {
+          "id": "plastic_crate_03",
+          "name": "Plastic Crate 03",
+          "fit": 0.048600000000000004
+        },
+        {
+          "id": "plastic_crate_01",
+          "name": "Plastic Crate 01",
+          "fit": 0.0477
+        },
+        {
+          "id": "metal_stool_02",
+          "name": "Metal Stool 02",
+          "fit": 0.0365
+        },
+        {
+          "id": "metal_stool_01",
+          "name": "Metal Stool 01",
+          "fit": 0.034499999999999996
+        },
+        {
+          "id": "industrial_wall_lamp",
+          "name": "Industrial Wall Lamp",
+          "fit": 0.034499999999999996
+        },
+        {
+          "id": "propane_torch_02",
+          "name": "Propane Torch 02",
+          "fit": 0.031
+        },
+        {
+          "id": "metal_stool_03",
+          "name": "Metal Stool 03",
+          "fit": 0.028399999999999998
+        },
+        {
+          "id": "rusted_wheel_rim_02",
+          "name": "Rusted Wheel Rim 02",
+          "fit": 0.027500000000000004
+        },
+        {
+          "id": "dead_quiver_trunk",
+          "name": "Dead Quiver Trunk",
+          "fit": 0.027500000000000004
+        },
+        {
+          "id": "baseball_bat",
+          "name": "Baseball Bat",
+          "fit": 0.024
+        },
+        {
+          "id": "rusted_wheel_rim_01",
+          "name": "Rusted Wheel Rim 01",
+          "fit": 0.022799999999999997
+        },
+        {
+          "id": "modular_airduct_rectangular_01",
+          "name": "Modular Airduct Rectangular 01",
+          "fit": 0.022799999999999997
+        },
+        {
+          "id": "vintage_hand_drill",
+          "name": "Vintage Hand Drill",
+          "fit": 0.0201
+        },
+        {
+          "id": "adjustable_wrench",
+          "name": "Adjustable Wrench",
+          "fit": 0.0198
+        },
+        {
+          "id": "crowbar_01",
+          "name": "Crowbar 01",
+          "fit": 0.0195
+        },
+        {
+          "id": "Drill_01",
+          "name": "Drill 01",
+          "fit": 0.0192
+        },
+        {
+          "id": "cross_pein_hammer",
+          "name": "Cross Pein Hammer",
+          "fit": 0.0189
+        },
+        {
+          "id": "pipe_wrench",
+          "name": "Pipe Wrench",
+          "fit": 0.0189
+        },
+        {
+          "id": "dartboard",
+          "name": "Dartboard",
+          "fit": 0.0183
+        },
+        {
+          "id": "stick_grenade",
+          "name": "Stick Grenade",
+          "fit": 0.0183
+        },
+        {
+          "id": "flathead_screwdriver",
+          "name": "Flathead Screwdriver",
+          "fit": 0.018
+        },
+        {
+          "id": "sledgehammer_01",
+          "name": "Sledgehammer 01",
+          "fit": 0.0174
+        },
+        {
+          "id": "bark_debris_01",
+          "name": "Bark Debris 01",
+          "fit": 0.0174
+        },
+        {
+          "id": "rusted_spade_01",
+          "name": "Rusted Spade 01",
+          "fit": 0.0147
+        },
+        {
+          "id": "tire_pump",
+          "name": "Tire Pump",
+          "fit": 0.0126
+        },
+        {
+          "id": "wooden_handle_saber",
+          "name": "Wooden Handle Saber",
+          "fit": 0.011399999999999999
+        }
+      ],
+      "labels": {
+        "barrel_03": true,
+        "wine_barrel_01": true,
+        "wooden_barrels_01": true,
+        "Barrel_02": true,
+        "Barrel_01": true,
+        "barrel_stove": true,
+        "can_rusted": false,
+        "metal_trash_can": false,
+        "propane_tank": false,
+        "small_lpg_tank": false,
+        "cannon_01": false,
+        "wooden_bucket_01": false,
+        "wooden_bucket_02": false,
+        "bolt_action_rifle_7_62": false,
+        "cleaner_tin_01": false,
+        "lateral_sea_marker": false,
+        "metal_jerrycan": false,
+        "oil_tin": false,
+        "plastic_jerrycan": false,
+        "metal_jerrycan_green": false,
+        "metal_toolbox": false,
+        "industrial_pastic_container": false,
+        "plastic_bottle_gallon": false,
+        "brass_vase_04": false,
+        "ammo_box": false,
+        "bar_chair_round_01": false,
+        "wicker_basket_01": false,
+        "watering_can_metal_01": false,
+        "modular_airduct_circular_01": false,
+        "wooden_military_crate": false,
+        "old_military_crate": false,
+        "spray_paint_bottles": false,
+        "plastic_crate_02": false,
+        "small_oil_can_01": false,
+        "plastic_crate_03": false,
+        "plastic_crate_01": false,
+        "metal_stool_02": false,
+        "metal_stool_01": false,
+        "industrial_wall_lamp": false,
+        "propane_torch_02": false,
+        "metal_stool_03": false,
+        "rusted_wheel_rim_02": false,
+        "dead_quiver_trunk": false,
+        "baseball_bat": false,
+        "rusted_wheel_rim_01": false,
+        "modular_airduct_rectangular_01": false,
+        "vintage_hand_drill": false,
+        "adjustable_wrench": false,
+        "crowbar_01": false,
+        "Drill_01": false,
+        "cross_pein_hammer": false,
+        "pipe_wrench": false,
+        "dartboard": false,
+        "stick_grenade": false,
+        "flathead_screwdriver": false,
+        "sledgehammer_01": false,
+        "bark_debris_01": false,
+        "rusted_spade_01": false,
+        "tire_pump": false,
+        "wooden_handle_saber": false
+      },
+      "reviewedAt": "2026-10-14T00:31:48.813Z"
+    },
+    "all lamps": {
+      "about": "lamps",
+      "ranAt": "2026-10-14T00:22:54.400Z",
+      "candidates": [
+        {
+          "id": "hanging_industrial_lamp",
+          "name": "Hanging Industrial Lamp",
+          "fit": 0.8827
+        },
+        {
+          "id": "industrial_pipe_lamp",
+          "name": "Industrial Pipe Lamp",
+          "fit": 0.8633
+        },
+        {
+          "id": "industrial_wall_lamp",
+          "name": "Industrial Wall Lamp",
+          "fit": 0.855
+        },
+        {
+          "id": "street_lamp_01",
+          "name": "Street Lamp 01",
+          "fit": 0.855
+        },
+        {
+          "id": "industrial_caged_sconce",
+          "name": "Industrial Caged Sconce",
+          "fit": 0.855
+        },
+        {
+          "id": "modern_ceiling_lamp_01",
+          "name": "Modern Ceiling Lamp 01",
+          "fit": 0.8439
+        },
+        {
+          "id": "brass_diya_lantern",
+          "name": "Brass Diya Lantern",
+          "fit": 0.8372
+        },
+        {
+          "id": "industrial_wall_sconce",
+          "name": "Industrial Wall Sconce",
+          "fit": 0.8366
+        },
+        {
+          "id": "vintage_oil_lamp",
+          "name": "Vintage Oil Lamp",
+          "fit": 0.836
+        },
+        {
+          "id": "caged_hanging_light",
+          "name": "Caged Hanging Light",
+          "fit": 0.8188000000000001
+        },
+        {
+          "id": "Chandelier_01",
+          "name": "Chandelier 01",
+          "fit": 0.8099000000000001
+        },
+        {
+          "id": "street_lamp_02",
+          "name": "Street Lamp 02",
+          "fit": 0.8096
+        },
+        {
+          "id": "Chandelier_02",
+          "name": "Chandelier 02",
+          "fit": 0.8091
+        },
+        {
+          "id": "lantern_chandelier_01",
+          "name": "Lantern Chandelier 01",
+          "fit": 0.801
+        },
+        {
+          "id": "Lantern_01",
+          "name": "Lantern 01",
+          "fit": 0.792
+        },
+        {
+          "id": "desk_lamp_arm_01",
+          "name": "Desk Lamp Arm 01",
+          "fit": 0.7912
+        },
+        {
+          "id": "mounted_fluorescent_lights",
+          "name": "Mounted Fluorescent Lights",
+          "fit": 0.7569
+        },
+        {
+          "id": "security_light",
+          "name": "Security Light",
+          "fit": 0.7569
+        },
+        {
+          "id": "chinese_chandelier",
+          "name": "Chinese Chandelier",
+          "fit": 0.7303999999999999
+        },
+        {
+          "id": "pull_chain_light_socket",
+          "name": "Pull Chain Light Socket",
+          "fit": 0.7221
+        },
+        {
+          "id": "Chandelier_03",
+          "name": "Chandelier 03",
+          "fit": 0.7047
+        },
+        {
+          "id": "wooden_lantern_01",
+          "name": "Wooden Lantern 01",
+          "fit": 0.6864
+        },
+        {
+          "id": "lightbulb_01",
+          "name": "Lightbulb 01",
+          "fit": 0.645
+        },
+        {
+          "id": "lightbulb_led",
+          "name": "Lightbulb Led",
+          "fit": 0.5312
+        },
+        {
+          "id": "pastic_torch_6v",
+          "name": "Plastic Torch 6V",
+          "fit": 0.4675
+        },
+        {
+          "id": "portable_searchlight",
+          "name": "Portable Searchlight",
+          "fit": 0.4565
+        },
+        {
+          "id": "vintage_flashlight",
+          "name": "Vintage Flashlight",
+          "fit": 0.44880000000000003
+        },
+        {
+          "id": "wooden_candlestick",
+          "name": "Wooden Candlestick",
+          "fit": 0.3984
+        },
+        {
+          "id": "brass_candleholders",
+          "name": "Brass Candleholders",
+          "fit": 0.3948
+        },
+        {
+          "id": "signal_flashlight",
+          "name": "Signal Flashlight",
+          "fit": 0.3655
+        },
+        {
+          "id": "small_plastic_torch",
+          "name": "Small Plastic Torch",
+          "fit": 0.21870000000000003
+        },
+        {
+          "id": "garden_gnome",
+          "name": "Garden Gnome",
+          "fit": 0.147
+        },
+        {
+          "id": "ceiling_fan",
+          "name": "Ceiling Fan",
+          "fit": 0.1273
+        },
+        {
+          "id": "filmstrip_projector_8mm",
+          "name": "Filmstrip Projector 8mm",
+          "fit": 0.074
+        },
+        {
+          "id": "propane_torch",
+          "name": "Propane Torch",
+          "fit": 0.039
+        },
+        {
+          "id": "propane_torch_02",
+          "name": "Propane Torch 02",
+          "fit": 0.034999999999999996
+        },
+        {
+          "id": "brass_vase_04",
+          "name": "Brass Vase 04",
+          "fit": 0.0213
+        },
+        {
+          "id": "brass_vase_01",
+          "name": "Brass Vase 01",
+          "fit": 0.020999999999999998
+        },
+        {
+          "id": "brass_vase_02",
+          "name": "Brass Vase 02",
+          "fit": 0.020699999999999996
+        },
+        {
+          "id": "ceramic_vase_01",
+          "name": "Ceramic Vase 01",
+          "fit": 0.0204
+        },
+        {
+          "id": "side_table_tall_01",
+          "name": "Side Table Tall 01",
+          "fit": 0.0201
+        },
+        {
+          "id": "brass_vase_03",
+          "name": "Brass Vase 03",
+          "fit": 0.0198
+        },
+        {
+          "id": "standing_picture_frame_01",
+          "name": "Standing Picture Frame 01",
+          "fit": 0.0195
+        },
+        {
+          "id": "lambis_shell",
+          "name": "Lambis Shell",
+          "fit": 0.0186
+        },
+        {
+          "id": "side_table_01",
+          "name": "Side Table 01",
+          "fit": 0.018
+        },
+        {
+          "id": "antique_ceramic_vase_01",
+          "name": "Antique Ceramic Vase 01",
+          "fit": 0.017699999999999997
+        },
+        {
+          "id": "wooden_display_shelves_01",
+          "name": "Wooden Display Shelves 01",
+          "fit": 0.0174
+        },
+        {
+          "id": "Camera_01",
+          "name": "Camera 01",
+          "fit": 0.013600000000000001
+        },
+        {
+          "id": "ceramic_vase_02",
+          "name": "Ceramic Vase 02",
+          "fit": 0.0134
+        },
+        {
+          "id": "wooden_ladder_02",
+          "name": "Wooden Ladder 02",
+          "fit": 0.0124
+        },
+        {
+          "id": "scandinavian_masonry_heater",
+          "name": "Scandinavian Masonry Heater",
+          "fit": 0.0124
+        },
+        {
+          "id": "decorative_book_set_01",
+          "name": "Decorative Book Set 01",
+          "fit": 0.0124
+        },
+        {
+          "id": "vintage_crutches_01",
+          "name": "Vintage Crutches 01",
+          "fit": 0.0122
+        },
+        {
+          "id": "ceramic_vase_04",
+          "name": "Ceramic Vase 04",
+          "fit": 0.012
+        },
+        {
+          "id": "gallinera_table",
+          "name": "Gallinera Table",
+          "fit": 0.0118
+        },
+        {
+          "id": "modern_arm_chair_01",
+          "name": "Modern Arm Chair 01",
+          "fit": 0.011399999999999999
+        },
+        {
+          "id": "mid_century_lounge_chair",
+          "name": "Mid Century Lounge Chair",
+          "fit": 0.011200000000000002
+        },
+        {
+          "id": "wicker_basket_02",
+          "name": "Wicker Basket 02",
+          "fit": 0.011000000000000001
+        },
+        {
+          "id": "fancy_picture_frame_01",
+          "name": "Fancy Picture Frame 01",
+          "fit": 0.010400000000000001
+        },
+        {
+          "id": "tire_pump",
+          "name": "Tire Pump",
+          "fit": 0.006600000000000001
+        }
+      ],
+      "labels": {
+        "hanging_industrial_lamp": true,
+        "industrial_pipe_lamp": true,
+        "industrial_wall_lamp": true,
+        "street_lamp_01": true,
+        "industrial_caged_sconce": true,
+        "modern_ceiling_lamp_01": true,
+        "brass_diya_lantern": true,
+        "industrial_wall_sconce": true,
+        "vintage_oil_lamp": true,
+        "caged_hanging_light": true,
+        "Chandelier_01": true,
+        "street_lamp_02": true,
+        "Chandelier_02": true,
+        "lantern_chandelier_01": true,
+        "Lantern_01": true,
+        "desk_lamp_arm_01": true,
+        "mounted_fluorescent_lights": true,
+        "security_light": true,
+        "chinese_chandelier": true,
+        "pull_chain_light_socket": true,
+        "Chandelier_03": true,
+        "wooden_lantern_01": true,
+        "lightbulb_01": true,
+        "lightbulb_led": true,
+        "pastic_torch_6v": false,
+        "portable_searchlight": false,
+        "vintage_flashlight": false,
+        "wooden_candlestick": false,
+        "brass_candleholders": false,
+        "signal_flashlight": false,
+        "small_plastic_torch": false,
+        "garden_gnome": false,
+        "ceiling_fan": true,
+        "filmstrip_projector_8mm": false,
+        "propane_torch": false,
+        "propane_torch_02": false,
+        "brass_vase_04": false,
+        "brass_vase_01": false,
+        "brass_vase_02": false,
+        "ceramic_vase_01": false,
+        "side_table_tall_01": false,
+        "brass_vase_03": false,
+        "standing_picture_frame_01": false,
+        "lambis_shell": false,
+        "side_table_01": false,
+        "antique_ceramic_vase_01": false,
+        "wooden_display_shelves_01": false,
+        "Camera_01": false,
+        "ceramic_vase_02": false,
+        "wooden_ladder_02": false,
+        "scandinavian_masonry_heater": false,
+        "decorative_book_set_01": false,
+        "vintage_crutches_01": false,
+        "ceramic_vase_04": false,
+        "gallinera_table": false,
+        "modern_arm_chair_01": false,
+        "mid_century_lounge_chair": false,
+        "wicker_basket_02": false,
+        "fancy_picture_frame_01": false,
+        "tire_pump": false
+      },
+      "reviewedAt": "2026-10-14T00:32:12.316Z"
+    },
+    "all rocks": {
+      "about": "rocks",
+      "ranAt": "2026-10-14T00:22:54.740Z",
+      "candidates": [
+        {
+          "id": "boulder_01",
+          "name": "Boulder 01",
+          "fit": 0.8736
+        },
+        {
+          "id": "coast_rocks_05",
+          "name": "Coast Rocks 05",
+          "fit": 0.8736
+        },
+        {
+          "id": "stone_01",
+          "name": "Stone 01",
+          "fit": 0.873
+        },
+        {
+          "id": "rock_moss_set_01",
+          "name": "Rock Moss Set 01",
+          "fit": 0.8644999999999999
+        },
+        {
+          "id": "rock_face_01",
+          "name": "Rock Face 01",
+          "fit": 0.8644999999999999
+        },
+        {
+          "id": "coast_rocks_02",
+          "name": "Coast Rocks 02",
+          "fit": 0.8644999999999999
+        },
+        {
+          "id": "namaqualand_rocks_01",
+          "name": "Namaqualand Rocks 01",
+          "fit": 0.864
+        },
+        {
+          "id": "namaqualand_boulders_01",
+          "name": "Namaqualand Boulders 01",
+          "fit": 0.864
+        },
+        {
+          "id": "namaqualand_boulder_05",
+          "name": "Namaqualand Boulder 05",
+          "fit": 0.864
+        },
+        {
+          "id": "rock_07",
+          "name": "Rock 07",
+          "fit": 0.8633
+        },
+        {
+          "id": "coast_rocks_01",
+          "name": "Coast Rocks 01",
+          "fit": 0.855
+        },
+        {
+          "id": "moon_rock_06",
+          "name": "Moon Rock 06",
+          "fit": 0.855
+        },
+        {
+          "id": "rock_09",
+          "name": "Rock 09",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "namaqualand_stones_01",
+          "name": "Namaqualand Stones 01",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "coast_rocks_03",
+          "name": "Coast Rocks 03",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "namaqualand_boulder_03",
+          "name": "Namaqualand Boulder 03",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "coast_line_01",
+          "name": "Coast Line 01",
+          "fit": 0.8464
+        },
+        {
+          "id": "namaqualand_boulder_02",
+          "name": "Namaqualand Boulder 02",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "coast_land_rocks_02",
+          "name": "Coast Land Rocks 02",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "coast_land_rocks_03",
+          "name": "Coast Land Rocks 03",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "coast_land_rocks_04",
+          "name": "Coast Land Rocks 04",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "rock_face_02",
+          "name": "Rock Face 02",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "moon_rock_05",
+          "name": "Moon Rock 05",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "moon_rock_01",
+          "name": "Moon Rock 01",
+          "fit": 0.8454999999999999
+        },
+        {
+          "id": "namaqualand_boulder_06",
+          "name": "Namaqualand Boulder 06",
+          "fit": 0.8448
+        },
+        {
+          "id": "sand_rocks_small_01",
+          "name": "Sand Rocks Small 01",
+          "fit": 0.8370000000000001
+        },
+        {
+          "id": "coast_line_02",
+          "name": "Coast Line 02",
+          "fit": 0.8370000000000001
+        },
+        {
+          "id": "moon_rock_07",
+          "name": "Moon Rock 07",
+          "fit": 0.8370000000000001
+        },
+        {
+          "id": "namaqualand_cliff_01",
+          "name": "Namaqualand Cliff 01",
+          "fit": 0.8366
+        },
+        {
+          "id": "moon_rock_03",
+          "name": "Moon Rock 03",
+          "fit": 0.8366
+        },
+        {
+          "id": "moon_rock_02",
+          "name": "Moon Rock 02",
+          "fit": 0.8366
+        },
+        {
+          "id": "moon_rock_04",
+          "name": "Moon Rock 04",
+          "fit": 0.836
+        },
+        {
+          "id": "namaqualand_boulder_04",
+          "name": "Namaqualand Boulder 04",
+          "fit": 0.8351999999999999
+        },
+        {
+          "id": "rock_moss_set_02",
+          "name": "Rock Moss Set 02",
+          "fit": 0.8271999999999999
+        },
+        {
+          "id": "namaqualand_cliff_02",
+          "name": "Namaqualand Cliff 02",
+          "fit": 0.8178
+        },
+        {
+          "id": "mountainside",
+          "name": "Mountainside",
+          "fit": 0.8096
+        },
+        {
+          "id": "coastal_cliff_01",
+          "name": "Coastal Cliff 01",
+          "fit": 0.7744
+        },
+        {
+          "id": "coastal_cliff_04",
+          "name": "Coastal Cliff 04",
+          "fit": 0.7743
+        },
+        {
+          "id": "coastal_cliff_02",
+          "name": "Coastal Cliff 02",
+          "fit": 0.7133999999999999
+        },
+        {
+          "id": "stone_fire_pit",
+          "name": "Stone Fire Pit",
+          "fit": 0.4755999999999999
+        },
+        {
+          "id": "modern_coffee_table_01",
+          "name": "Modern Coffee Table 01",
+          "fit": 0.1215
+        },
+        {
+          "id": "cheiridopsis_succulent",
+          "name": "Cheiridopsis Succulent",
+          "fit": 0.10270000000000001
+        },
+        {
+          "id": "Rockingchair_01",
+          "name": "Rockingchair 01",
+          "fit": 0.0684
+        },
+        {
+          "id": "root_cluster_01",
+          "name": "Root Cluster 01",
+          "fit": 0.054400000000000004
+        },
+        {
+          "id": "root_cluster_02",
+          "name": "Root Cluster 02",
+          "fit": 0.051100000000000007
+        },
+        {
+          "id": "crystalline_iceplant",
+          "name": "Crystalline Iceplant",
+          "fit": 0.0438
+        },
+        {
+          "id": "pine_roots",
+          "name": "Pine Roots",
+          "fit": 0.0432
+        },
+        {
+          "id": "dead_quiver_branch_02",
+          "name": "Dead Quiver Branch 02",
+          "fit": 0.0378
+        },
+        {
+          "id": "bark_debris_01",
+          "name": "Bark Debris 01",
+          "fit": 0.035399999999999994
+        },
+        {
+          "id": "potted_plant_04",
+          "name": "Potted Plant 04",
+          "fit": 0.033
+        },
+        {
+          "id": "dry_quiver_leaf",
+          "name": "Dry Quiver Leaf",
+          "fit": 0.031
+        },
+        {
+          "id": "quiver_tree_01",
+          "name": "Quiver Tree 01",
+          "fit": 0.03
+        },
+        {
+          "id": "quiver_tree_02",
+          "name": "Quiver Tree 02",
+          "fit": 0.028399999999999998
+        },
+        {
+          "id": "othonna_cerarioides",
+          "name": "Othonna Cerarioides",
+          "fit": 0.028399999999999998
+        },
+        {
+          "id": "tree_stump_01",
+          "name": "Tree Stump 01",
+          "fit": 0.027000000000000003
+        },
+        {
+          "id": "tree_stump_02",
+          "name": "Tree Stump 02",
+          "fit": 0.0256
+        },
+        {
+          "id": "dry_branches_medium_01",
+          "name": "Dry Branches Medium 01",
+          "fit": 0.0216
+        },
+        {
+          "id": "island_tree_02",
+          "name": "Island Tree 02",
+          "fit": 0.0201
+        },
+        {
+          "id": "island_tree_01",
+          "name": "Island Tree 01",
+          "fit": 0.0195
+        },
+        {
+          "id": "shrub_04",
+          "name": "Shrub 04",
+          "fit": 0.0165
+        }
+      ],
+      "labels": {
+        "boulder_01": true,
+        "coast_rocks_05": true,
+        "stone_01": true,
+        "rock_moss_set_01": true,
+        "rock_face_01": true,
+        "coast_rocks_02": true,
+        "namaqualand_rocks_01": true,
+        "namaqualand_boulders_01": true,
+        "namaqualand_boulder_05": true,
+        "rock_07": true,
+        "coast_rocks_01": true,
+        "moon_rock_06": true,
+        "rock_09": true,
+        "namaqualand_stones_01": true,
+        "coast_rocks_03": true,
+        "namaqualand_boulder_03": true,
+        "coast_line_01": true,
+        "namaqualand_boulder_02": true,
+        "coast_land_rocks_02": true,
+        "coast_land_rocks_03": true,
+        "coast_land_rocks_04": true,
+        "rock_face_02": true,
+        "moon_rock_05": true,
+        "moon_rock_01": true,
+        "namaqualand_boulder_06": true,
+        "sand_rocks_small_01": true,
+        "coast_line_02": true,
+        "moon_rock_07": true,
+        "namaqualand_cliff_01": true,
+        "moon_rock_03": true,
+        "moon_rock_02": true,
+        "moon_rock_04": true,
+        "namaqualand_boulder_04": true,
+        "rock_moss_set_02": true,
+        "namaqualand_cliff_02": true,
+        "mountainside": true,
+        "coastal_cliff_01": true,
+        "coastal_cliff_04": true,
+        "coastal_cliff_02": true,
+        "stone_fire_pit": false,
+        "modern_coffee_table_01": false,
+        "cheiridopsis_succulent": false,
+        "Rockingchair_01": false,
+        "root_cluster_01": false,
+        "root_cluster_02": false,
+        "crystalline_iceplant": false,
+        "pine_roots": false,
+        "dead_quiver_branch_02": false,
+        "bark_debris_01": false,
+        "potted_plant_04": false,
+        "dry_quiver_leaf": false,
+        "quiver_tree_01": false,
+        "quiver_tree_02": false,
+        "othonna_cerarioides": false,
+        "tree_stump_01": false,
+        "tree_stump_02": false,
+        "dry_branches_medium_01": false,
+        "island_tree_02": false,
+        "island_tree_01": false,
+        "shrub_04": false
+      },
+      "reviewedAt": "2026-10-14T00:32:13.679Z"
+    },
+    "all trees": {
+      "about": "trees",
+      "ranAt": "2026-10-14T00:22:55.103Z",
+      "candidates": [
+        {
+          "id": "island_tree_03",
+          "name": "Island Tree 03",
+          "fit": 0.8924
+        },
+        {
+          "id": "island_tree_01",
+          "name": "Island Tree 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "island_tree_02",
+          "name": "Island Tree 02",
+          "fit": 0.8827
+        },
+        {
+          "id": "fir_sapling",
+          "name": "Fir Sapling",
+          "fit": 0.8827
+        },
+        {
+          "id": "pine_sapling_medium",
+          "name": "Pine Sapling Medium",
+          "fit": 0.8736
+        },
+        {
+          "id": "fir_tree_01",
+          "name": "Fir Tree 01",
+          "fit": 0.8722
+        },
+        {
+          "id": "pine_tree_01",
+          "name": "Pine Tree 01",
+          "fit": 0.8722
+        },
+        {
+          "id": "tree_small_02",
+          "name": "Tree Small 02",
+          "fit": 0.8722
+        },
+        {
+          "id": "jacaranda_tree",
+          "name": "Jacaranda Tree",
+          "fit": 0.8623999999999999
+        },
+        {
+          "id": "fir_sapling_medium",
+          "name": "Fir Sapling Medium",
+          "fit": 0.8543999999999999
+        },
+        {
+          "id": "pine_sapling_small",
+          "name": "Pine Sapling Small",
+          "fit": 0.8448
+        },
+        {
+          "id": "quiver_tree_01",
+          "name": "Quiver Tree 01",
+          "fit": 0.8280000000000001
+        },
+        {
+          "id": "quiver_tree_02",
+          "name": "Quiver Tree 02",
+          "fit": 0.8271999999999999
+        },
+        {
+          "id": "dead_quiver_trunk",
+          "name": "Dead Quiver Trunk",
+          "fit": 0.8188000000000001
+        },
+        {
+          "id": "dead_tree_trunk_02",
+          "name": "Dead Tree Trunk 02",
+          "fit": 0.7743
+        },
+        {
+          "id": "dead_tree_trunk",
+          "name": "Dead Tree Trunk",
+          "fit": 0.7482
+        },
+        {
+          "id": "tree_stump_01",
+          "name": "Tree Stump 01",
+          "fit": 0.7303999999999999
+        },
+        {
+          "id": "tree_stump_02",
+          "name": "Tree Stump 02",
+          "fit": 0.7221
+        },
+        {
+          "id": "pine_roots",
+          "name": "Pine Roots",
+          "fit": 0.6612
+        },
+        {
+          "id": "root_cluster_01",
+          "name": "Root Cluster 01",
+          "fit": 0.6512
+        },
+        {
+          "id": "pachira_aquatica_01",
+          "name": "Pachira Aquatica 01",
+          "fit": 0.645
+        },
+        {
+          "id": "single_root",
+          "name": "Single Root",
+          "fit": 0.6176999999999999
+        },
+        {
+          "id": "root_cluster_02",
+          "name": "Root Cluster 02",
+          "fit": 0.5712
+        },
+        {
+          "id": "searsia_lucida",
+          "name": "Searsia Lucida",
+          "fit": 0.46440000000000003
+        },
+        {
+          "id": "bark_debris_01",
+          "name": "Bark Debris 01",
+          "fit": 0.4212
+        },
+        {
+          "id": "searsia_burchellii",
+          "name": "Searsia Burchellii",
+          "fit": 0.4128
+        },
+        {
+          "id": "dead_quiver_branch_01",
+          "name": "Dead Quiver Branch 01",
+          "fit": 0.38539999999999996
+        },
+        {
+          "id": "dry_branches_medium_01",
+          "name": "Dry Branches Medium 01",
+          "fit": 0.36800000000000005
+        },
+        {
+          "id": "dead_quiver_branch_02",
+          "name": "Dead Quiver Branch 02",
+          "fit": 0.2584
+        },
+        {
+          "id": "othonna_cerarioides",
+          "name": "Othonna Cerarioides",
+          "fit": 0.2075
+        },
+        {
+          "id": "shrub_02",
+          "name": "Shrub 02",
+          "fit": 0.2025
+        },
+        {
+          "id": "potted_plant_01",
+          "name": "Potted Plant 01",
+          "fit": 0.1925
+        },
+        {
+          "id": "calathea_orbifolia_01",
+          "name": "Calathea Orbifolia 01",
+          "fit": 0.1422
+        },
+        {
+          "id": "anthurium_botany_01",
+          "name": "Anthurium Botany 01",
+          "fit": 0.1185
+        },
+        {
+          "id": "shrub_04",
+          "name": "Shrub 04",
+          "fit": 0.11399999999999999
+        },
+        {
+          "id": "potted_plant_02",
+          "name": "Potted Plant 02",
+          "fit": 0.1095
+        },
+        {
+          "id": "seeding_tray_01",
+          "name": "Seedling Tray 01",
+          "fit": 0.10500000000000001
+        },
+        {
+          "id": "didelta_spinosa",
+          "name": "Didelta Spinosa",
+          "fit": 0.09620000000000001
+        },
+        {
+          "id": "fern_02",
+          "name": "Fern 02",
+          "fit": 0.0949
+        },
+        {
+          "id": "wild_rooibos_bush",
+          "name": "Wild Rooibos Bush",
+          "fit": 0.09
+        },
+        {
+          "id": "shrub_01",
+          "name": "Shrub 01",
+          "fit": 0.0814
+        },
+        {
+          "id": "wooden_display_shelves_01",
+          "name": "Wooden Display Shelves 01",
+          "fit": 0.08000000000000002
+        },
+        {
+          "id": "shrub_sorrel_01",
+          "name": "Shrub Sorrel 01",
+          "fit": 0.07900000000000001
+        },
+        {
+          "id": "shrub_03",
+          "name": "Shrub 03",
+          "fit": 0.0748
+        },
+        {
+          "id": "weed_plant_02",
+          "name": "Weed Plant 02",
+          "fit": 0.0711
+        },
+        {
+          "id": "moss_01",
+          "name": "Moss 01",
+          "fit": 0.0693
+        },
+        {
+          "id": "planter_box_03",
+          "name": "Planter Box 03",
+          "fit": 0.0675
+        },
+        {
+          "id": "periwinkle_plant",
+          "name": "Periwinkle Plant",
+          "fit": 0.063
+        },
+        {
+          "id": "food_pears_asian_01",
+          "name": "Pears Asian 01",
+          "fit": 0.0608
+        },
+        {
+          "id": "wooden_axe_03",
+          "name": "Wooden Axe 03",
+          "fit": 0.06
+        },
+        {
+          "id": "wooden_table_02",
+          "name": "Wooden Table 02",
+          "fit": 0.06
+        },
+        {
+          "id": "wooden_axe_02",
+          "name": "Wooden Axe 02",
+          "fit": 0.052500000000000005
+        },
+        {
+          "id": "celandine_01",
+          "name": "Celandine 01",
+          "fit": 0.0504
+        },
+        {
+          "id": "nettle_plant",
+          "name": "Nettle Plant",
+          "fit": 0.0497
+        },
+        {
+          "id": "dandelion_01",
+          "name": "Dandelion 01",
+          "fit": 0.043199999999999995
+        },
+        {
+          "id": "rock_moss_set_01",
+          "name": "Rock Moss Set 01",
+          "fit": 0.0402
+        },
+        {
+          "id": "grass_medium_02",
+          "name": "Grass Medium 02",
+          "fit": 0.037500000000000006
+        },
+        {
+          "id": "trowel_01",
+          "name": "Trowel 01",
+          "fit": 0.034499999999999996
+        },
+        {
+          "id": "grass_medium_01",
+          "name": "Grass Medium 01",
+          "fit": 0.033
+        },
+        {
+          "id": "grass_bermuda_01",
+          "name": "Grass Bermuda 01",
+          "fit": 0.0276
+        }
+      ],
+      "labels": {
+        "island_tree_03": true,
+        "island_tree_01": true,
+        "island_tree_02": true,
+        "fir_sapling": true,
+        "pine_sapling_medium": true,
+        "fir_tree_01": true,
+        "pine_tree_01": true,
+        "tree_small_02": true,
+        "jacaranda_tree": true,
+        "fir_sapling_medium": true,
+        "pine_sapling_small": true,
+        "quiver_tree_01": true,
+        "quiver_tree_02": true,
+        "dead_quiver_trunk": true,
+        "dead_tree_trunk_02": true,
+        "dead_tree_trunk": true,
+        "tree_stump_01": true,
+        "tree_stump_02": true,
+        "pine_roots": false,
+        "root_cluster_01": false,
+        "pachira_aquatica_01": true,
+        "single_root": false,
+        "root_cluster_02": false,
+        "searsia_lucida": true,
+        "bark_debris_01": false,
+        "searsia_burchellii": false,
+        "dead_quiver_branch_01": false,
+        "dry_branches_medium_01": false,
+        "dead_quiver_branch_02": false,
+        "othonna_cerarioides": false,
+        "shrub_02": false,
+        "potted_plant_01": false,
+        "calathea_orbifolia_01": false,
+        "anthurium_botany_01": false,
+        "shrub_04": false,
+        "potted_plant_02": false,
+        "seeding_tray_01": false,
+        "didelta_spinosa": false,
+        "fern_02": false,
+        "wild_rooibos_bush": false,
+        "shrub_01": false,
+        "wooden_display_shelves_01": false,
+        "shrub_sorrel_01": false,
+        "shrub_03": false,
+        "weed_plant_02": false,
+        "moss_01": false,
+        "planter_box_03": false,
+        "periwinkle_plant": false,
+        "food_pears_asian_01": false,
+        "wooden_axe_03": false,
+        "wooden_table_02": false,
+        "wooden_axe_02": false,
+        "celandine_01": false,
+        "nettle_plant": false,
+        "dandelion_01": false,
+        "rock_moss_set_01": false,
+        "grass_medium_02": false,
+        "trowel_01": false,
+        "grass_medium_01": false,
+        "grass_bermuda_01": false
+      },
+      "reviewedAt": "2026-10-14T00:32:30.828Z"
+    },
+    "all vases": {
+      "about": "vases",
+      "ranAt": "2026-10-14T00:22:55.414Z",
+      "candidates": [
+        {
+          "id": "brass_vase_03",
+          "name": "Brass Vase 03",
+          "fit": 0.9016000000000001
+        },
+        {
+          "id": "brass_vase_01",
+          "name": "Brass Vase 01",
+          "fit": 0.9016000000000001
+        },
+        {
+          "id": "brass_vase_02",
+          "name": "Brass Vase 02",
+          "fit": 0.9016000000000001
+        },
+        {
+          "id": "ceramic_vase_01",
+          "name": "Ceramic Vase 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "ceramic_vase_02",
+          "name": "Ceramic Vase 02",
+          "fit": 0.8918
+        },
+        {
+          "id": "antique_ceramic_vase_01",
+          "name": "Antique Ceramic Vase 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "brass_vase_04",
+          "name": "Brass Vase 04",
+          "fit": 0.8827
+        },
+        {
+          "id": "ceramic_vase_03",
+          "name": "Ceramic Vase 03",
+          "fit": 0.882
+        },
+        {
+          "id": "ceramic_vase_04",
+          "name": "Ceramic Vase 04",
+          "fit": 0.873
+        },
+        {
+          "id": "planter_pot_clay",
+          "name": "Planter Pot Clay",
+          "fit": 0.66
+        },
+        {
+          "id": "metal_jug",
+          "name": "Metal Jug",
+          "fit": 0.5632
+        },
+        {
+          "id": "potted_plant_02",
+          "name": "Potted Plant 02",
+          "fit": 0.4536
+        },
+        {
+          "id": "potted_plant_01",
+          "name": "Potted Plant 01",
+          "fit": 0.374
+        },
+        {
+          "id": "ceramic_pot",
+          "name": "Ceramic Pot",
+          "fit": 0.2449
+        },
+        {
+          "id": "jug_01",
+          "name": "Jug 01",
+          "fit": 0.164
+        },
+        {
+          "id": "planter_box_02",
+          "name": "Planter Box 02",
+          "fit": 0.1216
+        },
+        {
+          "id": "planter_box_03",
+          "name": "Planter Box 03",
+          "fit": 0.12
+        },
+        {
+          "id": "brass_pot_01",
+          "name": "Brass Pot 01",
+          "fit": 0.1168
+        },
+        {
+          "id": "brass_goblets",
+          "name": "Brass Goblets",
+          "fit": 0.108
+        },
+        {
+          "id": "planter_box_01",
+          "name": "Planter Box 01",
+          "fit": 0.0994
+        },
+        {
+          "id": "potted_plant_04",
+          "name": "Potted Plant 04",
+          "fit": 0.09240000000000001
+        },
+        {
+          "id": "brass_pot_02",
+          "name": "Brass Pot 02",
+          "fit": 0.0884
+        },
+        {
+          "id": "seeding_tray_01",
+          "name": "Seedling Tray 01",
+          "fit": 0.0759
+        },
+        {
+          "id": "wooden_bucket_02",
+          "name": "Wooden Bucket 02",
+          "fit": 0.06999999999999999
+        },
+        {
+          "id": "plastic_bottle_gallon",
+          "name": "Plastic Bottle Gallon",
+          "fit": 0.06999999999999999
+        },
+        {
+          "id": "wine_bottles_01",
+          "name": "Wine Bottles 01",
+          "fit": 0.06899999999999999
+        },
+        {
+          "id": "chemistry_set",
+          "name": "Chemistry Set",
+          "fit": 0.06709999999999999
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.067
+        },
+        {
+          "id": "wicker_basket_02",
+          "name": "Wicker Basket 02",
+          "fit": 0.064
+        },
+        {
+          "id": "brass_pan_01",
+          "name": "Brass Pan 01",
+          "fit": 0.061200000000000004
+        },
+        {
+          "id": "wooden_bucket_01",
+          "name": "Wooden Bucket 01",
+          "fit": 0.0594
+        },
+        {
+          "id": "watering_can_metal_01",
+          "name": "Watering Can Metal 01",
+          "fit": 0.0504
+        },
+        {
+          "id": "wine_barrel_01",
+          "name": "Wine Barrel 01",
+          "fit": 0.046900000000000004
+        },
+        {
+          "id": "Lantern_01",
+          "name": "Lantern 01",
+          "fit": 0.0438
+        },
+        {
+          "id": "pot_enamel_01",
+          "name": "Pot Enamel 01",
+          "fit": 0.043199999999999995
+        },
+        {
+          "id": "wicker_basket_01",
+          "name": "Wicker Basket 01",
+          "fit": 0.042
+        },
+        {
+          "id": "wooden_bowl_02",
+          "name": "Wooden Bowl 02",
+          "fit": 0.041999999999999996
+        },
+        {
+          "id": "tea_set_01",
+          "name": "Tea Set 01",
+          "fit": 0.0402
+        },
+        {
+          "id": "modified_thermos",
+          "name": "Modified Thermos",
+          "fit": 0.0384
+        },
+        {
+          "id": "brass_candleholders",
+          "name": "Brass Candleholders",
+          "fit": 0.036
+        },
+        {
+          "id": "plastic_thermos",
+          "name": "Plastic Thermos",
+          "fit": 0.034
+        },
+        {
+          "id": "barrel_stove",
+          "name": "Barrel Stove",
+          "fit": 0.0325
+        },
+        {
+          "id": "wooden_bowl_01",
+          "name": "Wooden Bowl 01",
+          "fit": 0.031
+        },
+        {
+          "id": "wooden_candlestick",
+          "name": "Wooden Candlestick",
+          "fit": 0.028000000000000004
+        },
+        {
+          "id": "vintage_oil_lamp",
+          "name": "Vintage Oil Lamp",
+          "fit": 0.027999999999999997
+        },
+        {
+          "id": "spray_paint_bottles",
+          "name": "Spray Paint Bottles",
+          "fit": 0.027000000000000003
+        },
+        {
+          "id": "carved_wooden_plate",
+          "name": "Carved Wooden Plate",
+          "fit": 0.026000000000000002
+        },
+        {
+          "id": "katana_stand_01",
+          "name": "Katana Stand 01",
+          "fit": 0.020999999999999998
+        },
+        {
+          "id": "ClassicConsole_01",
+          "name": "Classic Console 01",
+          "fit": 0.0189
+        },
+        {
+          "id": "wooden_lantern_01",
+          "name": "Wooden Lantern 01",
+          "fit": 0.0183
+        },
+        {
+          "id": "vintage_cabinet_01",
+          "name": "Vintage Cabinet 01",
+          "fit": 0.0183
+        },
+        {
+          "id": "hanging_picture_frame_03",
+          "name": "Hanging Picture Frame 03",
+          "fit": 0.0128
+        },
+        {
+          "id": "side_table_tall_01",
+          "name": "Side Table Tall 01",
+          "fit": 0.0122
+        },
+        {
+          "id": "spray_paint_bottles_02",
+          "name": "Spray Paint Bottles 02",
+          "fit": 0.0122
+        },
+        {
+          "id": "ornate_mirror_01",
+          "name": "Ornate Mirror 01",
+          "fit": 0.011200000000000002
+        },
+        {
+          "id": "Television_01",
+          "name": "Television 01",
+          "fit": 0.01
+        },
+        {
+          "id": "dutch_ship_medium",
+          "name": "Dutch Ship Medium",
+          "fit": 0.0077
+        },
+        {
+          "id": "dutch_ship_large_01",
+          "name": "Dutch Ship Large 01",
+          "fit": 0.0068000000000000005
+        },
+        {
+          "id": "vintage_binocular",
+          "name": "Vintage Binoculars",
+          "fit": 0.0068000000000000005
+        },
+        {
+          "id": "dutch_ship_large_02",
+          "name": "Dutch Ship Large 02",
+          "fit": 0.0064
+        }
+      ],
+      "labels": {
+        "brass_vase_03": true,
+        "brass_vase_01": true,
+        "brass_vase_02": true,
+        "ceramic_vase_01": true,
+        "ceramic_vase_02": true,
+        "antique_ceramic_vase_01": true,
+        "brass_vase_04": true,
+        "ceramic_vase_03": true,
+        "ceramic_vase_04": true,
+        "planter_pot_clay": false,
+        "metal_jug": false,
+        "potted_plant_02": false,
+        "potted_plant_01": false,
+        "ceramic_pot": false,
+        "jug_01": false,
+        "planter_box_02": false,
+        "planter_box_03": false,
+        "brass_pot_01": false,
+        "brass_goblets": false,
+        "planter_box_01": false,
+        "potted_plant_04": false,
+        "brass_pot_02": false,
+        "seeding_tray_01": false,
+        "wooden_bucket_02": false,
+        "plastic_bottle_gallon": false,
+        "wine_bottles_01": false,
+        "chemistry_set": false,
+        "wooden_barrels_01": false,
+        "wicker_basket_02": false,
+        "brass_pan_01": false,
+        "wooden_bucket_01": false,
+        "watering_can_metal_01": false,
+        "wine_barrel_01": false,
+        "Lantern_01": false,
+        "pot_enamel_01": false,
+        "wicker_basket_01": false,
+        "wooden_bowl_02": false,
+        "tea_set_01": false,
+        "modified_thermos": false,
+        "brass_candleholders": false,
+        "plastic_thermos": false,
+        "barrel_stove": false,
+        "wooden_bowl_01": false,
+        "wooden_candlestick": false,
+        "vintage_oil_lamp": false,
+        "spray_paint_bottles": false,
+        "carved_wooden_plate": false,
+        "katana_stand_01": false,
+        "ClassicConsole_01": false,
+        "wooden_lantern_01": false,
+        "vintage_cabinet_01": false,
+        "hanging_picture_frame_03": false,
+        "side_table_tall_01": false,
+        "spray_paint_bottles_02": false,
+        "ornate_mirror_01": false,
+        "Television_01": false,
+        "dutch_ship_medium": false,
+        "dutch_ship_large_01": false,
+        "vintage_binocular": false,
+        "dutch_ship_large_02": false
+      },
+      "reviewedAt": "2026-10-14T00:32:43.720Z"
+    },
+    "all potted plants": {
+      "about": "potted plants",
+      "ranAt": "2026-10-14T00:22:55.729Z",
+      "candidates": [
+        {
+          "id": "potted_plant_01",
+          "name": "Potted Plant 01",
+          "fit": 0.882
+        },
+        {
+          "id": "potted_plant_02",
+          "name": "Potted Plant 02",
+          "fit": 0.8722
+        },
+        {
+          "id": "potted_plant_04",
+          "name": "Potted Plant 04",
+          "fit": 0.8526
+        },
+        {
+          "id": "shrub_sorrel_01",
+          "name": "Shrub Sorrel 01",
+          "fit": 0.7051999999999999
+        },
+        {
+          "id": "planter_box_03",
+          "name": "Planter Box 03",
+          "fit": 0.5892999999999999
+        },
+        {
+          "id": "planter_box_01",
+          "name": "Planter Box 01",
+          "fit": 0.5742
+        },
+        {
+          "id": "planter_box_02",
+          "name": "Planter Box 02",
+          "fit": 0.5676
+        },
+        {
+          "id": "pachira_aquatica_01",
+          "name": "Pachira Aquatica 01",
+          "fit": 0.48
+        },
+        {
+          "id": "leipoldtia_schultzei",
+          "name": "Leipoldtia Schultzei",
+          "fit": 0.43200000000000005
+        },
+        {
+          "id": "didelta_spinosa",
+          "name": "Didelta Spinosa",
+          "fit": 0.40280000000000005
+        },
+        {
+          "id": "antique_ceramic_vase_01",
+          "name": "Antique Ceramic Vase 01",
+          "fit": 0.38539999999999996
+        },
+        {
+          "id": "othonna_cerarioides",
+          "name": "Othonna Cerarioides",
+          "fit": 0.375
+        },
+        {
+          "id": "calathea_orbifolia_01",
+          "name": "Calathea Orbifolia 01",
+          "fit": 0.3744
+        },
+        {
+          "id": "ceramic_vase_01",
+          "name": "Ceramic Vase 01",
+          "fit": 0.37260000000000004
+        },
+        {
+          "id": "periwinkle_plant",
+          "name": "Periwinkle Plant",
+          "fit": 0.3713
+        },
+        {
+          "id": "seeding_tray_01",
+          "name": "Seedling Tray 01",
+          "fit": 0.35200000000000004
+        },
+        {
+          "id": "fern_02",
+          "name": "Fern 02",
+          "fit": 0.34559999999999996
+        },
+        {
+          "id": "crystalline_iceplant",
+          "name": "Crystalline Iceplant",
+          "fit": 0.31079999999999997
+        },
+        {
+          "id": "anthurium_botany_01",
+          "name": "Anthurium Botany 01",
+          "fit": 0.3024
+        },
+        {
+          "id": "fir_sapling_medium",
+          "name": "Fir Sapling Medium",
+          "fit": 0.28500000000000003
+        },
+        {
+          "id": "planter_pot_clay",
+          "name": "Planter Pot Clay",
+          "fit": 0.2736
+        },
+        {
+          "id": "ceramic_vase_04",
+          "name": "Ceramic Vase 04",
+          "fit": 0.2736
+        },
+        {
+          "id": "nettle_plant",
+          "name": "Nettle Plant",
+          "fit": 0.26639999999999997
+        },
+        {
+          "id": "ceramic_vase_02",
+          "name": "Ceramic Vase 02",
+          "fit": 0.26599999999999996
+        },
+        {
+          "id": "pine_sapling_small",
+          "name": "Pine Sapling Small",
+          "fit": 0.252
+        },
+        {
+          "id": "ceramic_vase_03",
+          "name": "Ceramic Vase 03",
+          "fit": 0.248
+        },
+        {
+          "id": "pine_sapling_medium",
+          "name": "Pine Sapling Medium",
+          "fit": 0.2409
+        },
+        {
+          "id": "ceramic_pot",
+          "name": "Ceramic Pot",
+          "fit": 0.23099999999999998
+        },
+        {
+          "id": "shrub_02",
+          "name": "Shrub 02",
+          "fit": 0.2233
+        },
+        {
+          "id": "fir_sapling",
+          "name": "Fir Sapling",
+          "fit": 0.21120000000000003
+        },
+        {
+          "id": "shrub_04",
+          "name": "Shrub 04",
+          "fit": 0.20440000000000003
+        },
+        {
+          "id": "quiver_tree_02",
+          "name": "Quiver Tree 02",
+          "fit": 0.20009999999999997
+        },
+        {
+          "id": "shrub_01",
+          "name": "Shrub 01",
+          "fit": 0.1898
+        },
+        {
+          "id": "flower_empodium",
+          "name": "Flower Empodium",
+          "fit": 0.1848
+        },
+        {
+          "id": "quiver_tree_01",
+          "name": "Quiver Tree 01",
+          "fit": 0.17759999999999998
+        },
+        {
+          "id": "searsia_lucida",
+          "name": "Searsia Lucida",
+          "fit": 0.16799999999999998
+        },
+        {
+          "id": "tree_small_02",
+          "name": "Tree Small 02",
+          "fit": 0.1633
+        },
+        {
+          "id": "brass_pot_02",
+          "name": "Brass Pot 02",
+          "fit": 0.1564
+        },
+        {
+          "id": "shrub_03",
+          "name": "Shrub 03",
+          "fit": 0.154
+        },
+        {
+          "id": "flower_ursinia",
+          "name": "Flower Ursinia",
+          "fit": 0.1533
+        },
+        {
+          "id": "brass_pot_01",
+          "name": "Brass Pot 01",
+          "fit": 0.14950000000000002
+        },
+        {
+          "id": "moss_01",
+          "name": "Moss 01",
+          "fit": 0.1428
+        },
+        {
+          "id": "dandelion_01",
+          "name": "Dandelion 01",
+          "fit": 0.142
+        },
+        {
+          "id": "flower_heliophila",
+          "name": "Flower Heliophila",
+          "fit": 0.1387
+        },
+        {
+          "id": "weed_plant_02",
+          "name": "Weed Plant 02",
+          "fit": 0.13319999999999999
+        },
+        {
+          "id": "celandine_01",
+          "name": "Celandine 01",
+          "fit": 0.1292
+        },
+        {
+          "id": "pine_tree_01",
+          "name": "Pine Tree 01",
+          "fit": 0.1273
+        },
+        {
+          "id": "root_cluster_01",
+          "name": "Root Cluster 01",
+          "fit": 0.126
+        },
+        {
+          "id": "fir_tree_01",
+          "name": "Fir Tree 01",
+          "fit": 0.1152
+        },
+        {
+          "id": "jacaranda_tree",
+          "name": "Jacaranda Tree",
+          "fit": 0.10200000000000001
+        },
+        {
+          "id": "island_tree_02",
+          "name": "Island Tree 02",
+          "fit": 0.1005
+        },
+        {
+          "id": "dry_branches_medium_01",
+          "name": "Dry Branches Medium 01",
+          "fit": 0.09
+        },
+        {
+          "id": "pot_enamel_01",
+          "name": "Pot Enamel 01",
+          "fit": 0.0884
+        },
+        {
+          "id": "brass_pan_01",
+          "name": "Brass Pan 01",
+          "fit": 0.087
+        },
+        {
+          "id": "compost_bag_02",
+          "name": "Compost Bag 02",
+          "fit": 0.08399999999999999
+        },
+        {
+          "id": "wicker_basket_02",
+          "name": "Wicker Basket 02",
+          "fit": 0.07840000000000001
+        },
+        {
+          "id": "watering_can_metal_01",
+          "name": "Watering Can Metal 01",
+          "fit": 0.0594
+        },
+        {
+          "id": "brass_vase_03",
+          "name": "Brass Vase 03",
+          "fit": 0.0576
+        },
+        {
+          "id": "compost_bags",
+          "name": "Compost Bags",
+          "fit": 0.048
+        },
+        {
+          "id": "garden_gloves_01",
+          "name": "Garden Gloves 01",
+          "fit": 0.0236
+        }
+      ],
+      "labels": {
+        "potted_plant_01": true,
+        "potted_plant_02": true,
+        "potted_plant_04": true,
+        "shrub_sorrel_01": false,
+        "planter_box_03": true,
+        "planter_box_01": true,
+        "planter_box_02": true,
+        "pachira_aquatica_01": false,
+        "leipoldtia_schultzei": false,
+        "didelta_spinosa": false,
+        "antique_ceramic_vase_01": false,
+        "othonna_cerarioides": false,
+        "calathea_orbifolia_01": false,
+        "ceramic_vase_01": false,
+        "periwinkle_plant": false,
+        "seeding_tray_01": false,
+        "fern_02": false,
+        "crystalline_iceplant": false,
+        "anthurium_botany_01": false,
+        "fir_sapling_medium": false,
+        "planter_pot_clay": false,
+        "ceramic_vase_04": false,
+        "nettle_plant": false,
+        "ceramic_vase_02": false,
+        "pine_sapling_small": false,
+        "ceramic_vase_03": false,
+        "pine_sapling_medium": false,
+        "ceramic_pot": false,
+        "shrub_02": false,
+        "fir_sapling": false,
+        "shrub_04": false,
+        "quiver_tree_02": false,
+        "shrub_01": false,
+        "flower_empodium": false,
+        "quiver_tree_01": false,
+        "searsia_lucida": false,
+        "tree_small_02": false,
+        "brass_pot_02": false,
+        "shrub_03": false,
+        "flower_ursinia": false,
+        "brass_pot_01": false,
+        "moss_01": false,
+        "dandelion_01": false,
+        "flower_heliophila": false,
+        "weed_plant_02": false,
+        "celandine_01": false,
+        "pine_tree_01": false,
+        "root_cluster_01": false,
+        "fir_tree_01": false,
+        "jacaranda_tree": false,
+        "island_tree_02": false,
+        "dry_branches_medium_01": false,
+        "pot_enamel_01": false,
+        "brass_pan_01": false,
+        "compost_bag_02": false,
+        "wicker_basket_02": false,
+        "watering_can_metal_01": false,
+        "brass_vase_03": false,
+        "compost_bags": false,
+        "garden_gloves_01": false
+      },
+      "reviewedAt": "2026-10-14T00:32:53.067Z"
+    },
+    "all crates": {
+      "about": "crates",
+      "ranAt": "2026-10-14T00:22:56.027Z",
+      "candidates": [
+        {
+          "id": "plastic_crate_01",
+          "name": "Plastic Crate 01",
+          "fit": 0.8827
+        },
+        {
+          "id": "wooden_crate_02",
+          "name": "Wooden Crate 02",
+          "fit": 0.8827
+        },
+        {
+          "id": "plastic_crate_02",
+          "name": "Plastic Crate 02",
+          "fit": 0.882
+        },
+        {
+          "id": "wooden_military_crate",
+          "name": "Wooden Military Crate",
+          "fit": 0.873
+        },
+        {
+          "id": "plastic_crate_03",
+          "name": "Plastic Crate 03",
+          "fit": 0.8722
+        },
+        {
+          "id": "old_military_crate",
+          "name": "Old Military Crate",
+          "fit": 0.864
+        },
+        {
+          "id": "wooden_crate_01",
+          "name": "Wooden Crate 01",
+          "fit": 0.864
+        },
+        {
+          "id": "CheeseBox_01",
+          "name": "CheeseBox 01",
+          "fit": 0.8463
+        },
+        {
+          "id": "plastic_container",
+          "name": "Plastic Container",
+          "fit": 0.8184
+        },
+        {
+          "id": "industrial_pastic_container",
+          "name": "Industrial Plastic Container",
+          "fit": 0.7221
+        },
+        {
+          "id": "ammo_box",
+          "name": "Ammo Box",
+          "fit": 0.6512
+        },
+        {
+          "id": "cardboard_box_01",
+          "name": "Cardboard Box 01",
+          "fit": 0.52
+        },
+        {
+          "id": "treasure_chest",
+          "name": "Treasure Chest",
+          "fit": 0.51
+        },
+        {
+          "id": "wicker_basket_01",
+          "name": "Wicker Basket 01",
+          "fit": 0.3542
+        },
+        {
+          "id": "planter_box_01",
+          "name": "Planter Box 01",
+          "fit": 0.332
+        },
+        {
+          "id": "metal_toolbox",
+          "name": "Metal Toolbox",
+          "fit": 0.3318
+        },
+        {
+          "id": "planter_box_03",
+          "name": "Planter Box 03",
+          "fit": 0.328
+        },
+        {
+          "id": "planter_box_02",
+          "name": "Planter Box 02",
+          "fit": 0.32400000000000007
+        },
+        {
+          "id": "wicker_basket_02",
+          "name": "Wicker Basket 02",
+          "fit": 0.3192
+        },
+        {
+          "id": "metal_tool_chest",
+          "name": "Metal Tool Chest",
+          "fit": 0.296
+        },
+        {
+          "id": "medical_box",
+          "name": "Medical Box",
+          "fit": 0.2847
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.2774
+        },
+        {
+          "id": "seeding_tray_01",
+          "name": "Seedling Tray 01",
+          "fit": 0.2432
+        },
+        {
+          "id": "industrial_storage_cart",
+          "name": "Industrial Storage Cart",
+          "fit": 0.195
+        },
+        {
+          "id": "wooden_display_shelves_01",
+          "name": "Wooden Display Shelves 01",
+          "fit": 0.1752
+        },
+        {
+          "id": "wooden_bucket_02",
+          "name": "Wooden Bucket 02",
+          "fit": 0.1632
+        },
+        {
+          "id": "wooden_bucket_01",
+          "name": "Wooden Bucket 01",
+          "fit": 0.16
+        },
+        {
+          "id": "oil_tin",
+          "name": "Oil Tin",
+          "fit": 0.142
+        },
+        {
+          "id": "worn_metal_rack",
+          "name": "Worn Metal Rack",
+          "fit": 0.1298
+        },
+        {
+          "id": "metal_jerrycan_green",
+          "name": "Metal Jerrycan Green",
+          "fit": 0.119
+        },
+        {
+          "id": "metal_jerrycan",
+          "name": "Metal Jerrycan",
+          "fit": 0.11390000000000002
+        },
+        {
+          "id": "wine_barrel_01",
+          "name": "Wine Barrel 01",
+          "fit": 0.105
+        },
+        {
+          "id": "steel_frame_shelves_03",
+          "name": "Steel Frame Shelves 03",
+          "fit": 0.105
+        },
+        {
+          "id": "painted_wooden_cabinet_02",
+          "name": "Painted Wooden Cabinet 02",
+          "fit": 0.10400000000000001
+        },
+        {
+          "id": "plastic_jerrycan",
+          "name": "Plastic Jerrycan",
+          "fit": 0.10200000000000001
+        },
+        {
+          "id": "overhead_crane",
+          "name": "Overhead Crane",
+          "fit": 0.0966
+        },
+        {
+          "id": "Shelf_01",
+          "name": "Shelf 01",
+          "fit": 0.09240000000000001
+        },
+        {
+          "id": "utility_box_02",
+          "name": "Utility Box 02",
+          "fit": 0.0858
+        },
+        {
+          "id": "barrel_03",
+          "name": "Barrel 03",
+          "fit": 0.0852
+        },
+        {
+          "id": "hand_truck",
+          "name": "Hand Truck",
+          "fit": 0.0852
+        },
+        {
+          "id": "long_life_food",
+          "name": "Long Life Food",
+          "fit": 0.08399999999999999
+        },
+        {
+          "id": "power_box_01",
+          "name": "Power Box 01",
+          "fit": 0.08399999999999999
+        },
+        {
+          "id": "Barrel_01",
+          "name": "Barrel 01",
+          "fit": 0.0819
+        },
+        {
+          "id": "Barrel_02",
+          "name": "Barrel 02",
+          "fit": 0.0816
+        },
+        {
+          "id": "vintage_suitcase",
+          "name": "Vintage Suitcase",
+          "fit": 0.078
+        },
+        {
+          "id": "painted_wooden_shelves",
+          "name": "Painted Wooden Shelves",
+          "fit": 0.0744
+        },
+        {
+          "id": "russian_food_cans_01",
+          "name": "Russian Food Cans 01",
+          "fit": 0.0726
+        },
+        {
+          "id": "CoffeeCart_01",
+          "name": "Coffee Cart 01",
+          "fit": 0.0675
+        },
+        {
+          "id": "vintage_wooden_drawer_01",
+          "name": "Vintage Wooden Drawer 01",
+          "fit": 0.05600000000000001
+        },
+        {
+          "id": "wine_bottles_01",
+          "name": "Wine Bottles 01",
+          "fit": 0.0497
+        },
+        {
+          "id": "modular_airduct_rectangular_01",
+          "name": "Modular Airduct Rectangular 01",
+          "fit": 0.046900000000000004
+        },
+        {
+          "id": "vintage_crutches_01",
+          "name": "Vintage Crutches 01",
+          "fit": 0.0402
+        },
+        {
+          "id": "crowbar_01",
+          "name": "Crowbar 01",
+          "fit": 0.036
+        },
+        {
+          "id": "wooden_lantern_01",
+          "name": "Wooden Lantern 01",
+          "fit": 0.034
+        },
+        {
+          "id": "carved_wooden_plate",
+          "name": "Carved Wooden Plate",
+          "fit": 0.034
+        },
+        {
+          "id": "ladder_sectioned_01",
+          "name": "Ladder Sectioned 01",
+          "fit": 0.0296
+        },
+        {
+          "id": "painted_wooden_table",
+          "name": "Painted Wooden Table",
+          "fit": 0.028999999999999998
+        },
+        {
+          "id": "Television_01",
+          "name": "Television 01",
+          "fit": 0.0248
+        },
+        {
+          "id": "wooden_ladder_02",
+          "name": "Wooden Ladder 02",
+          "fit": 0.0244
+        },
+        {
+          "id": "large_castle_door",
+          "name": "Large Castle Door",
+          "fit": 0.0189
+        }
+      ],
+      "labels": {
+        "plastic_crate_01": true,
+        "wooden_crate_02": true,
+        "plastic_crate_02": true,
+        "wooden_military_crate": true,
+        "plastic_crate_03": true,
+        "old_military_crate": true,
+        "wooden_crate_01": true,
+        "CheeseBox_01": true,
+        "plastic_container": true,
+        "industrial_pastic_container": true,
+        "ammo_box": true,
+        "cardboard_box_01": true,
+        "treasure_chest": false,
+        "wicker_basket_01": false,
+        "planter_box_01": false,
+        "metal_toolbox": false,
+        "planter_box_03": false,
+        "planter_box_02": false,
+        "wicker_basket_02": false,
+        "metal_tool_chest": false,
+        "medical_box": false,
+        "wooden_barrels_01": false,
+        "seeding_tray_01": false,
+        "industrial_storage_cart": false,
+        "wooden_display_shelves_01": false,
+        "wooden_bucket_02": false,
+        "wooden_bucket_01": false,
+        "oil_tin": false,
+        "worn_metal_rack": false,
+        "metal_jerrycan_green": false,
+        "metal_jerrycan": false,
+        "wine_barrel_01": false,
+        "steel_frame_shelves_03": false,
+        "painted_wooden_cabinet_02": false,
+        "plastic_jerrycan": false,
+        "overhead_crane": false,
+        "Shelf_01": false,
+        "utility_box_02": false,
+        "barrel_03": false,
+        "hand_truck": false,
+        "long_life_food": false,
+        "power_box_01": false,
+        "Barrel_01": false,
+        "Barrel_02": false,
+        "vintage_suitcase": false,
+        "painted_wooden_shelves": false,
+        "russian_food_cans_01": false,
+        "CoffeeCart_01": false,
+        "vintage_wooden_drawer_01": false,
+        "wine_bottles_01": false,
+        "modular_airduct_rectangular_01": false,
+        "vintage_crutches_01": false,
+        "crowbar_01": false,
+        "wooden_lantern_01": false,
+        "carved_wooden_plate": false,
+        "ladder_sectioned_01": false,
+        "painted_wooden_table": false,
+        "Television_01": false,
+        "wooden_ladder_02": false,
+        "large_castle_door": false
+      },
+      "reviewedAt": "2026-10-14T00:33:12.306Z"
+    },
+    "all sofas": {
+      "about": "sofas",
+      "ranAt": "2026-10-14T00:22:56.350Z",
+      "candidates": [
+        {
+          "id": "sofa_03",
+          "name": "Sofa 03",
+          "fit": 0.8827
+        },
+        {
+          "id": "sofa_02",
+          "name": "Sofa 02",
+          "fit": 0.8722
+        },
+        {
+          "id": "Sofa_01",
+          "name": "Sofa 01",
+          "fit": 0.8536
+        },
+        {
+          "id": "chinese_sofa",
+          "name": "Chinese Sofa",
+          "fit": 0.8463
+        },
+        {
+          "id": "painted_wooden_sofa",
+          "name": "Painted Wooden Sofa",
+          "fit": 0.8370000000000001
+        },
+        {
+          "id": "vintage_day_bed",
+          "name": "Vintage Day Bed",
+          "fit": 0.5166
+        },
+        {
+          "id": "mid_century_lounge_chair",
+          "name": "Mid Century Lounge Chair",
+          "fit": 0.195
+        },
+        {
+          "id": "ArmChair_01",
+          "name": "Arm Chair 01",
+          "fit": 0.15000000000000002
+        },
+        {
+          "id": "chinese_armchair",
+          "name": "Chinese Armchair",
+          "fit": 0.10270000000000001
+        },
+        {
+          "id": "painted_wooden_bench",
+          "name": "Painted Wooden Bench",
+          "fit": 0.09380000000000001
+        },
+        {
+          "id": "Ottoman_01",
+          "name": "Ottoman 01",
+          "fit": 0.0923
+        },
+        {
+          "id": "modular_street_seating",
+          "name": "Modular Street Seating",
+          "fit": 0.0897
+        },
+        {
+          "id": "modern_arm_chair_01",
+          "name": "Modern Arm Chair 01",
+          "fit": 0.0759
+        },
+        {
+          "id": "GreenChair_01",
+          "name": "Green Chair 01",
+          "fit": 0.0748
+        },
+        {
+          "id": "wooden_stool_02",
+          "name": "Wooden Stool 02",
+          "fit": 0.0608
+        },
+        {
+          "id": "BarberShopChair_01",
+          "name": "Barber Shop Chair 01",
+          "fit": 0.0592
+        },
+        {
+          "id": "gallinera_chair",
+          "name": "Gallinera Chair",
+          "fit": 0.0576
+        },
+        {
+          "id": "plastic_monobloc_chair_01",
+          "name": "Plastic Monobloc Chair 01",
+          "fit": 0.0512
+        },
+        {
+          "id": "painted_wooden_chair_02",
+          "name": "Painted Wooden Chair 02",
+          "fit": 0.045500000000000006
+        },
+        {
+          "id": "metal_stool_03",
+          "name": "Metal Stool 03",
+          "fit": 0.041999999999999996
+        },
+        {
+          "id": "metal_stool_01",
+          "name": "Metal Stool 01",
+          "fit": 0.04139999999999999
+        },
+        {
+          "id": "outdoor_table_chair_set_01",
+          "name": "Outdoor Table Chair Set 01",
+          "fit": 0.0396
+        },
+        {
+          "id": "metal_stool_02",
+          "name": "Metal Stool 02",
+          "fit": 0.037500000000000006
+        },
+        {
+          "id": "painted_wooden_chair_01",
+          "name": "Painted Wooden Chair 01",
+          "fit": 0.036
+        },
+        {
+          "id": "throw_pillows_01",
+          "name": "Throw Pillows 01",
+          "fit": 0.0355
+        },
+        {
+          "id": "Rockingchair_01",
+          "name": "Rockingchair 01",
+          "fit": 0.034499999999999996
+        },
+        {
+          "id": "wooden_stool_01",
+          "name": "Wooden Stool 01",
+          "fit": 0.034499999999999996
+        },
+        {
+          "id": "dining_chair_02",
+          "name": "Dining Chair 02",
+          "fit": 0.034
+        },
+        {
+          "id": "WoodenChair_01",
+          "name": "Wooden Chair 01",
+          "fit": 0.0335
+        },
+        {
+          "id": "SchoolChair_01",
+          "name": "School Chair 01",
+          "fit": 0.032
+        },
+        {
+          "id": "WoodenTable_01",
+          "name": "Wooden Table 01",
+          "fit": 0.0276
+        },
+        {
+          "id": "gothic_coffee_table",
+          "name": "Gothic Coffee Table",
+          "fit": 0.027200000000000002
+        },
+        {
+          "id": "modern_wooden_cabinet",
+          "name": "Modern Wooden Cabinet",
+          "fit": 0.026400000000000003
+        },
+        {
+          "id": "WoodenTable_02",
+          "name": "Wooden Table 02",
+          "fit": 0.021599999999999998
+        },
+        {
+          "id": "WoodenTable_03",
+          "name": "Wooden Table 03",
+          "fit": 0.0213
+        },
+        {
+          "id": "CoffeeTable_01",
+          "name": "Coffee Table 01",
+          "fit": 0.020999999999999998
+        },
+        {
+          "id": "Shelf_01",
+          "name": "Shelf 01",
+          "fit": 0.020699999999999996
+        },
+        {
+          "id": "modern_coffee_table_02",
+          "name": "Modern Coffee Table 02",
+          "fit": 0.0204
+        },
+        {
+          "id": "wooden_display_shelves_01",
+          "name": "Wooden Display Shelves 01",
+          "fit": 0.0204
+        },
+        {
+          "id": "steel_frame_shelves_03",
+          "name": "Steel Frame Shelves 03",
+          "fit": 0.0204
+        },
+        {
+          "id": "painted_wooden_shelves",
+          "name": "Painted Wooden Shelves",
+          "fit": 0.0204
+        },
+        {
+          "id": "side_table_01",
+          "name": "Side Table 01",
+          "fit": 0.0201
+        },
+        {
+          "id": "industrial_coffee_table",
+          "name": "Industrial Coffee Table",
+          "fit": 0.0192
+        },
+        {
+          "id": "gallinera_table",
+          "name": "Gallinera Table",
+          "fit": 0.0192
+        },
+        {
+          "id": "coffee_table_round_01",
+          "name": "Coffee Table Round 01",
+          "fit": 0.0189
+        },
+        {
+          "id": "ClassicConsole_01",
+          "name": "Classic Console 01",
+          "fit": 0.0174
+        },
+        {
+          "id": "painted_wooden_table",
+          "name": "Painted Wooden Table",
+          "fit": 0.017099999999999997
+        },
+        {
+          "id": "modern_coffee_table_01",
+          "name": "Modern Coffee Table 01",
+          "fit": 0.0144
+        },
+        {
+          "id": "side_table_tall_01",
+          "name": "Side Table Tall 01",
+          "fit": 0.014199999999999999
+        },
+        {
+          "id": "small_wooden_table_01",
+          "name": "Small Wooden Table 01",
+          "fit": 0.013999999999999999
+        },
+        {
+          "id": "steel_frame_shelves_02",
+          "name": "Steel Frame Shelves 02",
+          "fit": 0.013999999999999999
+        },
+        {
+          "id": "wooden_table_02",
+          "name": "Wooden Table 02",
+          "fit": 0.0138
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.013600000000000001
+        },
+        {
+          "id": "vintage_cabinet_01",
+          "name": "Vintage Cabinet 01",
+          "fit": 0.013200000000000002
+        },
+        {
+          "id": "old_bed_frame",
+          "name": "Old Bed Frame",
+          "fit": 0.013200000000000002
+        },
+        {
+          "id": "round_wooden_table_02",
+          "name": "Round Wooden Table 02",
+          "fit": 0.013000000000000001
+        },
+        {
+          "id": "steel_frame_shelves_01",
+          "name": "Steel Frame Shelves 01",
+          "fit": 0.0126
+        },
+        {
+          "id": "Television_01",
+          "name": "Television 01",
+          "fit": 0.0126
+        },
+        {
+          "id": "GothicBed_01",
+          "name": "Gothic Bed 01",
+          "fit": 0.0118
+        },
+        {
+          "id": "dining_table",
+          "name": "Dining Table",
+          "fit": 0.011200000000000002
+        }
+      ],
+      "labels": {
+        "sofa_03": true,
+        "sofa_02": true,
+        "Sofa_01": true,
+        "chinese_sofa": true,
+        "painted_wooden_sofa": true,
+        "vintage_day_bed": true,
+        "mid_century_lounge_chair": false,
+        "ArmChair_01": false,
+        "chinese_armchair": false,
+        "painted_wooden_bench": false,
+        "Ottoman_01": false,
+        "modular_street_seating": false,
+        "modern_arm_chair_01": false,
+        "GreenChair_01": false,
+        "wooden_stool_02": false,
+        "BarberShopChair_01": false,
+        "gallinera_chair": false,
+        "plastic_monobloc_chair_01": false,
+        "painted_wooden_chair_02": false,
+        "metal_stool_03": false,
+        "metal_stool_01": false,
+        "outdoor_table_chair_set_01": false,
+        "metal_stool_02": false,
+        "painted_wooden_chair_01": false,
+        "throw_pillows_01": false,
+        "Rockingchair_01": false,
+        "wooden_stool_01": false,
+        "dining_chair_02": false,
+        "WoodenChair_01": false,
+        "SchoolChair_01": false,
+        "WoodenTable_01": false,
+        "gothic_coffee_table": false,
+        "modern_wooden_cabinet": false,
+        "WoodenTable_02": false,
+        "WoodenTable_03": false,
+        "CoffeeTable_01": false,
+        "Shelf_01": false,
+        "modern_coffee_table_02": false,
+        "wooden_display_shelves_01": false,
+        "steel_frame_shelves_03": false,
+        "painted_wooden_shelves": false,
+        "side_table_01": false,
+        "industrial_coffee_table": false,
+        "gallinera_table": false,
+        "coffee_table_round_01": false,
+        "ClassicConsole_01": false,
+        "painted_wooden_table": false,
+        "modern_coffee_table_01": false,
+        "side_table_tall_01": false,
+        "small_wooden_table_01": false,
+        "steel_frame_shelves_02": false,
+        "wooden_table_02": false,
+        "wooden_barrels_01": false,
+        "vintage_cabinet_01": false,
+        "old_bed_frame": false,
+        "round_wooden_table_02": false,
+        "steel_frame_shelves_01": false,
+        "Television_01": false,
+        "GothicBed_01": false,
+        "dining_table": false
+      },
+      "reviewedAt": "2026-10-14T00:33:17.686Z"
+    },
+    "all clocks": {
+      "about": "clocks",
+      "ranAt": "2026-10-14T00:22:56.641Z",
+      "candidates": [
+        {
+          "id": "mantel_clock_01",
+          "name": "Mantel Clock 01",
+          "fit": 0.8918
+        },
+        {
+          "id": "vintage_grandfather_clock_01",
+          "name": "Vintage Grandfather Clock 01",
+          "fit": 0.8827
+        },
+        {
+          "id": "alarm_clock_01",
+          "name": "Alarm Clock 01",
+          "fit": 0.8827
+        },
+        {
+          "id": "wall_clock",
+          "name": "Wall Clock",
+          "fit": 0.8722
+        },
+        {
+          "id": "vintage_telephone_wall_clock",
+          "name": "Vintage Telephone Wall Clock",
+          "fit": 0.855
+        },
+        {
+          "id": "pocket_watch",
+          "name": "Pocket Watch",
+          "fit": 0.7832
+        },
+        {
+          "id": "digital_wrist_watch",
+          "name": "Digital Wrist Watch",
+          "fit": 0.6364
+        },
+        {
+          "id": "vintage_pocket_watch",
+          "name": "Vintage Pocket Watch",
+          "fit": 0.616
+        },
+        {
+          "id": "vintage_spacecraft_instrument",
+          "name": "Vintage Spacecraft Instrument",
+          "fit": 0.22039999999999998
+        },
+        {
+          "id": "retro_multimeter",
+          "name": "Retro Multimeter",
+          "fit": 0.045500000000000006
+        },
+        {
+          "id": "seadogs_compass",
+          "name": "Seadogs Compass",
+          "fit": 0.036
+        },
+        {
+          "id": "vintage_microwave",
+          "name": "Vintage Microwave",
+          "fit": 0.034
+        },
+        {
+          "id": "fire_alarm",
+          "name": "Fire Alarm",
+          "fit": 0.033
+        },
+        {
+          "id": "Camera_01",
+          "name": "Camera 01",
+          "fit": 0.020699999999999996
+        },
+        {
+          "id": "hanging_picture_frame_03",
+          "name": "Hanging Picture Frame 03",
+          "fit": 0.0201
+        },
+        {
+          "id": "ClassicConsole_01",
+          "name": "Classic Console 01",
+          "fit": 0.0201
+        },
+        {
+          "id": "security_camera_02",
+          "name": "Security Camera 02",
+          "fit": 0.0192
+        },
+        {
+          "id": "brass_vase_01",
+          "name": "Brass Vase 01",
+          "fit": 0.0189
+        },
+        {
+          "id": "standing_chalkboard_01",
+          "name": "Standing Chalkboard 01",
+          "fit": 0.0186
+        },
+        {
+          "id": "hanging_picture_frame_02",
+          "name": "Hanging Picture Frame 02",
+          "fit": 0.0186
+        },
+        {
+          "id": "security_camera_01",
+          "name": "Security Camera 01",
+          "fit": 0.0183
+        },
+        {
+          "id": "Television_01",
+          "name": "Television 01",
+          "fit": 0.0174
+        },
+        {
+          "id": "CashRegister_01",
+          "name": "Cash Register 01",
+          "fit": 0.0174
+        },
+        {
+          "id": "fancy_picture_frame_01",
+          "name": "Fancy Picture Frame 01",
+          "fit": 0.017099999999999997
+        },
+        {
+          "id": "ornate_mirror_01",
+          "name": "Ornate Mirror 01",
+          "fit": 0.0165
+        },
+        {
+          "id": "steel_frame_shelves_03",
+          "name": "Steel Frame Shelves 03",
+          "fit": 0.014199999999999999
+        },
+        {
+          "id": "screwdrivers_02",
+          "name": "Screwdrivers 02",
+          "fit": 0.014199999999999999
+        },
+        {
+          "id": "Drill_01",
+          "name": "Drill 01",
+          "fit": 0.014199999999999999
+        },
+        {
+          "id": "round_spectacles",
+          "name": "Round Spectacles",
+          "fit": 0.013999999999999999
+        },
+        {
+          "id": "industrial_caged_sconce",
+          "name": "Industrial Caged Sconce",
+          "fit": 0.013600000000000001
+        },
+        {
+          "id": "round_wooden_table_02",
+          "name": "Round Wooden Table 02",
+          "fit": 0.013600000000000001
+        },
+        {
+          "id": "spinning_wheel_01",
+          "name": "Spinning Wheel 01",
+          "fit": 0.0134
+        },
+        {
+          "id": "vintage_hand_drill",
+          "name": "Vintage Hand Drill",
+          "fit": 0.0134
+        },
+        {
+          "id": "modern_coffee_table_02",
+          "name": "Modern Coffee Table 02",
+          "fit": 0.013200000000000002
+        },
+        {
+          "id": "modern_coffee_table_01",
+          "name": "Modern Coffee Table 01",
+          "fit": 0.013000000000000001
+        },
+        {
+          "id": "wooden_display_shelves_01",
+          "name": "Wooden Display Shelves 01",
+          "fit": 0.0128
+        },
+        {
+          "id": "vintage_binocular",
+          "name": "Vintage Binoculars",
+          "fit": 0.0128
+        },
+        {
+          "id": "wooden_ladder_02",
+          "name": "Wooden Ladder 02",
+          "fit": 0.0128
+        },
+        {
+          "id": "modern_ceiling_lamp_01",
+          "name": "Modern Ceiling Lamp 01",
+          "fit": 0.0126
+        },
+        {
+          "id": "Chandelier_02",
+          "name": "Chandelier 02",
+          "fit": 0.0124
+        },
+        {
+          "id": "standing_picture_frame_01",
+          "name": "Standing Picture Frame 01",
+          "fit": 0.0124
+        },
+        {
+          "id": "Chandelier_01",
+          "name": "Chandelier 01",
+          "fit": 0.0122
+        },
+        {
+          "id": "brass_pot_01",
+          "name": "Brass Pot 01",
+          "fit": 0.0122
+        },
+        {
+          "id": "decorative_book_set_01",
+          "name": "Decorative Book Set 01",
+          "fit": 0.012
+        },
+        {
+          "id": "industrial_wall_lamp",
+          "name": "Industrial Wall Lamp",
+          "fit": 0.0116
+        },
+        {
+          "id": "coffee_table_round_01",
+          "name": "Coffee Table Round 01",
+          "fit": 0.0116
+        },
+        {
+          "id": "brass_goblets",
+          "name": "Brass Goblets",
+          "fit": 0.0116
+        },
+        {
+          "id": "wooden_lantern_01",
+          "name": "Wooden Lantern 01",
+          "fit": 0.011399999999999999
+        },
+        {
+          "id": "desk_lamp_arm_01",
+          "name": "Desk Lamp Arm 01",
+          "fit": 0.011399999999999999
+        },
+        {
+          "id": "WoodenTable_01",
+          "name": "Wooden Table 01",
+          "fit": 0.011399999999999999
+        },
+        {
+          "id": "dartboard",
+          "name": "Dartboard",
+          "fit": 0.011399999999999999
+        },
+        {
+          "id": "adjustable_wrench",
+          "name": "Adjustable Wrench",
+          "fit": 0.011399999999999999
+        },
+        {
+          "id": "brass_candleholders",
+          "name": "Brass Candleholders",
+          "fit": 0.011200000000000002
+        },
+        {
+          "id": "Chandelier_03",
+          "name": "Chandelier 03",
+          "fit": 0.011200000000000002
+        },
+        {
+          "id": "wooden_barrels_01",
+          "name": "Wooden Barrels 01",
+          "fit": 0.011000000000000001
+        },
+        {
+          "id": "russian_food_cans_01",
+          "name": "Russian Food Cans 01",
+          "fit": 0.0108
+        },
+        {
+          "id": "brass_diya_lantern",
+          "name": "Brass Diya Lantern",
+          "fit": 0.0106
+        },
+        {
+          "id": "measuring_tape_01",
+          "name": "Measuring Tape 01",
+          "fit": 0.0102
+        },
+        {
+          "id": "binoculars",
+          "name": "Binoculars",
+          "fit": 0.0098
+        },
+        {
+          "id": "ceiling_fan",
+          "name": "Ceiling Fan",
+          "fit": 0.0092
+        }
+      ],
+      "labels": {
+        "mantel_clock_01": true,
+        "vintage_grandfather_clock_01": true,
+        "alarm_clock_01": true,
+        "wall_clock": true,
+        "vintage_telephone_wall_clock": true,
+        "pocket_watch": true,
+        "digital_wrist_watch": true,
+        "vintage_pocket_watch": true,
+        "vintage_spacecraft_instrument": false,
+        "retro_multimeter": false,
+        "seadogs_compass": false,
+        "vintage_microwave": false,
+        "fire_alarm": false,
+        "Camera_01": false,
+        "hanging_picture_frame_03": false,
+        "ClassicConsole_01": false,
+        "security_camera_02": false,
+        "brass_vase_01": false,
+        "standing_chalkboard_01": false,
+        "hanging_picture_frame_02": false,
+        "security_camera_01": false,
+        "Television_01": false,
+        "CashRegister_01": false,
+        "fancy_picture_frame_01": false,
+        "ornate_mirror_01": false,
+        "steel_frame_shelves_03": false,
+        "screwdrivers_02": false,
+        "Drill_01": false,
+        "round_spectacles": false,
+        "industrial_caged_sconce": false,
+        "round_wooden_table_02": false,
+        "spinning_wheel_01": false,
+        "vintage_hand_drill": false,
+        "modern_coffee_table_02": false,
+        "modern_coffee_table_01": false,
+        "wooden_display_shelves_01": false,
+        "vintage_binocular": false,
+        "wooden_ladder_02": false,
+        "modern_ceiling_lamp_01": false,
+        "Chandelier_02": false,
+        "standing_picture_frame_01": false,
+        "Chandelier_01": false,
+        "brass_pot_01": false,
+        "decorative_book_set_01": false,
+        "industrial_wall_lamp": false,
+        "coffee_table_round_01": false,
+        "brass_goblets": false,
+        "wooden_lantern_01": false,
+        "desk_lamp_arm_01": false,
+        "WoodenTable_01": false,
+        "dartboard": false,
+        "adjustable_wrench": false,
+        "brass_candleholders": false,
+        "Chandelier_03": false,
+        "wooden_barrels_01": false,
+        "russian_food_cans_01": false,
+        "brass_diya_lantern": false,
+        "measuring_tape_01": false,
+        "binoculars": false,
+        "ceiling_fan": false
+      },
+      "reviewedAt": "2026-10-14T00:33:26.118Z"
+    }
+  }
+}

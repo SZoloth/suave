@@ -1,0 +1,433 @@
+{
+  "threads": [
+    {
+      "lines": [
+        {
+          "text": "all lamps",
+          "expected": "new"
+        },
+        {
+          "text": "brass ones",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.97
+          }
+        },
+        {
+          "text": "line them up",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all lamps",
+          "expected": "new"
+        },
+        {
+          "text": "brass doorknobs",
+          "expected": "new",
+          "read": {
+            "turn": "new",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all chairs",
+          "expected": "new"
+        },
+        {
+          "text": "just the 3 smallest ones",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        },
+        {
+          "text": "add all to cart",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all chairs",
+          "expected": "new"
+        },
+        {
+          "text": "only the wooden ones",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        },
+        {
+          "text": "make a collection of these",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all chairs",
+          "expected": "new"
+        },
+        {
+          "text": "show me barrels",
+          "expected": "new",
+          "read": {
+            "turn": "new",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all chairs",
+          "expected": "new"
+        },
+        {
+          "text": "stools",
+          "expected": "refine",
+          "read": {
+            "turn": "new",
+            "confidence": 0.82
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "every barrel",
+          "expected": "new"
+        },
+        {
+          "text": "rusty ones",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        },
+        {
+          "text": "rusty oil drums",
+          "expected": "new",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.89
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all rocks",
+          "expected": "new"
+        },
+        {
+          "text": "the mossy ones",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.97
+          }
+        },
+        {
+          "text": "add these to my cart",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all rocks",
+          "expected": "new"
+        },
+        {
+          "text": "a wooden bucket",
+          "expected": "new",
+          "read": {
+            "turn": "new",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all trees",
+          "expected": "new"
+        },
+        {
+          "text": "newest first",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        },
+        {
+          "text": "just the top five",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all trees",
+          "expected": "new"
+        },
+        {
+          "text": "pine trees",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.94
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all trees",
+          "expected": "new"
+        },
+        {
+          "text": "two of those",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 0.28
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all tables",
+          "expected": "new"
+        },
+        {
+          "text": "chairs to go with them",
+          "expected": "new",
+          "read": {
+            "turn": "new",
+            "confidence": 0.92
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all vases",
+          "expected": "new"
+        },
+        {
+          "text": "the blue ones",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        },
+        {
+          "text": "put them side by side",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 0.98
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all crates",
+          "expected": "new"
+        },
+        {
+          "text": "wooden ones only",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 1
+          }
+        },
+        {
+          "text": "the ones by kirill sannikov",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.97
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all sofas",
+          "expected": "new"
+        },
+        {
+          "text": "a red armchair",
+          "expected": "new",
+          "read": {
+            "turn": "new",
+            "confidence": 0.56
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all clocks",
+          "expected": "new"
+        },
+        {
+          "text": "wall clocks",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.95
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all lamps",
+          "expected": "new"
+        },
+        {
+          "text": "changed this week",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.95
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "all potted plants",
+          "expected": "new"
+        },
+        {
+          "text": "lanterns",
+          "expected": "new",
+          "read": {
+            "turn": "new",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "wooden chairs",
+          "expected": "new"
+        },
+        {
+          "text": "sort by size",
+          "expected": "refine",
+          "read": {
+            "turn": "refine",
+            "confidence": 0.98
+          }
+        },
+        {
+          "text": "compare them",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 0.37
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    },
+    {
+      "lines": [
+        {
+          "text": "every barrel",
+          "expected": "new"
+        },
+        {
+          "text": "save these as a collection called cellar",
+          "expected": "act",
+          "read": {
+            "turn": "act",
+            "confidence": 1
+          }
+        }
+      ],
+      "reviewedAt": "2026-10-14T01:21:09.762Z"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+ "book_encyclopedia_set_01": {
+  "answer": "several"
+ },
+ "bolt_action_rifle_7_62": {
+  "answer": "one"
+ },
+ "binder_notebook": {
+  "answer": "one"
+ },
+ "bunsen_burner": {
+  "answer": "one"
+ },
+ "calathea_orbifolia_01": {
+  "answer": "several"
+ },
+ "chinese_screen_panels": {
+  "answer": "one"
+ },
+ "cigarette_case": {
+  "answer": "one"
+ },
+ "coast_land_rocks_02": {
+  "answer": "several"
+ },
+ "coast_land_rocks_04": {
+  "answer": "several"
+ },
+ "coast_line_01": {
+  "answer": "one"
+ },
+ "coast_line_02": {
+  "answer": "one"
+ },
+ "coast_rocks_01": {
+  "answer": "several"
+ },
+ "coast_rocks_02": {
+  "answer": "several"
+ },
+ "coast_rocks_03": {
+  "answer": "several"
+ },
+ "coast_rocks_05": {
+  "answer": "several"
+ },
+ "didelta_spinosa": {
+  "answer": "several"
+ },
+ "CoffeeCart_01": {
+  "answer": "one",
+  "note": "depends on query - its one coffee cart, but could be multiple mugs or coffee carafes"
+ },
+ "cannon_01": {
+  "answer": "one",
+  "note": "one cannon; multiple cannon balls"
+ },
+ "celandine_01": {
+  "answer": "one"
+ },
+ "chess_set": {
+  "answer": "one",
+  "note": "this is a single chess set or chess board but several chess pieces"
+ }
+}

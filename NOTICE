@@ -1,0 +1,5 @@
+Third-party material
+
+- 3D models, thumbnails and asset metadata: Poly Haven (https://polyhaven.com), CC0 1.0.
+- EmbeddingGemma 2 (Google): weights are downloaded at runtime and are not redistributed here. Use is governed by the Gemma Terms of Use (https://ai.google.dev/gemma/terms).
+- Intent routing calls the TypeSafe API (Jev) and the Gemini API when keys are provided. Those services have their own terms.

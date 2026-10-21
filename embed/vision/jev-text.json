@@ -1,0 +1,2086 @@
+{
+ "ArmChair_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "BarberShopChair_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "Barrel_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "Barrel_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "Camera_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "CashRegister_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "Chandelier_01": {
+  "several": false,
+  "p": 0.08
+ },
+ "Chandelier_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "Chandelier_03": {
+  "several": false,
+  "p": 0.08
+ },
+ "CheeseBox_01": {
+  "several": false,
+  "p": 0.09
+ },
+ "ClassicConsole_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "ClassicNightstand_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "CoffeeCart_01": {
+  "several": false,
+  "p": 0.35
+ },
+ "CoffeeTable_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "Drill_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "GothicBed_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "GothicCabinet_01": {
+  "several": false,
+  "p": 0.09
+ },
+ "GothicCommode_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "GreenChair_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "Lantern_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "Megaphone_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "Ottoman_01": {
+  "several": false,
+  "p": 0.15
+ },
+ "Rockingchair_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "SchoolChair_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "SchoolDesk_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "Shelf_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "Sofa_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "Television_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "Ukulele_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "WetFloorSign_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "WoodenChair_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "WoodenTable_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "WoodenTable_02": {
+  "several": false,
+  "p": 0.02
+ },
+ "WoodenTable_03": {
+  "several": false,
+  "p": 0.07
+ },
+ "adjustable_wrench": {
+  "several": false,
+  "p": 0.03
+ },
+ "alarm_clock_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "all_purpose_cleaner": {
+  "several": false,
+  "p": 0.04
+ },
+ "american_football": {
+  "several": false,
+  "p": 0.03
+ },
+ "ammo_box": {
+  "several": false,
+  "p": 0.05
+ },
+ "anthurium_botany_01": {
+  "several": true,
+  "p": 0.74
+ },
+ "antique_ceramic_vase_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "antique_estoc": {
+  "several": false,
+  "p": 0.03
+ },
+ "antique_katana_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "bananas": {
+  "several": true,
+  "p": 0.9
+ },
+ "bar_chair_round_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "bark_debris_01": {
+  "several": true,
+  "p": 0.7
+ },
+ "barrel_03": {
+  "several": false,
+  "p": 0.04
+ },
+ "barrel_stove": {
+  "several": false,
+  "p": 0.05
+ },
+ "baseball_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "baseball_bat": {
+  "several": false,
+  "p": 0.02
+ },
+ "bench_vice_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "binder_notebook": {
+  "several": false,
+  "p": 0.28
+ },
+ "binoculars": {
+  "several": false,
+  "p": 0.1
+ },
+ "bleach_bottle": {
+  "several": false,
+  "p": 0.03
+ },
+ "bolt_action_rifle_7_62": {
+  "several": false,
+  "p": 0.05
+ },
+ "bolt_cutters_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "book_encyclopedia_set_01": {
+  "several": true,
+  "p": 0.93
+ },
+ "boombox": {
+  "several": false,
+  "p": 0.05
+ },
+ "boulder_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "brass_blowtorch": {
+  "several": false,
+  "p": 0.05
+ },
+ "brass_candleholders": {
+  "several": true,
+  "p": 0.53
+ },
+ "brass_diya_lantern": {
+  "several": false,
+  "p": 0.04
+ },
+ "brass_goblets": {
+  "several": true,
+  "p": 0.95
+ },
+ "brass_pan_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "brass_pot_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "brass_pot_02": {
+  "several": false,
+  "p": 0.04
+ },
+ "brass_vase_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "brass_vase_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "brass_vase_03": {
+  "several": false,
+  "p": 0.03
+ },
+ "brass_vase_04": {
+  "several": false,
+  "p": 0.03
+ },
+ "bronze_ray_statue": {
+  "several": false,
+  "p": 0.24
+ },
+ "bronze_shark_statue": {
+  "several": false,
+  "p": 0.29
+ },
+ "bronze_whale_statue": {
+  "several": false,
+  "p": 0.09
+ },
+ "bull_head": {
+  "several": false,
+  "p": 0.06
+ },
+ "bunsen_burner": {
+  "several": false,
+  "p": 0.05
+ },
+ "caged_hanging_light": {
+  "several": false,
+  "p": 0.06
+ },
+ "calathea_orbifolia_01": {
+  "several": false,
+  "p": 0.37
+ },
+ "can_rusted": {
+  "several": false,
+  "p": 0.06
+ },
+ "cannon_01": {
+  "several": false,
+  "p": 0.13
+ },
+ "cardboard_box_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "carrot_cake": {
+  "several": false,
+  "p": 0.11
+ },
+ "carved_wooden_elephant": {
+  "several": false,
+  "p": 0.03
+ },
+ "carved_wooden_plate": {
+  "several": false,
+  "p": 0.03
+ },
+ "cassette_player": {
+  "several": false,
+  "p": 0.06
+ },
+ "ceiling_fan": {
+  "several": false,
+  "p": 0.05
+ },
+ "celandine_01": {
+  "several": true,
+  "p": 0.83
+ },
+ "cement_bag": {
+  "several": false,
+  "p": 0.04
+ },
+ "ceramic_pot": {
+  "several": false,
+  "p": 0.03
+ },
+ "ceramic_vase_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "ceramic_vase_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "ceramic_vase_03": {
+  "several": false,
+  "p": 0.03
+ },
+ "ceramic_vase_04": {
+  "several": false,
+  "p": 0.03
+ },
+ "cheiridopsis_succulent": {
+  "several": true,
+  "p": 0.59
+ },
+ "chemistry_set": {
+  "several": true,
+  "p": 0.94
+ },
+ "chess_set": {
+  "several": true,
+  "p": 0.84
+ },
+ "chinese_armchair": {
+  "several": false,
+  "p": 0.02
+ },
+ "chinese_cabinet": {
+  "several": false,
+  "p": 0.07
+ },
+ "chinese_chandelier": {
+  "several": false,
+  "p": 0.06
+ },
+ "chinese_commode": {
+  "several": false,
+  "p": 0.04
+ },
+ "chinese_console_table": {
+  "several": false,
+  "p": 0.04
+ },
+ "chinese_screen_panels": {
+  "several": false,
+  "p": 0.48
+ },
+ "chinese_sofa": {
+  "several": false,
+  "p": 0.05
+ },
+ "chinese_stool": {
+  "several": false,
+  "p": 0.03
+ },
+ "chinese_tea_table": {
+  "several": false,
+  "p": 0.07
+ },
+ "cigarette_case": {
+  "several": true,
+  "p": 0.53
+ },
+ "cigarette_pack": {
+  "several": false,
+  "p": 0.28
+ },
+ "circuit_board": {
+  "several": false,
+  "p": 0.4
+ },
+ "classic_laptop": {
+  "several": false,
+  "p": 0.04
+ },
+ "cleaner_tin_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "clipboard": {
+  "several": false,
+  "p": 0.06
+ },
+ "coast_land_rocks_02": {
+  "several": true,
+  "p": 0.92
+ },
+ "coast_land_rocks_03": {
+  "several": true,
+  "p": 0.91
+ },
+ "coast_land_rocks_04": {
+  "several": true,
+  "p": 0.91
+ },
+ "coast_line_01": {
+  "several": true,
+  "p": 0.71
+ },
+ "coast_line_02": {
+  "several": true,
+  "p": 0.72
+ },
+ "coast_rocks_01": {
+  "several": true,
+  "p": 0.81
+ },
+ "coast_rocks_02": {
+  "several": true,
+  "p": 0.84
+ },
+ "coast_rocks_03": {
+  "several": true,
+  "p": 0.89
+ },
+ "coast_rocks_05": {
+  "several": true,
+  "p": 0.65
+ },
+ "coastal_cliff_01": {
+  "several": false,
+  "p": 0.35
+ },
+ "coastal_cliff_02": {
+  "several": false,
+  "p": 0.33
+ },
+ "coastal_cliff_04": {
+  "several": true,
+  "p": 0.58
+ },
+ "coffee_table_round_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "combination_wrench": {
+  "several": false,
+  "p": 0.05
+ },
+ "compost_bag_02": {
+  "several": false,
+  "p": 0.42
+ },
+ "compost_bags": {
+  "several": true,
+  "p": 0.93
+ },
+ "concrete_cat_statue": {
+  "several": false,
+  "p": 0.04
+ },
+ "concrete_road_barrier": {
+  "several": false,
+  "p": 0.08
+ },
+ "concrete_road_barrier_02": {
+  "several": false,
+  "p": 0.07
+ },
+ "covered_car": {
+  "several": false,
+  "p": 0.26
+ },
+ "croissant": {
+  "several": false,
+  "p": 0.03
+ },
+ "cross_pein_hammer": {
+  "several": false,
+  "p": 0.04
+ },
+ "crowbar_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "crystalline_iceplant": {
+  "several": true,
+  "p": 0.57
+ },
+ "dandelion_01": {
+  "several": true,
+  "p": 0.52
+ },
+ "dartboard": {
+  "several": false,
+  "p": 0.07
+ },
+ "dead_quiver_branch_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "dead_quiver_branch_02": {
+  "several": false,
+  "p": 0.08
+ },
+ "dead_quiver_trunk": {
+  "several": false,
+  "p": 0.27
+ },
+ "dead_tree_trunk": {
+  "several": false,
+  "p": 0.07
+ },
+ "dead_tree_trunk_02": {
+  "several": false,
+  "p": 0.13
+ },
+ "decorative_book_set_01": {
+  "several": true,
+  "p": 0.93
+ },
+ "desk_lamp_arm_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "didelta_spinosa": {
+  "several": false,
+  "p": 0.21
+ },
+ "digital_wrist_watch": {
+  "several": false,
+  "p": 0.03
+ },
+ "dining_chair_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "dining_table": {
+  "several": false,
+  "p": 0.18
+ },
+ "dirty_football": {
+  "several": false,
+  "p": 0.03
+ },
+ "drain_cleaner": {
+  "several": false,
+  "p": 0.04
+ },
+ "drawer_cabinet": {
+  "several": false,
+  "p": 0.06
+ },
+ "drill_press_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "dry_branches_medium_01": {
+  "several": true,
+  "p": 0.67
+ },
+ "dry_quiver_leaf": {
+  "several": false,
+  "p": 0.07
+ },
+ "dustpan": {
+  "several": false,
+  "p": 0.03
+ },
+ "dutch_ship_large_01": {
+  "several": false,
+  "p": 0.1
+ },
+ "dutch_ship_large_02": {
+  "several": false,
+  "p": 0.1
+ },
+ "dutch_ship_medium": {
+  "several": false,
+  "p": 0.08
+ },
+ "electric_stove": {
+  "several": false,
+  "p": 0.07
+ },
+ "exterior_aircon_unit": {
+  "several": false,
+  "p": 0.1
+ },
+ "fancy_picture_frame_01": {
+  "several": false,
+  "p": 0.25
+ },
+ "fancy_picture_frame_02": {
+  "several": false,
+  "p": 0.26
+ },
+ "fern_02": {
+  "several": true,
+  "p": 0.91
+ },
+ "filmstrip_projector_8mm": {
+  "several": false,
+  "p": 0.17
+ },
+ "fir_sapling": {
+  "several": true,
+  "p": 0.73
+ },
+ "fir_sapling_medium": {
+  "several": false,
+  "p": 0.07
+ },
+ "fir_tree_01": {
+  "several": true,
+  "p": 0.92
+ },
+ "fire_alarm": {
+  "several": false,
+  "p": 0.06
+ },
+ "fire_hydrant": {
+  "several": false,
+  "p": 0.05
+ },
+ "fish_knife": {
+  "several": false,
+  "p": 0.05
+ },
+ "fishermans_hat": {
+  "several": false,
+  "p": 0.03
+ },
+ "flathead_screwdriver": {
+  "several": false,
+  "p": 0.04
+ },
+ "flower_empodium": {
+  "several": true,
+  "p": 0.75
+ },
+ "flower_gazania": {
+  "several": true,
+  "p": 0.9
+ },
+ "flower_heliophila": {
+  "several": true,
+  "p": 0.71
+ },
+ "flower_stinkkruid": {
+  "several": false,
+  "p": 0.31
+ },
+ "flower_ursinia": {
+  "several": false,
+  "p": 0.49
+ },
+ "folding_wooden_stool": {
+  "several": false,
+  "p": 0.04
+ },
+ "food_apple_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "food_avocado_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "food_ginger_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "food_kiwi_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "food_lime_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "food_lychee_01": {
+  "several": false,
+  "p": 0.1
+ },
+ "food_pears_asian_01": {
+  "several": false,
+  "p": 0.23
+ },
+ "food_pomegranate_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "football": {
+  "several": false,
+  "p": 0.06
+ },
+ "gallinera_chair": {
+  "several": false,
+  "p": 0.02
+ },
+ "gallinera_table": {
+  "several": false,
+  "p": 0.04
+ },
+ "gamepad": {
+  "several": false,
+  "p": 0.03
+ },
+ "gaming_console": {
+  "several": false,
+  "p": 0.03
+ },
+ "garden_gloves_01": {
+  "several": false,
+  "p": 0.24
+ },
+ "garden_gnome": {
+  "several": false,
+  "p": 0.07
+ },
+ "garden_hose_wall_mounted_01": {
+  "several": false,
+  "p": 0.3
+ },
+ "garden_sprinkler_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "gate_latch_01": {
+  "several": false,
+  "p": 0.11
+ },
+ "gothic_coffee_table": {
+  "several": false,
+  "p": 0.04
+ },
+ "gothic_statue": {
+  "several": false,
+  "p": 0.19
+ },
+ "grass_bermuda_01": {
+  "several": true,
+  "p": 0.58
+ },
+ "grass_medium_01": {
+  "several": false,
+  "p": 0.41
+ },
+ "grass_medium_02": {
+  "several": false,
+  "p": 0.3
+ },
+ "hamburger_buns": {
+  "several": true,
+  "p": 0.53
+ },
+ "hand_plane_no4": {
+  "several": false,
+  "p": 0.07
+ },
+ "hand_truck": {
+  "several": false,
+  "p": 0.04
+ },
+ "handsaw_wood": {
+  "several": false,
+  "p": 0.06
+ },
+ "hanging_industrial_lamp": {
+  "several": false,
+  "p": 0.04
+ },
+ "hanging_picture_frame_01": {
+  "several": false,
+  "p": 0.1
+ },
+ "hanging_picture_frame_02": {
+  "several": false,
+  "p": 0.15
+ },
+ "hanging_picture_frame_03": {
+  "several": false,
+  "p": 0.13
+ },
+ "hatchet": {
+  "several": false,
+  "p": 0.03
+ },
+ "horse_head": {
+  "several": false,
+  "p": 0.1
+ },
+ "horse_statue_01": {
+  "several": false,
+  "p": 0.2
+ },
+ "industrial_caged_sconce": {
+  "several": false,
+  "p": 0.09
+ },
+ "industrial_coffee_table": {
+  "several": false,
+  "p": 0.06
+ },
+ "industrial_microscope": {
+  "several": false,
+  "p": 0.04
+ },
+ "industrial_pastic_container": {
+  "several": false,
+  "p": 0.08
+ },
+ "industrial_pipe_lamp": {
+  "several": false,
+  "p": 0.05
+ },
+ "industrial_storage_cart": {
+  "several": false,
+  "p": 0.07
+ },
+ "industrial_wall_lamp": {
+  "several": false,
+  "p": 0.04
+ },
+ "industrial_wall_sconce": {
+  "several": false,
+  "p": 0.03
+ },
+ "island_tree_01": {
+  "several": false,
+  "p": 0.11
+ },
+ "island_tree_02": {
+  "several": false,
+  "p": 0.07
+ },
+ "island_tree_03": {
+  "several": false,
+  "p": 0.16
+ },
+ "jacaranda_tree": {
+  "several": false,
+  "p": 0.12
+ },
+ "jug_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "katana_stand_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "kite_shield": {
+  "several": false,
+  "p": 0.05
+ },
+ "korean_fire_extinguisher_01": {
+  "several": false,
+  "p": 0.1
+ },
+ "korean_public_payphone_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "ladder_sectioned_01": {
+  "several": false,
+  "p": 0.11
+ },
+ "lambis_shell": {
+  "several": false,
+  "p": 0.03
+ },
+ "lantern_chandelier_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "large_castle_door": {
+  "several": false,
+  "p": 0.13
+ },
+ "large_iron_gate": {
+  "several": false,
+  "p": 0.23
+ },
+ "lateral_sea_marker": {
+  "several": false,
+  "p": 0.26
+ },
+ "leather_cleaner_can": {
+  "several": false,
+  "p": 0.04
+ },
+ "leipoldtia_schultzei": {
+  "several": false,
+  "p": 0.35
+ },
+ "lemon": {
+  "several": false,
+  "p": 0.03
+ },
+ "life_jacket": {
+  "several": false,
+  "p": 0.04
+ },
+ "lifebuoy": {
+  "several": false,
+  "p": 0.17
+ },
+ "lightbulb_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "lightbulb_led": {
+  "several": false,
+  "p": 0.03
+ },
+ "lion_head": {
+  "several": false,
+  "p": 0.1
+ },
+ "long_life_food": {
+  "several": true,
+  "p": 0.93
+ },
+ "lubricant_spray": {
+  "several": false,
+  "p": 0.09
+ },
+ "machete": {
+  "several": false,
+  "p": 0.03
+ },
+ "magnifying_glass_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "mantel_clock_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "marble_bust_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "measuring_tape_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "medical_box": {
+  "several": false,
+  "p": 0.05
+ },
+ "medical_tape": {
+  "several": false,
+  "p": 0.03
+ },
+ "metal_detector": {
+  "several": false,
+  "p": 0.13
+ },
+ "metal_jerrycan": {
+  "several": false,
+  "p": 0.03
+ },
+ "metal_jerrycan_green": {
+  "several": false,
+  "p": 0.03
+ },
+ "metal_jug": {
+  "several": false,
+  "p": 0.03
+ },
+ "metal_office_desk": {
+  "several": false,
+  "p": 0.04
+ },
+ "metal_stool_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "metal_stool_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "metal_stool_03": {
+  "several": false,
+  "p": 0.02
+ },
+ "metal_tool_chest": {
+  "several": false,
+  "p": 0.08
+ },
+ "metal_toolbox": {
+  "several": false,
+  "p": 0.05
+ },
+ "metal_trash_can": {
+  "several": false,
+  "p": 0.04
+ },
+ "mid_century_lounge_chair": {
+  "several": false,
+  "p": 0.03
+ },
+ "modern_arm_chair_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "modern_ceiling_lamp_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "modern_coffee_table_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "modern_coffee_table_02": {
+  "several": false,
+  "p": 0.08
+ },
+ "modern_wooden_cabinet": {
+  "several": false,
+  "p": 0.05
+ },
+ "modified_thermos": {
+  "several": false,
+  "p": 0.05
+ },
+ "modular_airduct_circular_01": {
+  "several": true,
+  "p": 0.74
+ },
+ "modular_airduct_rectangular_01": {
+  "several": true,
+  "p": 0.83
+ },
+ "modular_chainlink_fence": {
+  "several": true,
+  "p": 0.63
+ },
+ "modular_electric_cables": {
+  "several": true,
+  "p": 0.85
+ },
+ "modular_electricity_poles": {
+  "several": true,
+  "p": 0.51
+ },
+ "modular_factory_facade": {
+  "several": true,
+  "p": 0.54
+ },
+ "modular_fire_escape": {
+  "several": false,
+  "p": 0.42
+ },
+ "modular_fort_01": {
+  "several": true,
+  "p": 0.58
+ },
+ "modular_industrial_pipes_01": {
+  "several": true,
+  "p": 0.84
+ },
+ "modular_metal_gutter": {
+  "several": true,
+  "p": 0.71
+ },
+ "modular_pipes": {
+  "several": true,
+  "p": 0.8
+ },
+ "modular_pipes_plastic_01": {
+  "several": true,
+  "p": 0.86
+ },
+ "modular_street_seating": {
+  "several": true,
+  "p": 0.59
+ },
+ "modular_urban_apartments_facade": {
+  "several": true,
+  "p": 0.68
+ },
+ "modular_wooden_pier": {
+  "several": true,
+  "p": 0.5
+ },
+ "moon_rock_01": {
+  "several": false,
+  "p": 0.08
+ },
+ "moon_rock_02": {
+  "several": false,
+  "p": 0.11
+ },
+ "moon_rock_03": {
+  "several": false,
+  "p": 0.11
+ },
+ "moon_rock_04": {
+  "several": false,
+  "p": 0.07
+ },
+ "moon_rock_05": {
+  "several": false,
+  "p": 0.07
+ },
+ "moon_rock_06": {
+  "several": false,
+  "p": 0.07
+ },
+ "moon_rock_07": {
+  "several": false,
+  "p": 0.06
+ },
+ "moss_01": {
+  "several": true,
+  "p": 0.56
+ },
+ "mountainside": {
+  "several": true,
+  "p": 0.69
+ },
+ "mounted_fluorescent_lights": {
+  "several": false,
+  "p": 0.48
+ },
+ "mousetrap": {
+  "several": false,
+  "p": 0.05
+ },
+ "multi_cleaner_5_litre": {
+  "several": false,
+  "p": 0.03
+ },
+ "multi_cleaner_bottle": {
+  "several": false,
+  "p": 0.04
+ },
+ "namaqualand_boulder_02": {
+  "several": true,
+  "p": 0.77
+ },
+ "namaqualand_boulder_03": {
+  "several": false,
+  "p": 0.12
+ },
+ "namaqualand_boulder_04": {
+  "several": false,
+  "p": 0.1
+ },
+ "namaqualand_boulder_05": {
+  "several": false,
+  "p": 0.08
+ },
+ "namaqualand_boulder_06": {
+  "several": false,
+  "p": 0.07
+ },
+ "namaqualand_boulders_01": {
+  "several": true,
+  "p": 0.85
+ },
+ "namaqualand_cliff_01": {
+  "several": true,
+  "p": 0.74
+ },
+ "namaqualand_cliff_02": {
+  "several": true,
+  "p": 0.85
+ },
+ "namaqualand_rocks_01": {
+  "several": true,
+  "p": 0.74
+ },
+ "namaqualand_stones_01": {
+  "several": true,
+  "p": 0.88
+ },
+ "nettle_plant": {
+  "several": true,
+  "p": 0.59
+ },
+ "ocean_buoy": {
+  "several": false,
+  "p": 0.12
+ },
+ "office_notepads": {
+  "several": true,
+  "p": 0.91
+ },
+ "oil_tin": {
+  "several": false,
+  "p": 0.04
+ },
+ "old_bed_frame": {
+  "several": false,
+  "p": 0.05
+ },
+ "old_drill_press": {
+  "several": false,
+  "p": 0.07
+ },
+ "old_gas_mask": {
+  "several": false,
+  "p": 0.07
+ },
+ "old_military_compressor": {
+  "several": false,
+  "p": 0.1
+ },
+ "old_military_crate": {
+  "several": false,
+  "p": 0.06
+ },
+ "old_tyre": {
+  "several": false,
+  "p": 0.04
+ },
+ "ornate_medieval_dagger": {
+  "several": false,
+  "p": 0.23
+ },
+ "ornate_medieval_mace": {
+  "several": false,
+  "p": 0.04
+ },
+ "ornate_mirror_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "ornate_war_hammer": {
+  "several": false,
+  "p": 0.05
+ },
+ "othonna_cerarioides": {
+  "several": false,
+  "p": 0.25
+ },
+ "outdoor_table_chair_set_01": {
+  "several": true,
+  "p": 0.92
+ },
+ "overhead_crane": {
+  "several": false,
+  "p": 0.17
+ },
+ "pachira_aquatica_01": {
+  "several": false,
+  "p": 0.34
+ },
+ "painted_wooden_bench": {
+  "several": false,
+  "p": 0.04
+ },
+ "painted_wooden_cabinet": {
+  "several": false,
+  "p": 0.04
+ },
+ "painted_wooden_cabinet_02": {
+  "several": false,
+  "p": 0.06
+ },
+ "painted_wooden_chair_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "painted_wooden_chair_02": {
+  "several": false,
+  "p": 0.02
+ },
+ "painted_wooden_nightstand": {
+  "several": false,
+  "p": 0.03
+ },
+ "painted_wooden_shelves": {
+  "several": false,
+  "p": 0.16
+ },
+ "painted_wooden_sofa": {
+  "several": false,
+  "p": 0.07
+ },
+ "painted_wooden_stool": {
+  "several": false,
+  "p": 0.03
+ },
+ "painted_wooden_table": {
+  "several": false,
+  "p": 0.04
+ },
+ "pastic_torch_6v": {
+  "several": false,
+  "p": 0.03
+ },
+ "periwinkle_plant": {
+  "several": false,
+  "p": 0.43
+ },
+ "picke_dirty_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "pine_roots": {
+  "several": true,
+  "p": 0.62
+ },
+ "pine_sapling_medium": {
+  "several": false,
+  "p": 0.08
+ },
+ "pine_sapling_small": {
+  "several": false,
+  "p": 0.06
+ },
+ "pine_tree_01": {
+  "several": false,
+  "p": 0.08
+ },
+ "pipe_wrench": {
+  "several": false,
+  "p": 0.03
+ },
+ "planter_box_01": {
+  "several": false,
+  "p": 0.09
+ },
+ "planter_box_02": {
+  "several": false,
+  "p": 0.08
+ },
+ "planter_box_03": {
+  "several": false,
+  "p": 0.12
+ },
+ "planter_pot_clay": {
+  "several": false,
+  "p": 0.04
+ },
+ "plastic_bottle_gallon": {
+  "several": false,
+  "p": 0.03
+ },
+ "plastic_broom": {
+  "several": false,
+  "p": 0.05
+ },
+ "plastic_container": {
+  "several": false,
+  "p": 0.09
+ },
+ "plastic_crate_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "plastic_crate_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "plastic_crate_03": {
+  "several": false,
+  "p": 0.04
+ },
+ "plastic_jerrycan": {
+  "several": false,
+  "p": 0.03
+ },
+ "plastic_monobloc_chair_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "plastic_thermos": {
+  "several": false,
+  "p": 0.13
+ },
+ "pliers": {
+  "several": false,
+  "p": 0.05
+ },
+ "plunger": {
+  "several": false,
+  "p": 0.04
+ },
+ "pocket_watch": {
+  "several": false,
+  "p": 0.03
+ },
+ "portable_cassette_player": {
+  "several": true,
+  "p": 0.65
+ },
+ "portable_generator": {
+  "several": false,
+  "p": 0.05
+ },
+ "portable_searchlight": {
+  "several": false,
+  "p": 0.03
+ },
+ "portable_welding_cart": {
+  "several": true,
+  "p": 0.63
+ },
+ "postcard_set_01": {
+  "several": true,
+  "p": 0.94
+ },
+ "pot_enamel_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "potted_plant_01": {
+  "several": false,
+  "p": 0.45
+ },
+ "potted_plant_02": {
+  "several": false,
+  "p": 0.24
+ },
+ "potted_plant_04": {
+  "several": false,
+  "p": 0.24
+ },
+ "power_box_01": {
+  "several": false,
+  "p": 0.13
+ },
+ "projector_screen": {
+  "several": false,
+  "p": 0.36
+ },
+ "propane_tank": {
+  "several": false,
+  "p": 0.04
+ },
+ "propane_torch": {
+  "several": false,
+  "p": 0.03
+ },
+ "propane_torch_02": {
+  "several": false,
+  "p": 0.04
+ },
+ "pull_chain_light_socket": {
+  "several": false,
+  "p": 0.06
+ },
+ "quiver_tree_01": {
+  "several": false,
+  "p": 0.1
+ },
+ "quiver_tree_02": {
+  "several": false,
+  "p": 0.07
+ },
+ "ratchet_wrench": {
+  "several": false,
+  "p": 0.05
+ },
+ "retro_multimeter": {
+  "several": false,
+  "p": 0.22
+ },
+ "rock_07": {
+  "several": false,
+  "p": 0.11
+ },
+ "rock_09": {
+  "several": false,
+  "p": 0.1
+ },
+ "rock_face_01": {
+  "several": false,
+  "p": 0.13
+ },
+ "rock_face_02": {
+  "several": false,
+  "p": 0.13
+ },
+ "rock_moss_set_01": {
+  "several": true,
+  "p": 0.95
+ },
+ "rock_moss_set_02": {
+  "several": true,
+  "p": 0.92
+ },
+ "rollershutter_door": {
+  "several": false,
+  "p": 0.15
+ },
+ "rollershutter_window_01": {
+  "several": false,
+  "p": 0.13
+ },
+ "rollershutter_window_02": {
+  "several": false,
+  "p": 0.09
+ },
+ "rollershutter_window_03": {
+  "several": false,
+  "p": 0.09
+ },
+ "root_cluster_01": {
+  "several": true,
+  "p": 0.77
+ },
+ "root_cluster_02": {
+  "several": true,
+  "p": 0.69
+ },
+ "round_spectacles": {
+  "several": false,
+  "p": 0.04
+ },
+ "round_wooden_table_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "round_wooden_table_02": {
+  "several": false,
+  "p": 0.04
+ },
+ "rubber_boots": {
+  "several": false,
+  "p": 0.27
+ },
+ "rubber_duck_toy": {
+  "several": false,
+  "p": 0.03
+ },
+ "russian_food_cans_01": {
+  "several": true,
+  "p": 0.95
+ },
+ "rusted_hacksaw": {
+  "several": false,
+  "p": 0.05
+ },
+ "rusted_spade_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "rusted_wheel_rim_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "rusted_wheel_rim_02": {
+  "several": false,
+  "p": 0.04
+ },
+ "sand_rocks_small_01": {
+  "several": true,
+  "p": 0.93
+ },
+ "scandinavian_masonry_heater": {
+  "several": false,
+  "p": 0.05
+ },
+ "screwdriver": {
+  "several": false,
+  "p": 0.03
+ },
+ "screwdrivers_02": {
+  "several": true,
+  "p": 0.94
+ },
+ "seadogs_compass": {
+  "several": false,
+  "p": 0.05
+ },
+ "searsia_burchellii": {
+  "several": false,
+  "p": 0.13
+ },
+ "searsia_lucida": {
+  "several": false,
+  "p": 0.17
+ },
+ "security_camera_01": {
+  "several": false,
+  "p": 0.12
+ },
+ "security_camera_02": {
+  "several": false,
+  "p": 0.1
+ },
+ "security_light": {
+  "several": false,
+  "p": 0.03
+ },
+ "seeding_tray_01": {
+  "several": false,
+  "p": 0.31
+ },
+ "service_pistol": {
+  "several": false,
+  "p": 0.37
+ },
+ "ship_pinnace": {
+  "several": false,
+  "p": 0.09
+ },
+ "shrub_01": {
+  "several": false,
+  "p": 0.31
+ },
+ "shrub_02": {
+  "several": false,
+  "p": 0.34
+ },
+ "shrub_03": {
+  "several": true,
+  "p": 0.52
+ },
+ "shrub_04": {
+  "several": true,
+  "p": 0.8
+ },
+ "shrub_sorrel_01": {
+  "several": true,
+  "p": 0.72
+ },
+ "side_table_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "side_table_tall_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "signal_flashlight": {
+  "several": false,
+  "p": 0.04
+ },
+ "single_root": {
+  "several": false,
+  "p": 0.43
+ },
+ "sledgehammer_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "small_lpg_tank": {
+  "several": false,
+  "p": 0.04
+ },
+ "small_oil_can_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "small_plastic_torch": {
+  "several": false,
+  "p": 0.03
+ },
+ "small_wooden_table_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "sofa_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "sofa_03": {
+  "several": false,
+  "p": 0.04
+ },
+ "spinning_wheel_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "spray_paint_bottles": {
+  "several": true,
+  "p": 0.72
+ },
+ "spray_paint_bottles_02": {
+  "several": true,
+  "p": 0.91
+ },
+ "standing_chalkboard_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "standing_picture_frame_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "standing_picture_frame_02": {
+  "several": false,
+  "p": 0.07
+ },
+ "stationery_supplies": {
+  "several": true,
+  "p": 0.96
+ },
+ "steel_frame_shelves_01": {
+  "several": false,
+  "p": 0.18
+ },
+ "steel_frame_shelves_02": {
+  "several": false,
+  "p": 0.16
+ },
+ "steel_frame_shelves_03": {
+  "several": false,
+  "p": 0.14
+ },
+ "stick_grenade": {
+  "several": false,
+  "p": 0.04
+ },
+ "stone_01": {
+  "several": false,
+  "p": 0.12
+ },
+ "stone_fire_pit": {
+  "several": true,
+  "p": 0.73
+ },
+ "strawberry_chocolate_cake": {
+  "several": false,
+  "p": 0.25
+ },
+ "street_lamp_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "street_lamp_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "street_rat": {
+  "several": false,
+  "p": 0.03
+ },
+ "sungka_board": {
+  "several": false,
+  "p": 0.1
+ },
+ "sungka_board_02": {
+  "several": true,
+  "p": 0.64
+ },
+ "sweet_potato": {
+  "several": false,
+  "p": 0.04
+ },
+ "tea_set_01": {
+  "several": true,
+  "p": 0.91
+ },
+ "television_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "throw_pillows_01": {
+  "several": true,
+  "p": 0.83
+ },
+ "tire_pump": {
+  "several": false,
+  "p": 0.05
+ },
+ "tongue_groove_pliers": {
+  "several": false,
+  "p": 0.03
+ },
+ "tool_cart": {
+  "several": false,
+  "p": 0.06
+ },
+ "trashbag": {
+  "several": false,
+  "p": 0.35
+ },
+ "treasure_chest": {
+  "several": false,
+  "p": 0.06
+ },
+ "tree_small_02": {
+  "several": false,
+  "p": 0.06
+ },
+ "tree_stump_01": {
+  "several": false,
+  "p": 0.32
+ },
+ "tree_stump_02": {
+  "several": false,
+  "p": 0.28
+ },
+ "trowel_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "utility_box_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "utility_box_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "vintage_binocular": {
+  "several": false,
+  "p": 0.05
+ },
+ "vintage_cabinet_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "vintage_crutches_01": {
+  "several": false,
+  "p": 0.45
+ },
+ "vintage_day_bed": {
+  "several": false,
+  "p": 0.31
+ },
+ "vintage_electric_kettle": {
+  "several": false,
+  "p": 0.03
+ },
+ "vintage_flashlight": {
+  "several": false,
+  "p": 0.04
+ },
+ "vintage_grandfather_clock_01": {
+  "several": false,
+  "p": 0.06
+ },
+ "vintage_hand_drill": {
+  "several": false,
+  "p": 0.06
+ },
+ "vintage_lighter": {
+  "several": false,
+  "p": 0.03
+ },
+ "vintage_microscope": {
+  "several": false,
+  "p": 0.05
+ },
+ "vintage_microwave": {
+  "several": false,
+  "p": 0.04
+ },
+ "vintage_oil_lamp": {
+  "several": false,
+  "p": 0.03
+ },
+ "vintage_pocket_watch": {
+  "several": false,
+  "p": 0.03
+ },
+ "vintage_radio_transceiver": {
+  "several": true,
+  "p": 0.68
+ },
+ "vintage_spacecraft_instrument": {
+  "several": false,
+  "p": 0.15
+ },
+ "vintage_stapler": {
+  "several": false,
+  "p": 0.03
+ },
+ "vintage_suitcase": {
+  "several": false,
+  "p": 0.07
+ },
+ "vintage_telephone_wall_clock": {
+  "several": false,
+  "p": 0.07
+ },
+ "vintage_video_camera": {
+  "several": false,
+  "p": 0.06
+ },
+ "vintage_wooden_drawer_01": {
+  "several": false,
+  "p": 0.08
+ },
+ "wall_clock": {
+  "several": false,
+  "p": 0.04
+ },
+ "water_manhole_cover": {
+  "several": false,
+  "p": 0.04
+ },
+ "watering_can_metal_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "weed_plant_02": {
+  "several": true,
+  "p": 0.82
+ },
+ "wheelchair_01": {
+  "several": false,
+  "p": 0.03
+ },
+ "wicker_basket_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "wicker_basket_02": {
+  "several": false,
+  "p": 0.07
+ },
+ "wild_rooibos_bush": {
+  "several": false,
+  "p": 0.29
+ },
+ "wine_barrel_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "wine_bottles_01": {
+  "several": true,
+  "p": 0.96
+ },
+ "wooden_axe": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_axe_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_axe_03": {
+  "several": false,
+  "p": 0.04
+ },
+ "wooden_barrels_01": {
+  "several": true,
+  "p": 0.82
+ },
+ "wooden_bookshelf_worn": {
+  "several": false,
+  "p": 0.1
+ },
+ "wooden_bowl_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "wooden_bowl_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "wooden_broom": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_bucket_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_bucket_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_candlestick": {
+  "several": false,
+  "p": 0.25
+ },
+ "wooden_crate_01": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_crate_02": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_cutting_board": {
+  "several": false,
+  "p": 0.05
+ },
+ "wooden_display_shelves_01": {
+  "several": false,
+  "p": 0.16
+ },
+ "wooden_hammer_01": {
+  "several": false,
+  "p": 0.04
+ },
+ "wooden_handle_saber": {
+  "several": false,
+  "p": 0.03
+ },
+ "wooden_ladder": {
+  "several": false,
+  "p": 0.06
+ },
+ "wooden_ladder_02": {
+  "several": false,
+  "p": 0.04
+ },
+ "wooden_lantern_01": {
+  "several": false,
+  "p": 0.07
+ },
+ "wooden_military_crate": {
+  "several": false,
+  "p": 0.04
+ },
+ "wooden_picnic_table": {
+  "several": false,
+  "p": 0.16
+ },
+ "wooden_spoon": {
+  "several": false,
+  "p": 0.02
+ },
+ "wooden_stool_01": {
+  "several": false,
+  "p": 0.02
+ },
+ "wooden_stool_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "wooden_table_02": {
+  "several": false,
+  "p": 0.03
+ },
+ "worn_metal_rack": {
+  "several": false,
+  "p": 0.11
+ },
+ "yellow_onion": {
+  "several": false,
+  "p": 0.03
+ }
+}

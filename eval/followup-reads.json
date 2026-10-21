@@ -1,0 +1,22 @@
+{
+  "about": "How Jev should read a follow-up line typed over results already on screen. narrows: whether it keeps only some of them by what they are or how they look. groupBy, when set: the grouping the line should leave, with none meaning it asks for no grouping.",
+  "lines": [
+    { "previous": "props to dress a kitchen", "text": "only the cookware", "narrows": true, "groupBy": "none" },
+    { "previous": "props to dress a kitchen", "text": "only pots and pans", "narrows": true, "groupBy": "none" },
+    { "previous": "props to dress a kitchen", "text": "just the food", "narrows": true, "groupBy": "none" },
+    { "previous": "props to dress a kitchen", "text": "only the wooden ones", "narrows": true },
+    { "previous": "all lamps", "text": "brass ones", "narrows": true },
+    { "previous": "all chairs", "text": "just the dining chairs", "narrows": true, "groupBy": "none" },
+    { "previous": "all chairs", "text": "with arms", "narrows": true },
+    { "previous": "props to dress a kitchen", "text": "group by material", "narrows": false, "groupBy": "material" },
+    { "previous": "props to dress a kitchen", "text": "group them by material", "narrows": false, "groupBy": "material" },
+    { "previous": "all chairs", "text": "grouped by colour", "narrows": false, "groupBy": "color" },
+    { "previous": "all lamps", "text": "one row per era", "narrows": false, "groupBy": "era" },
+    { "previous": "all chairs", "text": "newest first", "narrows": false },
+    { "previous": "all lamps", "text": "tallest first", "narrows": false },
+    { "previous": "all chairs", "text": "just the 3 smallest", "narrows": false },
+    { "previous": "props to dress a kitchen", "text": "approved, changed this month", "narrows": false },
+    { "previous": "props to dress a kitchen", "text": "only the hidden ones", "narrows": false },
+    { "previous": "props to dress a kitchen", "text": "line them up by size", "narrows": false }
+  ]
+}

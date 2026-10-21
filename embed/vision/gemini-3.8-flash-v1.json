@@ -1,0 +1,2086 @@
+{
+ "ArmChair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "BarberShopChair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Barrel_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Barrel_02": {
+  "objects": 1,
+  "several": false
+ },
+ "Camera_01": {
+  "objects": 1,
+  "several": false
+ },
+ "CashRegister_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Chandelier_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Chandelier_02": {
+  "objects": 1,
+  "several": false
+ },
+ "Chandelier_03": {
+  "objects": 1,
+  "several": false
+ },
+ "CheeseBox_01": {
+  "objects": 2,
+  "several": false
+ },
+ "ClassicConsole_01": {
+  "objects": 1,
+  "several": false
+ },
+ "ClassicNightstand_01": {
+  "objects": 1,
+  "several": false
+ },
+ "CoffeeCart_01": {
+  "objects": 15,
+  "several": true
+ },
+ "CoffeeTable_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Drill_01": {
+  "objects": 1,
+  "several": false
+ },
+ "GothicBed_01": {
+  "objects": 1,
+  "several": false
+ },
+ "GothicCabinet_01": {
+  "objects": 1,
+  "several": false
+ },
+ "GothicCommode_01": {
+  "objects": 1,
+  "several": false
+ },
+ "GreenChair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Lantern_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Megaphone_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Ottoman_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Rockingchair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "SchoolChair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "SchoolDesk_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Shelf_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Sofa_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Television_01": {
+  "objects": 1,
+  "several": false
+ },
+ "Ukulele_01": {
+  "objects": 1,
+  "several": false
+ },
+ "WetFloorSign_01": {
+  "objects": 1,
+  "several": false
+ },
+ "WoodenChair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "WoodenTable_01": {
+  "objects": 1,
+  "several": false
+ },
+ "WoodenTable_02": {
+  "objects": 1,
+  "several": false
+ },
+ "WoodenTable_03": {
+  "objects": 1,
+  "several": false
+ },
+ "adjustable_wrench": {
+  "objects": 1,
+  "several": false
+ },
+ "alarm_clock_01": {
+  "objects": 1,
+  "several": false
+ },
+ "all_purpose_cleaner": {
+  "objects": 1,
+  "several": false
+ },
+ "american_football": {
+  "objects": 1,
+  "several": false
+ },
+ "ammo_box": {
+  "objects": 1,
+  "several": false
+ },
+ "anthurium_botany_01": {
+  "objects": 4,
+  "several": true
+ },
+ "antique_ceramic_vase_01": {
+  "objects": 1,
+  "several": false
+ },
+ "antique_estoc": {
+  "objects": 1,
+  "several": false
+ },
+ "antique_katana_01": {
+  "objects": 1,
+  "several": false
+ },
+ "bananas": {
+  "objects": 5,
+  "several": true
+ },
+ "bar_chair_round_01": {
+  "objects": 1,
+  "several": false
+ },
+ "bark_debris_01": {
+  "objects": 4,
+  "several": true
+ },
+ "barrel_03": {
+  "objects": 1,
+  "several": false
+ },
+ "barrel_stove": {
+  "objects": 1,
+  "several": false
+ },
+ "baseball_01": {
+  "objects": 1,
+  "several": false
+ },
+ "baseball_bat": {
+  "objects": 1,
+  "several": false
+ },
+ "bench_vice_01": {
+  "objects": 1,
+  "several": false
+ },
+ "binder_notebook": {
+  "objects": 2,
+  "several": true
+ },
+ "binoculars": {
+  "objects": 1,
+  "several": false
+ },
+ "bleach_bottle": {
+  "objects": 1,
+  "several": false
+ },
+ "bolt_action_rifle_7_62": {
+  "objects": 2,
+  "several": true
+ },
+ "bolt_cutters_01": {
+  "objects": 1,
+  "several": false
+ },
+ "book_encyclopedia_set_01": {
+  "objects": 20,
+  "several": true
+ },
+ "boombox": {
+  "objects": 1,
+  "several": false
+ },
+ "boulder_01": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_blowtorch": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_candleholders": {
+  "objects": 3,
+  "several": true
+ },
+ "brass_diya_lantern": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_goblets": {
+  "objects": 3,
+  "several": true
+ },
+ "brass_pan_01": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_pot_01": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_pot_02": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_vase_01": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_vase_02": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_vase_03": {
+  "objects": 1,
+  "several": false
+ },
+ "brass_vase_04": {
+  "objects": 1,
+  "several": false
+ },
+ "bronze_ray_statue": {
+  "objects": 1,
+  "several": false
+ },
+ "bronze_shark_statue": {
+  "objects": 1,
+  "several": false
+ },
+ "bronze_whale_statue": {
+  "objects": 1,
+  "several": false
+ },
+ "bull_head": {
+  "objects": 1,
+  "several": false
+ },
+ "bunsen_burner": {
+  "objects": 2,
+  "several": true
+ },
+ "caged_hanging_light": {
+  "objects": 1,
+  "several": false
+ },
+ "calathea_orbifolia_01": {
+  "objects": 5,
+  "several": true
+ },
+ "can_rusted": {
+  "objects": 1,
+  "several": false
+ },
+ "cannon_01": {
+  "objects": 4,
+  "several": true
+ },
+ "cardboard_box_01": {
+  "objects": 1,
+  "several": false
+ },
+ "carrot_cake": {
+  "objects": 1,
+  "several": false
+ },
+ "carved_wooden_elephant": {
+  "objects": 1,
+  "several": false
+ },
+ "carved_wooden_plate": {
+  "objects": 1,
+  "several": false
+ },
+ "cassette_player": {
+  "objects": 1,
+  "several": false
+ },
+ "ceiling_fan": {
+  "objects": 1,
+  "several": false
+ },
+ "celandine_01": {
+  "objects": 1,
+  "several": false
+ },
+ "cement_bag": {
+  "objects": 1,
+  "several": false
+ },
+ "ceramic_pot": {
+  "objects": 1,
+  "several": false
+ },
+ "ceramic_vase_01": {
+  "objects": 1,
+  "several": false
+ },
+ "ceramic_vase_02": {
+  "objects": 1,
+  "several": false
+ },
+ "ceramic_vase_03": {
+  "objects": 1,
+  "several": false
+ },
+ "ceramic_vase_04": {
+  "objects": 1,
+  "several": false
+ },
+ "cheiridopsis_succulent": {
+  "objects": 9,
+  "several": true
+ },
+ "chemistry_set": {
+  "objects": 25,
+  "several": true
+ },
+ "chess_set": {
+  "objects": 33,
+  "several": true
+ },
+ "chinese_armchair": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_cabinet": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_chandelier": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_commode": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_console_table": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_screen_panels": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_sofa": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_stool": {
+  "objects": 1,
+  "several": false
+ },
+ "chinese_tea_table": {
+  "objects": 1,
+  "several": false
+ },
+ "cigarette_case": {
+  "objects": 2,
+  "several": true
+ },
+ "cigarette_pack": {
+  "objects": 1,
+  "several": false
+ },
+ "circuit_board": {
+  "objects": 1,
+  "several": false
+ },
+ "classic_laptop": {
+  "objects": 1,
+  "several": false
+ },
+ "cleaner_tin_01": {
+  "objects": 1,
+  "several": false
+ },
+ "clipboard": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_land_rocks_02": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_land_rocks_03": {
+  "objects": 7,
+  "several": true
+ },
+ "coast_land_rocks_04": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_line_01": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_line_02": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_rocks_01": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_rocks_02": {
+  "objects": 1,
+  "several": false
+ },
+ "coast_rocks_03": {
+  "objects": 30,
+  "several": true
+ },
+ "coast_rocks_05": {
+  "objects": 3,
+  "several": true
+ },
+ "coastal_cliff_01": {
+  "objects": 1,
+  "several": false
+ },
+ "coastal_cliff_02": {
+  "objects": 1,
+  "several": false
+ },
+ "coastal_cliff_04": {
+  "objects": 1,
+  "several": false
+ },
+ "coffee_table_round_01": {
+  "objects": 1,
+  "several": false
+ },
+ "combination_wrench": {
+  "objects": 1,
+  "several": false
+ },
+ "compost_bag_02": {
+  "objects": 1,
+  "several": false
+ },
+ "compost_bags": {
+  "objects": 4,
+  "several": true
+ },
+ "concrete_cat_statue": {
+  "objects": 1,
+  "several": false
+ },
+ "concrete_road_barrier": {
+  "objects": 1,
+  "several": false
+ },
+ "concrete_road_barrier_02": {
+  "objects": 1,
+  "several": false
+ },
+ "covered_car": {
+  "objects": 1,
+  "several": false
+ },
+ "croissant": {
+  "objects": 1,
+  "several": false
+ },
+ "cross_pein_hammer": {
+  "objects": 1,
+  "several": false
+ },
+ "crowbar_01": {
+  "objects": 1,
+  "several": false
+ },
+ "crystalline_iceplant": {
+  "objects": 8,
+  "several": true
+ },
+ "dandelion_01": {
+  "objects": 4,
+  "several": true
+ },
+ "dartboard": {
+  "objects": 1,
+  "several": false
+ },
+ "dead_quiver_branch_01": {
+  "objects": 1,
+  "several": false
+ },
+ "dead_quiver_branch_02": {
+  "objects": 1,
+  "several": false
+ },
+ "dead_quiver_trunk": {
+  "objects": 1,
+  "several": false
+ },
+ "dead_tree_trunk": {
+  "objects": 1,
+  "several": false
+ },
+ "dead_tree_trunk_02": {
+  "objects": 1,
+  "several": false
+ },
+ "decorative_book_set_01": {
+  "objects": 55,
+  "several": true
+ },
+ "desk_lamp_arm_01": {
+  "objects": 1,
+  "several": false
+ },
+ "didelta_spinosa": {
+  "objects": 3,
+  "several": true
+ },
+ "digital_wrist_watch": {
+  "objects": 1,
+  "several": false
+ },
+ "dining_chair_02": {
+  "objects": 1,
+  "several": false
+ },
+ "dining_table": {
+  "objects": 1,
+  "several": false
+ },
+ "dirty_football": {
+  "objects": 1,
+  "several": false
+ },
+ "drain_cleaner": {
+  "objects": 1,
+  "several": false
+ },
+ "drawer_cabinet": {
+  "objects": 1,
+  "several": false
+ },
+ "drill_press_01": {
+  "objects": 1,
+  "several": false
+ },
+ "dry_branches_medium_01": {
+  "objects": 3,
+  "several": true
+ },
+ "dry_quiver_leaf": {
+  "objects": 2,
+  "several": true
+ },
+ "dustpan": {
+  "objects": 1,
+  "several": false
+ },
+ "dutch_ship_large_01": {
+  "objects": 1,
+  "several": false
+ },
+ "dutch_ship_large_02": {
+  "objects": 1,
+  "several": false
+ },
+ "dutch_ship_medium": {
+  "objects": 1,
+  "several": false
+ },
+ "electric_stove": {
+  "objects": 1,
+  "several": false
+ },
+ "exterior_aircon_unit": {
+  "objects": 2,
+  "several": true
+ },
+ "fancy_picture_frame_01": {
+  "objects": 1,
+  "several": false
+ },
+ "fancy_picture_frame_02": {
+  "objects": 1,
+  "several": false
+ },
+ "fern_02": {
+  "objects": 4,
+  "several": true
+ },
+ "filmstrip_projector_8mm": {
+  "objects": 2,
+  "several": true
+ },
+ "fir_sapling": {
+  "objects": 3,
+  "several": true
+ },
+ "fir_sapling_medium": {
+  "objects": 3,
+  "several": true
+ },
+ "fir_tree_01": {
+  "objects": 3,
+  "several": true
+ },
+ "fire_alarm": {
+  "objects": 1,
+  "several": false
+ },
+ "fire_hydrant": {
+  "objects": 2,
+  "several": true
+ },
+ "fish_knife": {
+  "objects": 1,
+  "several": false
+ },
+ "fishermans_hat": {
+  "objects": 1,
+  "several": false
+ },
+ "flathead_screwdriver": {
+  "objects": 1,
+  "several": false
+ },
+ "flower_empodium": {
+  "objects": 5,
+  "several": true
+ },
+ "flower_gazania": {
+  "objects": 8,
+  "several": true
+ },
+ "flower_heliophila": {
+  "objects": 3,
+  "several": true
+ },
+ "flower_stinkkruid": {
+  "objects": 4,
+  "several": true
+ },
+ "flower_ursinia": {
+  "objects": 5,
+  "several": true
+ },
+ "folding_wooden_stool": {
+  "objects": 1,
+  "several": false
+ },
+ "food_apple_01": {
+  "objects": 1,
+  "several": false
+ },
+ "food_avocado_01": {
+  "objects": 1,
+  "several": false
+ },
+ "food_ginger_01": {
+  "objects": 1,
+  "several": false
+ },
+ "food_kiwi_01": {
+  "objects": 1,
+  "several": false
+ },
+ "food_lime_01": {
+  "objects": 1,
+  "several": false
+ },
+ "food_lychee_01": {
+  "objects": 1,
+  "several": false
+ },
+ "food_pears_asian_01": {
+  "objects": 5,
+  "several": true
+ },
+ "food_pomegranate_01": {
+  "objects": 1,
+  "several": false
+ },
+ "football": {
+  "objects": 2,
+  "several": true
+ },
+ "gallinera_chair": {
+  "objects": 1,
+  "several": false
+ },
+ "gallinera_table": {
+  "objects": 1,
+  "several": false
+ },
+ "gamepad": {
+  "objects": 1,
+  "several": false
+ },
+ "gaming_console": {
+  "objects": 1,
+  "several": false
+ },
+ "garden_gloves_01": {
+  "objects": 2,
+  "several": true
+ },
+ "garden_gnome": {
+  "objects": 1,
+  "several": false
+ },
+ "garden_hose_wall_mounted_01": {
+  "objects": 1,
+  "several": false
+ },
+ "garden_sprinkler_01": {
+  "objects": 1,
+  "several": false
+ },
+ "gate_latch_01": {
+  "objects": 1,
+  "several": false
+ },
+ "gothic_coffee_table": {
+  "objects": 1,
+  "several": false
+ },
+ "gothic_statue": {
+  "objects": 1,
+  "several": false
+ },
+ "grass_bermuda_01": {
+  "objects": 1,
+  "several": false
+ },
+ "grass_medium_01": {
+  "objects": 1,
+  "several": false
+ },
+ "grass_medium_02": {
+  "objects": 1,
+  "several": false
+ },
+ "hamburger_buns": {
+  "objects": 3,
+  "several": true
+ },
+ "hand_plane_no4": {
+  "objects": 1,
+  "several": false
+ },
+ "hand_truck": {
+  "objects": 1,
+  "several": false
+ },
+ "handsaw_wood": {
+  "objects": 1,
+  "several": false
+ },
+ "hanging_industrial_lamp": {
+  "objects": 1,
+  "several": false
+ },
+ "hanging_picture_frame_01": {
+  "objects": 1,
+  "several": false
+ },
+ "hanging_picture_frame_02": {
+  "objects": 1,
+  "several": false
+ },
+ "hanging_picture_frame_03": {
+  "objects": 1,
+  "several": false
+ },
+ "hatchet": {
+  "objects": 1,
+  "several": false
+ },
+ "horse_head": {
+  "objects": 1,
+  "several": false
+ },
+ "horse_statue_01": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_caged_sconce": {
+  "objects": 11,
+  "several": true
+ },
+ "industrial_coffee_table": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_microscope": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_pastic_container": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_pipe_lamp": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_storage_cart": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_wall_lamp": {
+  "objects": 1,
+  "several": false
+ },
+ "industrial_wall_sconce": {
+  "objects": 1,
+  "several": false
+ },
+ "island_tree_01": {
+  "objects": 1,
+  "several": false
+ },
+ "island_tree_02": {
+  "objects": 1,
+  "several": false
+ },
+ "island_tree_03": {
+  "objects": 1,
+  "several": false
+ },
+ "jacaranda_tree": {
+  "objects": 1,
+  "several": false
+ },
+ "jug_01": {
+  "objects": 1,
+  "several": false
+ },
+ "katana_stand_01": {
+  "objects": 1,
+  "several": false
+ },
+ "kite_shield": {
+  "objects": 1,
+  "several": false
+ },
+ "korean_fire_extinguisher_01": {
+  "objects": 1,
+  "several": false
+ },
+ "korean_public_payphone_01": {
+  "objects": 1,
+  "several": false
+ },
+ "ladder_sectioned_01": {
+  "objects": 1,
+  "several": false
+ },
+ "lambis_shell": {
+  "objects": 1,
+  "several": false
+ },
+ "lantern_chandelier_01": {
+  "objects": 1,
+  "several": false
+ },
+ "large_castle_door": {
+  "objects": 1,
+  "several": false
+ },
+ "large_iron_gate": {
+  "objects": 2,
+  "several": true
+ },
+ "lateral_sea_marker": {
+  "objects": 1,
+  "several": false
+ },
+ "leather_cleaner_can": {
+  "objects": 1,
+  "several": false
+ },
+ "leipoldtia_schultzei": {
+  "objects": 3,
+  "several": true
+ },
+ "lemon": {
+  "objects": 1,
+  "several": false
+ },
+ "life_jacket": {
+  "objects": 1,
+  "several": false
+ },
+ "lifebuoy": {
+  "objects": 1,
+  "several": false
+ },
+ "lightbulb_01": {
+  "objects": 1,
+  "several": false
+ },
+ "lightbulb_led": {
+  "objects": 1,
+  "several": false
+ },
+ "lion_head": {
+  "objects": 1,
+  "several": false
+ },
+ "long_life_food": {
+  "objects": 4,
+  "several": true
+ },
+ "lubricant_spray": {
+  "objects": 1,
+  "several": false
+ },
+ "machete": {
+  "objects": 1,
+  "several": false
+ },
+ "magnifying_glass_01": {
+  "objects": 1,
+  "several": false
+ },
+ "mantel_clock_01": {
+  "objects": 1,
+  "several": false
+ },
+ "marble_bust_01": {
+  "objects": 1,
+  "several": false
+ },
+ "measuring_tape_01": {
+  "objects": 1,
+  "several": false
+ },
+ "medical_box": {
+  "objects": 1,
+  "several": false
+ },
+ "medical_tape": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_detector": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_jerrycan": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_jerrycan_green": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_jug": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_office_desk": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_stool_01": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_stool_02": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_stool_03": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_tool_chest": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_toolbox": {
+  "objects": 1,
+  "several": false
+ },
+ "metal_trash_can": {
+  "objects": 4,
+  "several": true
+ },
+ "mid_century_lounge_chair": {
+  "objects": 1,
+  "several": false
+ },
+ "modern_arm_chair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "modern_ceiling_lamp_01": {
+  "objects": 1,
+  "several": false
+ },
+ "modern_coffee_table_01": {
+  "objects": 1,
+  "several": false
+ },
+ "modern_coffee_table_02": {
+  "objects": 1,
+  "several": false
+ },
+ "modern_wooden_cabinet": {
+  "objects": 1,
+  "several": false
+ },
+ "modified_thermos": {
+  "objects": 1,
+  "several": false
+ },
+ "modular_airduct_circular_01": {
+  "objects": 8,
+  "several": true
+ },
+ "modular_airduct_rectangular_01": {
+  "objects": 15,
+  "several": true
+ },
+ "modular_chainlink_fence": {
+  "objects": 9,
+  "several": true
+ },
+ "modular_electric_cables": {
+  "objects": 42,
+  "several": true
+ },
+ "modular_electricity_poles": {
+  "objects": 35,
+  "several": true
+ },
+ "modular_factory_facade": {
+  "objects": 60,
+  "several": true
+ },
+ "modular_fire_escape": {
+  "objects": 4,
+  "several": true
+ },
+ "modular_fort_01": {
+  "objects": 18,
+  "several": true
+ },
+ "modular_industrial_pipes_01": {
+  "objects": 8,
+  "several": true
+ },
+ "modular_metal_gutter": {
+  "objects": 12,
+  "several": true
+ },
+ "modular_pipes": {
+  "objects": 76,
+  "several": true
+ },
+ "modular_pipes_plastic_01": {
+  "objects": 16,
+  "several": true
+ },
+ "modular_street_seating": {
+  "objects": 13,
+  "several": true
+ },
+ "modular_urban_apartments_facade": {
+  "objects": 35,
+  "several": true
+ },
+ "modular_wooden_pier": {
+  "objects": 4,
+  "several": true
+ },
+ "moon_rock_01": {
+  "objects": 1,
+  "several": false
+ },
+ "moon_rock_02": {
+  "objects": 1,
+  "several": false
+ },
+ "moon_rock_03": {
+  "objects": 1,
+  "several": false
+ },
+ "moon_rock_04": {
+  "objects": 1,
+  "several": false
+ },
+ "moon_rock_05": {
+  "objects": 1,
+  "several": false
+ },
+ "moon_rock_06": {
+  "objects": 1,
+  "several": false
+ },
+ "moon_rock_07": {
+  "objects": 1,
+  "several": false
+ },
+ "moss_01": {
+  "objects": 1,
+  "several": false
+ },
+ "mountainside": {
+  "objects": 1,
+  "several": false
+ },
+ "mounted_fluorescent_lights": {
+  "objects": 8,
+  "several": true
+ },
+ "mousetrap": {
+  "objects": 1,
+  "several": false
+ },
+ "multi_cleaner_5_litre": {
+  "objects": 1,
+  "several": false
+ },
+ "multi_cleaner_bottle": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_boulder_02": {
+  "objects": 5,
+  "several": true
+ },
+ "namaqualand_boulder_03": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_boulder_04": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_boulder_05": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_boulder_06": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_boulders_01": {
+  "objects": 2,
+  "several": true
+ },
+ "namaqualand_cliff_01": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_cliff_02": {
+  "objects": 1,
+  "several": false
+ },
+ "namaqualand_rocks_01": {
+  "objects": 4,
+  "several": true
+ },
+ "namaqualand_stones_01": {
+  "objects": 5,
+  "several": true
+ },
+ "nettle_plant": {
+  "objects": 6,
+  "several": true
+ },
+ "ocean_buoy": {
+  "objects": 1,
+  "several": false
+ },
+ "office_notepads": {
+  "objects": 10,
+  "several": true
+ },
+ "oil_tin": {
+  "objects": 1,
+  "several": false
+ },
+ "old_bed_frame": {
+  "objects": 1,
+  "several": false
+ },
+ "old_drill_press": {
+  "objects": 1,
+  "several": false
+ },
+ "old_gas_mask": {
+  "objects": 1,
+  "several": false
+ },
+ "old_military_compressor": {
+  "objects": 1,
+  "several": false
+ },
+ "old_military_crate": {
+  "objects": 2,
+  "several": true
+ },
+ "old_tyre": {
+  "objects": 1,
+  "several": false
+ },
+ "ornate_medieval_dagger": {
+  "objects": 2,
+  "several": true
+ },
+ "ornate_medieval_mace": {
+  "objects": 1,
+  "several": false
+ },
+ "ornate_mirror_01": {
+  "objects": 1,
+  "several": false
+ },
+ "ornate_war_hammer": {
+  "objects": 1,
+  "several": false
+ },
+ "othonna_cerarioides": {
+  "objects": 7,
+  "several": true
+ },
+ "outdoor_table_chair_set_01": {
+  "objects": 3,
+  "several": true
+ },
+ "overhead_crane": {
+  "objects": 1,
+  "several": false
+ },
+ "pachira_aquatica_01": {
+  "objects": 4,
+  "several": true
+ },
+ "painted_wooden_bench": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_cabinet": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_cabinet_02": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_chair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_chair_02": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_nightstand": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_shelves": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_sofa": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_stool": {
+  "objects": 1,
+  "several": false
+ },
+ "painted_wooden_table": {
+  "objects": 1,
+  "several": false
+ },
+ "pastic_torch_6v": {
+  "objects": 1,
+  "several": false
+ },
+ "periwinkle_plant": {
+  "objects": 6,
+  "several": true
+ },
+ "picke_dirty_01": {
+  "objects": 1,
+  "several": false
+ },
+ "pine_roots": {
+  "objects": 2,
+  "several": true
+ },
+ "pine_sapling_medium": {
+  "objects": 3,
+  "several": true
+ },
+ "pine_sapling_small": {
+  "objects": 3,
+  "several": true
+ },
+ "pine_tree_01": {
+  "objects": 3,
+  "several": true
+ },
+ "pipe_wrench": {
+  "objects": 1,
+  "several": false
+ },
+ "planter_box_01": {
+  "objects": 1,
+  "several": false
+ },
+ "planter_box_02": {
+  "objects": 1,
+  "several": false
+ },
+ "planter_box_03": {
+  "objects": 1,
+  "several": false
+ },
+ "planter_pot_clay": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_bottle_gallon": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_broom": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_container": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_crate_01": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_crate_02": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_crate_03": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_jerrycan": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_monobloc_chair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "plastic_thermos": {
+  "objects": 1,
+  "several": false
+ },
+ "pliers": {
+  "objects": 1,
+  "several": false
+ },
+ "plunger": {
+  "objects": 1,
+  "several": false
+ },
+ "pocket_watch": {
+  "objects": 1,
+  "several": false
+ },
+ "portable_cassette_player": {
+  "objects": 2,
+  "several": true
+ },
+ "portable_generator": {
+  "objects": 1,
+  "several": false
+ },
+ "portable_searchlight": {
+  "objects": 1,
+  "several": false
+ },
+ "portable_welding_cart": {
+  "objects": 1,
+  "several": false
+ },
+ "postcard_set_01": {
+  "objects": 20,
+  "several": true
+ },
+ "pot_enamel_01": {
+  "objects": 1,
+  "several": false
+ },
+ "potted_plant_01": {
+  "objects": 1,
+  "several": false
+ },
+ "potted_plant_02": {
+  "objects": 1,
+  "several": false
+ },
+ "potted_plant_04": {
+  "objects": 1,
+  "several": false
+ },
+ "power_box_01": {
+  "objects": 1,
+  "several": false
+ },
+ "projector_screen": {
+  "objects": 1,
+  "several": false
+ },
+ "propane_tank": {
+  "objects": 1,
+  "several": false
+ },
+ "propane_torch": {
+  "objects": 1,
+  "several": false
+ },
+ "propane_torch_02": {
+  "objects": 1,
+  "several": false
+ },
+ "pull_chain_light_socket": {
+  "objects": 1,
+  "several": false
+ },
+ "quiver_tree_01": {
+  "objects": 1,
+  "several": false
+ },
+ "quiver_tree_02": {
+  "objects": 1,
+  "several": false
+ },
+ "ratchet_wrench": {
+  "objects": 1,
+  "several": false
+ },
+ "retro_multimeter": {
+  "objects": 1,
+  "several": false
+ },
+ "rock_07": {
+  "objects": 1,
+  "several": false
+ },
+ "rock_09": {
+  "objects": 1,
+  "several": false
+ },
+ "rock_face_01": {
+  "objects": 1,
+  "several": false
+ },
+ "rock_face_02": {
+  "objects": 1,
+  "several": false
+ },
+ "rock_moss_set_01": {
+  "objects": 6,
+  "several": true
+ },
+ "rock_moss_set_02": {
+  "objects": 7,
+  "several": true
+ },
+ "rollershutter_door": {
+  "objects": 2,
+  "several": true
+ },
+ "rollershutter_window_01": {
+  "objects": 2,
+  "several": true
+ },
+ "rollershutter_window_02": {
+  "objects": 2,
+  "several": true
+ },
+ "rollershutter_window_03": {
+  "objects": 2,
+  "several": true
+ },
+ "root_cluster_01": {
+  "objects": 1,
+  "several": false
+ },
+ "root_cluster_02": {
+  "objects": 8,
+  "several": true
+ },
+ "round_spectacles": {
+  "objects": 1,
+  "several": false
+ },
+ "round_wooden_table_01": {
+  "objects": 1,
+  "several": false
+ },
+ "round_wooden_table_02": {
+  "objects": 1,
+  "several": false
+ },
+ "rubber_boots": {
+  "objects": 4,
+  "several": true
+ },
+ "rubber_duck_toy": {
+  "objects": 1,
+  "several": false
+ },
+ "russian_food_cans_01": {
+  "objects": 3,
+  "several": true
+ },
+ "rusted_hacksaw": {
+  "objects": 1,
+  "several": false
+ },
+ "rusted_spade_01": {
+  "objects": 1,
+  "several": false
+ },
+ "rusted_wheel_rim_01": {
+  "objects": 1,
+  "several": false
+ },
+ "rusted_wheel_rim_02": {
+  "objects": 1,
+  "several": false
+ },
+ "sand_rocks_small_01": {
+  "objects": 25,
+  "several": true
+ },
+ "scandinavian_masonry_heater": {
+  "objects": 1,
+  "several": false
+ },
+ "screwdriver": {
+  "objects": 1,
+  "several": false
+ },
+ "screwdrivers_02": {
+  "objects": 2,
+  "several": true
+ },
+ "seadogs_compass": {
+  "objects": 1,
+  "several": false
+ },
+ "searsia_burchellii": {
+  "objects": 3,
+  "several": true
+ },
+ "searsia_lucida": {
+  "objects": 7,
+  "several": true
+ },
+ "security_camera_01": {
+  "objects": 1,
+  "several": false
+ },
+ "security_camera_02": {
+  "objects": 1,
+  "several": false
+ },
+ "security_light": {
+  "objects": 1,
+  "several": false
+ },
+ "seeding_tray_01": {
+  "objects": 1,
+  "several": false
+ },
+ "service_pistol": {
+  "objects": 5,
+  "several": true
+ },
+ "ship_pinnace": {
+  "objects": 1,
+  "several": false
+ },
+ "shrub_01": {
+  "objects": 6,
+  "several": true
+ },
+ "shrub_02": {
+  "objects": 4,
+  "several": true
+ },
+ "shrub_03": {
+  "objects": 4,
+  "several": true
+ },
+ "shrub_04": {
+  "objects": 4,
+  "several": true
+ },
+ "shrub_sorrel_01": {
+  "objects": 9,
+  "several": true
+ },
+ "side_table_01": {
+  "objects": 1,
+  "several": false
+ },
+ "side_table_tall_01": {
+  "objects": 1,
+  "several": false
+ },
+ "signal_flashlight": {
+  "objects": 1,
+  "several": false
+ },
+ "single_root": {
+  "objects": 1,
+  "several": false
+ },
+ "sledgehammer_01": {
+  "objects": 1,
+  "several": false
+ },
+ "small_lpg_tank": {
+  "objects": 1,
+  "several": false
+ },
+ "small_oil_can_01": {
+  "objects": 1,
+  "several": false
+ },
+ "small_plastic_torch": {
+  "objects": 1,
+  "several": false
+ },
+ "small_wooden_table_01": {
+  "objects": 1,
+  "several": false
+ },
+ "sofa_02": {
+  "objects": 1,
+  "several": false
+ },
+ "sofa_03": {
+  "objects": 1,
+  "several": false
+ },
+ "spinning_wheel_01": {
+  "objects": 1,
+  "several": false
+ },
+ "spray_paint_bottles": {
+  "objects": 2,
+  "several": true
+ },
+ "spray_paint_bottles_02": {
+  "objects": 2,
+  "several": true
+ },
+ "standing_chalkboard_01": {
+  "objects": 1,
+  "several": false
+ },
+ "standing_picture_frame_01": {
+  "objects": 1,
+  "several": false
+ },
+ "standing_picture_frame_02": {
+  "objects": 1,
+  "several": false
+ },
+ "stationery_supplies": {
+  "objects": 9,
+  "several": true
+ },
+ "steel_frame_shelves_01": {
+  "objects": 1,
+  "several": false
+ },
+ "steel_frame_shelves_02": {
+  "objects": 1,
+  "several": false
+ },
+ "steel_frame_shelves_03": {
+  "objects": 1,
+  "several": false
+ },
+ "stick_grenade": {
+  "objects": 1,
+  "several": false
+ },
+ "stone_01": {
+  "objects": 1,
+  "several": false
+ },
+ "stone_fire_pit": {
+  "objects": 1,
+  "several": false
+ },
+ "strawberry_chocolate_cake": {
+  "objects": 1,
+  "several": false
+ },
+ "street_lamp_01": {
+  "objects": 1,
+  "several": false
+ },
+ "street_lamp_02": {
+  "objects": 1,
+  "several": false
+ },
+ "street_rat": {
+  "objects": 1,
+  "several": false
+ },
+ "sungka_board": {
+  "objects": 1,
+  "several": false
+ },
+ "sungka_board_02": {
+  "objects": 50,
+  "several": true
+ },
+ "sweet_potato": {
+  "objects": 1,
+  "several": false
+ },
+ "tea_set_01": {
+  "objects": 8,
+  "several": true
+ },
+ "television_02": {
+  "objects": 1,
+  "several": false
+ },
+ "throw_pillows_01": {
+  "objects": 2,
+  "several": true
+ },
+ "tire_pump": {
+  "objects": 1,
+  "several": false
+ },
+ "tongue_groove_pliers": {
+  "objects": 1,
+  "several": false
+ },
+ "tool_cart": {
+  "objects": 1,
+  "several": false
+ },
+ "trashbag": {
+  "objects": 1,
+  "several": false
+ },
+ "treasure_chest": {
+  "objects": 1,
+  "several": false
+ },
+ "tree_small_02": {
+  "objects": 1,
+  "several": false
+ },
+ "tree_stump_01": {
+  "objects": 1,
+  "several": false
+ },
+ "tree_stump_02": {
+  "objects": 1,
+  "several": false
+ },
+ "trowel_01": {
+  "objects": 1,
+  "several": false
+ },
+ "utility_box_01": {
+  "objects": 1,
+  "several": false
+ },
+ "utility_box_02": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_binocular": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_cabinet_01": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_crutches_01": {
+  "objects": 2,
+  "several": true
+ },
+ "vintage_day_bed": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_electric_kettle": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_flashlight": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_grandfather_clock_01": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_hand_drill": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_lighter": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_microscope": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_microwave": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_oil_lamp": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_pocket_watch": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_radio_transceiver": {
+  "objects": 5,
+  "several": true
+ },
+ "vintage_spacecraft_instrument": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_stapler": {
+  "objects": 3,
+  "several": true
+ },
+ "vintage_suitcase": {
+  "objects": 2,
+  "several": true
+ },
+ "vintage_telephone_wall_clock": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_video_camera": {
+  "objects": 1,
+  "several": false
+ },
+ "vintage_wooden_drawer_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wall_clock": {
+  "objects": 1,
+  "several": false
+ },
+ "water_manhole_cover": {
+  "objects": 1,
+  "several": false
+ },
+ "watering_can_metal_01": {
+  "objects": 1,
+  "several": false
+ },
+ "weed_plant_02": {
+  "objects": 5,
+  "several": true
+ },
+ "wheelchair_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wicker_basket_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wicker_basket_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wild_rooibos_bush": {
+  "objects": 5,
+  "several": true
+ },
+ "wine_barrel_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wine_bottles_01": {
+  "objects": 4,
+  "several": true
+ },
+ "wooden_axe": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_axe_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_axe_03": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_barrels_01": {
+  "objects": 19,
+  "several": true
+ },
+ "wooden_bookshelf_worn": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_bowl_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_bowl_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_broom": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_bucket_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_bucket_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_candlestick": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_crate_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_crate_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_cutting_board": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_display_shelves_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_hammer_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_handle_saber": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_ladder": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_ladder_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_lantern_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_military_crate": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_picnic_table": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_spoon": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_stool_01": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_stool_02": {
+  "objects": 1,
+  "several": false
+ },
+ "wooden_table_02": {
+  "objects": 1,
+  "several": false
+ },
+ "worn_metal_rack": {
+  "objects": 1,
+  "several": false
+ },
+ "yellow_onion": {
+  "objects": 1,
+  "several": false
+ }
+}

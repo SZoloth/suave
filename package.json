@@ -1,0 +1,44 @@
+{
+  "name": "suave",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:app": "vite",
+    "build": "tsc -b && vite build",
+    "build:public": "VITE_PUBLIC_DEMO=1 VITE_BROWSER_RETRIEVAL=1 npm run build && node deploy/copy-index.mjs",
+    "deploy": "npm run build:public && npx -y wrangler@4 pages deploy --branch main",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "test": "node --test --test-timeout=30000 src/*.test.ts src/retrieval/*.test.ts server/*.test.ts",
+    "embed:setup": "cd embed && uv venv -q .venv --python 3.12 && uv pip install -q --python .venv/bin/python sentence-transformers transformers torch torchvision pillow numpy requests wordfreq",
+    "embed:index": "cd embed && .venv/bin/python build_index.py && .venv/bin/python enrich.py && node grouped.mjs && .venv/bin/python sample_fields.py && .venv/bin/python sample_collections.py",
+    "embed:enrich": "cd embed && .venv/bin/python enrich.py",
+    "embed:grouped": "node embed/grouped.mjs",
+    "embed:sample": "cd embed && .venv/bin/python sample_fields.py && .venv/bin/python sample_collections.py",
+    "embed:serve": "cd embed && .venv/bin/python -u server.py"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@huggingface/transformers": "^4.3.1",
+    "@openuidev/lang-core": "^1.0.1",
+    "@openuidev/react-lang": "^1.0.1",
+    "@typesafe-ai/sdk": "^0.6.0",
+    "lucide-react": "^1.56.0",
+    "motion": "^14.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.0"
+  }
+}

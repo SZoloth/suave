@@ -1,0 +1,508 @@
+{
+ "participants": [
+  {
+   "id": "P1",
+   "blocks": [
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      },
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      },
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      }
+     ]
+    },
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      },
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      },
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "blocks": [
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      },
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      },
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      }
+     ]
+    },
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      },
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      },
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "blocks": [
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      },
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      }
+     ]
+    },
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      },
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "blocks": [
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      },
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      }
+     ]
+    },
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      },
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "blocks": [
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      },
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      }
+     ]
+    },
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      },
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "blocks": [
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      },
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      }
+     ]
+    },
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      },
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "blocks": [
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      },
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      },
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      },
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      }
+     ]
+    },
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      },
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      },
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      },
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P8",
+   "blocks": [
+    {
+     "arm": "plain",
+     "tasks": [
+      {
+       "id": "T11",
+       "scenario": "The director likes the garden gnome but wants another small statue in the same spirit. Find one."
+      },
+      {
+       "id": "T08",
+       "scenario": "Dress a medieval tavern table for a feast. Gather at least three props that belong on it."
+      },
+      {
+       "id": "T07",
+       "scenario": "A storeroom needs a pile of moon rocks. Pick the rock that would read best as the hero piece."
+      },
+      {
+       "id": "T05",
+       "scenario": "Pick one chandelier for a grand hallway out of everything the library has."
+      },
+      {
+       "id": "T03",
+       "scenario": "A shot puts the bronze whale statue on a desk. Check whether it's desk-sized or room-sized before you hand it off."
+      },
+      {
+       "id": "T01",
+       "scenario": "The set dresser can't decide between the two wooden barrels for the tavern cellar. Put them side by side and pick the one you'd send back."
+      }
+     ]
+    },
+    {
+     "arm": "routed",
+     "tasks": [
+      {
+       "id": "T12",
+       "scenario": "Find another hanging light that looks like the caged hanging light, for the other end of the same corridor."
+      },
+      {
+       "id": "T10",
+       "scenario": "Build a rocky coastline at low tide. Gather at least three rock or cliff pieces that go together."
+      },
+      {
+       "id": "T09",
+       "scenario": "Fill a cluttered garage workshop. Gather at least three tools or fixtures for the workbench."
+      },
+      {
+       "id": "T06",
+       "scenario": "You need one dining chair for a family kitchen. Look across the chairs and pick the best fit."
+      },
+      {
+       "id": "T04",
+       "scenario": "Find a ladder a character could climb to reach a high shelf, and confirm it's tall enough next to a person."
+      },
+      {
+       "id": "T02",
+       "scenario": "Layout wants either the Chinese armchair or the barber shop chair for a waiting room. Look at both together and choose."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
